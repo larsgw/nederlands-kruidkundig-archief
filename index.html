@@ -14,24 +14,6 @@
 
     <blockquote>Willighagen, L. G. (2023) Biodiversity data from the <i>Nederlands Kruidkundig Archief</i>. https://larsgw.github.io/nederlands-kruidkundig-archief/.</blockquote>
 
-    <h2>Goethart &amp; Jongmans notation</h2>
-    <p>As I could not find an online source documenting this notation, I thought I would describe it here. A location look like "R 4. 18. 22" and have 4 components, "R 4.", "18.", "2", and "2":</p>
-
-    <ul>
-      <li><b>R 4.</b> indicates the row ("R") and column ("4") in grid covering the Netherlands. This grid is derived from the <i>Militaire Stafkaart</i>, specifically the 1:50 000 edition. The rows of the grid are labeled G to V (skipping vowels, so GHJKLMNPQRSTV). The columns are labeled 1 to 8, where columns 1 and 8 are half as wide as the rest.</li>
-      <li>These grid cells are then further divided into 6&times;8 sub-grids. The second component of the location signifies which cell in the sub-grid the location is in. <b>18.</b> thus means 1 down and 8 across. These cells are called "uurhokken" or hour cells, because walking along one side (5 km) takes approximately an hour.</li>
-      <li>The hour cells are then divided into half-hour cells, a 2&times;2 sub-sub-grid. This grid is indexed 1 to 4, with 1 meaning top left, 2 top right, 3 bottom left, and 4 bottom right. <b>2</b> thus means the top right quarter.</li>
-      <li>The half-hour cells are then further divided into quarter-hour cells, again a 2&times;2 sub-sub-sub-grid. It is indexed in the same way, so <b>2</b> again means the top right corner.</li>
-    </ul>
-
-    <blockquote>
-      Goethart, J. W. C., &amp; Jongmans, W. J. (1902). Planten-kaartjes voor Nederland (Vol. 1–25). E.J. Brill.
-    </blockquote>
-
-    <p>The <i>Militaire Stafkaart</i> uses <i>Rijksdriehoekscoördinaten</i> as a coordinate system. These coordinates correspond directly to meters, so it is easy to tell the grid cells of the top-level grid are exactly 40 km wide (except the leftmost and rightmost columns) and 25 km tall; that the leftmost cells start at 0 km; and that the lowest cells start at 300 km. (This because the coordinate system was designed so that the y coordinate would always be higher than the x coordinate).</p>
-
-    <p>This knowledge makes it possible to convert the location notation to <i>Rijksdriehoekscoördinaten</i> coordinates, which can then be converted to regular WGS 84 coordinates using EPSG data.</p>
-
     <h2>Data</h2>
     <ul>
       <li>
@@ -286,8 +268,30 @@
           </ul>
         </details>
 
-        <p>For the plants with locations: <a href="view.html?tilburg-1910&amp;tilburg-1910-routes">Map &amp; data</a></p>
+        <p>For the plants with locations: <a href="view.html?tilburg-1910&amp;tilburg-1910-routes">Map</a> &amp; <a href="data/tilburg-1910.json">data</a></p>
       </li>
     </ul>
+
+    <h2>Goethart &amp; Jongmans notation</h2>
+    <p>As I could not find an online source documenting this notation, I thought I would describe it here. A location look like "R 4. 18. 22" and have 4 components, "R 4.", "18.", "2", and "2":</p>
+
+    <ul>
+      <li><b>R 4.</b> indicates the row ("R") and column ("4") in grid covering the Netherlands. This grid is derived from the <i>Militaire Stafkaart</i>, specifically the 1:50 000 edition. The rows of the grid are labeled G to V (skipping vowels, so GHJKLMNPQRSTV). The columns are labeled 1 to 8, where columns 1 and 8 are half as wide as the rest.</li>
+      <li>These grid cells are then further divided into 6&times;8 sub-grids. The second component of the location signifies which cell in the sub-grid the location is in. <b>18.</b> thus means 1 down and 8 across. These cells are called "uurhokken" or hour cells, because walking along one side (5 km) takes approximately an hour.</li>
+      <li>The hour cells are then divided into half-hour cells, a 2&times;2 sub-sub-grid. This grid is indexed 1 to 4, with 1 meaning top left, 2 top right, 3 bottom left, and 4 bottom right. <b>2</b> thus means the top right quarter.</li>
+      <li>The half-hour cells are then further divided into quarter-hour cells, again a 2&times;2 sub-sub-sub-grid. It is indexed in the same way, so <b>2</b> again means the top right corner.</li>
+    </ul>
+
+    <blockquote>
+      Goethart, J. W. C., &amp; Jongmans, W. J. (1902). Planten-kaartjes voor Nederland (Vol. 1–25). E.J. Brill.
+    </blockquote>
+
+    <p>
+      <img src="example.png" alt="Schematic, visual representation of the explanation above." />
+    </p>
+
+    <p>The <i>Militaire Stafkaart</i> uses <i>Rijksdriehoekscoördinaten</i> as a coordinate system. These coordinates correspond directly to meters, so it is easy to tell the grid cells of the top-level grid are exactly 40 km wide (except the leftmost and rightmost columns) and 25 km tall; that the leftmost cells start at 0 km; and that the lowest cells start at 300 km. (This because the coordinate system was designed so that the y coordinate would always be higher than the x coordinate).</p>
+
+    <p>This knowledge makes it possible to convert the location notation to <i>Rijksdriehoekscoördinaten</i> coordinates, which can then be converted to regular WGS 84 coordinates using EPSG data.</p>
   </body>
 </html>
