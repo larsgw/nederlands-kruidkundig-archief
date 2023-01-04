@@ -1,0 +1,124 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1910-05-14",
+        "label": "May 14th 1910: Tilburg - de Baars - Galgeven - Koningshoeven - Abkoven - Tilburg"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [5.084953561186011, 51.556319612054246],
+          [5.125775157239522, 51.55321661771662],
+          [5.15305875590888, 51.55388362313183],
+          [5.11534814253802, 51.547204127954174],
+          [5.081329414296249, 51.526921396922695],
+          [5.084953561186011, 51.556319612054246]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1910-05-15",
+        "label": "May 15th 1910: Boxtel - Roond - Kasteel Nemerlaer - Oisterwijk"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [5.318877555466193, 51.58512348561763],
+          [5.290831244528197, 51.57913395253327],
+          [5.231873115133563, 51.589342219202],
+          [5.194604230401539, 51.580606496951525]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1910-07-17",
+        "label": "July 17th 1910: Oisterwijk - Hondsberg - Kolkven - Belversven - Gemulle Hoeken - Oisterwijk"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [5.194604230401539, 51.580606496951525],
+          [5.190855685782054, 51.56557399437546],
+          [5.204705294603172, 51.557439460040804],
+          [5.246207109434475, 51.573000045562914],
+          [5.215970014829638, 51.576778548702116],
+          [5.194604230401539, 51.580606496951525]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1910-07-18",
+        "label": "July 18th 1910: Moergestel - Allemansche Ven - Hildsche Ven - Het Broek - Broekzijde - Vinkenberg - Moergestel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [5.182608011584794, 51.54461301086159],
+          [5.204576323368763, 51.54841124709358],
+          [5.20249051841453, 51.53791913608027],
+          [5.2014970327127275, 51.52586060859648],
+          [5.180420620215117, 51.52000229165518],
+          [5.177268758677968, 51.53174626673771],
+          [5.182608011584794, 51.54461301086159]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1910-07-19",
+        "label": "July 19th 1910: station Rijen - stroomgebeid der Donge - de Kievit - Tilburg"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.92393524510326, 51.58408560080321],
+          [4.972993194865464, 51.58511196212316],
+          [4.996766296398351, 51.5840346599759],
+          [5.084953561186011, 51.556319612054246]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1910-07-20",
+        "label": "July 20th 1910: Tilburg - de Blaak - Riel - Goirle"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [5.084953561186011, 51.556319612054246],
+          [5.040739881187025, 51.54568796948222],
+          [5.023287658307894, 51.52452849910113],
+          [5.06736519854177, 51.520137957944776]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1910-07-21",
+        "label": "July 21th 1910: Tilburg - Galgeven - Enschot - Tilburg"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [5.084953561186011, 51.556319612054246],
+          [5.15305875590888, 51.55388362313183],
+          [5.137357057930788, 51.57622417463845],
+          [5.084953561186011, 51.556319612054246]
+        ]
+      }
+    }
+  ]
+}

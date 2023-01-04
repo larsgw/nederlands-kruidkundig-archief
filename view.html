@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge, chrome=1" />
+    <title>Biodiversity data from the Nederlands Kruidkundig Archief</title>
+    <style>body { margin: 0; }</style>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+      integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+      crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+      integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+      crossorigin=""></script>
+  </head>
+  <body>
+    <div id="map" style="width: 100vw; height: 100vh;"></div>
+    <script>
+      function display (layers) {
+        var map = new L.Map('map').setView([51.56, 5.1], 12)
+        L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+          maxZoom: 19,
+          attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(map)
+
+        for (var i = 0; i < layers.length; i++) {
+          L.geoJSON(layers[i], {
+            onEachFeature: function (feature, layer) {
+              layer.bindPopup(feature.properties.label)
+            },
+            pointToLayer: function (feature, coords) {
+              return L.circle(coords, {
+                color: 'red',
+                fillColor: '#f00',
+                fillOpacity: 0.05 * feature.properties.label.split('<br>').length,
+                radius: 500
+              })
+            }
+          }).addTo(map)
+        }
+      }
+      var layers = window.location.search.slice(1).split('&')
+      for (var i = 0; i < layers.length; i++) {
+        layers[i] = fetch('data/' + layers[i] + '.json').then(function (response) {
+          return response.json()
+        })
+      }
+      Promise.all(layers).then(display)
+    </script>
+  </body>
+</html>

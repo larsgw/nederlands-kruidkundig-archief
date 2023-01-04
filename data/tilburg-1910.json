@@ -1,0 +1,1006 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.182399273287604,
+          51.51911736710796
+        ]
+      },
+      "properties": {
+        "label": "<b>R 5. 21. 33</b><br><i>Thalictrum flavum</i> L.<br><i>Nasturtium officinale</i> R. Br.<br><i>Nasturtium amphibium</i> R. Br.<br><i>Hypericum tetrapterum</i> Fr.<br><i>Prunus spinosa</i> L.<br><i>Geum urbanum</i> L.<br><i>Potentilla procumbens</i> Sibth.<br><i>Epilobium parviflorum</i> Schreb.<br><i>Epilobium montanum</i> L.<br><i>Torilis Anthriscus</i> Gm.<br><i>Chaerophyllum temulum</i> L.<br><i>Veronica scutellata</i> L.<br><i>Stachys palustris</i> L.<br><i>Stachys palustris</i> L.<br><i>Stratiotes aloides</i> L.<br><i>Scirpus sylvaticus</i> L.<br><i>Carex Pseudocyperus</i> L.<br><i>Aira caespitosa</i> L.<br><i>Polystichum Thelypteris</i> Sw."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.200369625678915,
+          51.52851118166674
+        ]
+      },
+      "properties": {
+        "label": "<b>R 5. 21. 32</b><br><i>Thalictrum flavum</i> L.<br><i>Drosera longifolia</i> Hayne<br><i>Radiola linoides</i> Gm.<br><i>Hypericum tetrapterum</i> Fr.<br><i>Geranium Robertianum</i> L.<br><i>Prunus petraea</i> Tausch<br><i>Rubus Idaeus</i> L.<br><i>Potentilla procumbens</i> Sibth.<br><i>Peplis Portula</i> L.<br><i>Myosotis caespitosa</i> Schltz.<br><i>Galeopsis bifida</i> Bonn.<br><i>Scutellaria minor</i> L.<br><i>Anagallis tenella</i> L.<br><i>Stratiotes aloides</i> L.<br><i>Alisma ranunculoides</i> L.<br><i>Platanthera bifolia</i> Rchb.<br><i>Epipactis palustris</i> Cr.<br><i>Malaxis paludosa</i> Sw.<br><i>Scirpus setaceus</i> L.<br><i>Eriophorum latifolium</i> Hoppe<br><i>Carex pulicaris</i> L.<br><i>Carex echinata</i> Murr.<br><i>Carex canescens</i> L.<br><i>Carex flava</i> L.<br><i>Carex Pseudocyperus</i> L.<br><i>Aira caespitosa</i> L.<br><i>Polystichum Thelypteris</i> Sw."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.146178968870166,
+          51.556499904213936
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 18. 43</b><br><i>Thalictrum flavum</i> L.<br><i>Nasturtium amphibium</i> R. Br.<br><i>Spergula Morisonii</i> Bor.<br><i>Erodium pimpinellifolium</i> Willd.<br><i>Rhamnus cathartica</i> L.<br><i>Potentilla reptans</i> L.<br><i>Cirsium anglicum</i> Lam.<br><i>Lobelia Dortmanna</i> L.<br><i>Veronica serpyllifolia</i> L.<br><i>Veronica serpyllifolia</i> L.<br><i>Thymus Serpyllum</i> L.<br><i>Stratiotes aloides</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0922292558725895,
+          51.53764826616054
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 27. 24</b><br><i>Thalictrum flavum</i> L.<br><i>Batrachium heterophyllum</i> Wgg.<br><i>Ranunculus bulbosus</i> L.<br><i>Nasturtium amphibium</i> R. Br.<br><i>Prunus Padus</i> L.<br><i>Viburnum Opulus</i> L.<br><i>Crepis biennis</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.092290716031012,
+          51.52828522600448
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 27. 42</b><br><i>Thalictrum flavum</i> L.<br><i>Anemone nemorosa</i> L.<br><i>Ficaria ranunculoides</i> Mnch.<br><i>Prunus Cerasus</i> L.<br><i>Prunus Padus</i> L.<br><i>Ribes nigrum</i> L.<br><i>Viburnum Opulus</i> L.<br><i>Crepis biennis</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.272252162857351,
+          51.59414800455172
+        ]
+      },
+      "properties": {
+        "label": "<b>Q 5. 62. 34</b><br><i>Anemone nemorosa</i> L.<br><i>Ranunculus bulbosus</i> L.<br><i>Ficaria ranunculoides</i> Mnch.<br><i>Prunus Cerasus</i> L.<br><i>Petastes officinalis</i> Mnch.<br><i>Pteris aquilina</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.290291525336605,
+          51.59416486319219
+        ]
+      },
+      "properties": {
+        "label": "<b>Q 5. 62. 43</b><br><i>Anemone nemorosa</i> L.<br><i>Batrachium ololeucos</i> Llyd.<br><i>Ranunculus bulbosus</i> L.<br><i>Cardamine sylvatica</i> Lk.<br><i>Holosteum umbellatum</i> L.<br><i>Erodium cicutarium</i> Her.<br><i>Crataegus Oxyacantha</i> L.<br><i>Veronica serpyllifolia</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.02023891725707,
+          51.52807903731859
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 26. 42</b><br><i>Anemone nemorosa</i> L.<br><i>Papaver dubium</i> L.<br><i>Fumaria officinalis</i> L.<br><i>Radiola linoides</i> Gm.<br><i>Hypericum pulchrum</i> L.<br><i>Epilobium angustifolium</i> L.<br><i>Epilobium montanum</i> L.<br><i>Callitriche verna</i> L.<br><i>Erigeron canadensis</i> L.<br><i>Filago minima</i> L.<br><i>Gnaphalium sylvaticum</i> L.<br><i>Euphrasia Odontites</i> L.<br><i>Antirrhinum Orontium</i> L.<br><i>Corylus Avellana</i> L.<br><i>Calamagrostis lanceolata</i> Roth.<br><i>Festuca arundinacea</i> Schreb."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.218169765364001,
+          51.58471766540666
+        ]
+      },
+      "properties": {
+        "label": "<b>R 5. 11. 21</b><br><i>Anemone nemorosa</i> L.<br><i>Ranunculus bulbosus</i> L.<br><i>Draba verna</i> L.<br><i>Stellaria uliginosa</i> Murr.<br><i>Erodium cicutarium</i> Her.<br><i>Prunus Padus</i> L.<br><i>Fragaria vesca</i> L.<br><i>Hedera Helix</i> L.<br><i>Viburnum Opulus</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.290312214734183,
+          51.58480177476209
+        ]
+      },
+      "properties": {
+        "label": "<b>R 5. 12. 21</b><br><i>Anemone nemorosa</i> L.<br><i>Batrachium heterophyllum</i> Wgg.<br><i>Ranunculus bulbosus</i> L.<br><i>Ficaria ranunculoides</i> Mnch.<br><i>Stellaria uliginosa</i> Murr.<br><i>Prunus Padus</i> L.<br><i>Sanguisorba officinalis</i> L.<br><i>Scleranthus perennis</i> L.<br><i>Galium Mollugo</i> L.<br><i>Carpinus Betulus</i> L.<br><i>Elodea canadensis</i> Rich."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.308347868889109,
+          51.584815846711685
+        ]
+      },
+      "properties": {
+        "label": "<b>R 5. 12. 22</b><br><i>Anemone nemorosa</i> L.<br><i>Batrachium heterophyllum</i> Wgg.<br><i>Ficaria ranunculoides</i> Mnch.<br><i>Sisymbrium Thalianum</i> Gaudint<br><i>Geranium Robertianum</i> L.<br><i>Erodium cicutarium</i> Her.<br><i>Prunus Padus</i> L.<br><i>Myriophyllum verticillatum</i> L.<br><i>Saxifraga granulata</i> L.<br><i>Lemna trisulca</i> L.<br><i>Majanthemum bifolium</i> DC."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.308364827712083,
+          51.575452747103775
+        ]
+      },
+      "properties": {
+        "label": "<b>R 5. 12. 24</b><br><i>Anemone nemorosa</i> L.<br><i>Batrachium heterophyllum</i> Wgg.<br><i>Ficaria ranunculoides</i> Mnch.<br><i>Stellaria Holostea</i> L.<br><i>Stellaria glauca</i> With.<br><i>Prunus Padus</i> L.<br><i>Saxifraga granulata</i> L.<br><i>Anthoxanthum Puellii</i> L. X L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.947548975832589,
+          51.59336868104102
+        ]
+      },
+      "properties": {
+        "label": "<b>Q 4. 65. 44</b><br><i>Batrachium trichophyllum</i> Chaix<br><i>Hypericum pulchrum</i> L.<br><i>Trifolium hybridum</i> L.<br><i>Vicia sepium</i> L.<br><i>Daucus Carota</i> L.<br><i>Arnica montana</i> L.<br><i>Cirsium anglicum</i> Lam.<br><i>Scutellaria minor</i> L.<br><i>Carex Hornschuchiana</i> Hoppe<br><i>Aira caespitosa</i> L.<br><i>Aira discolor</i> Thuillier (= uliginosa Whe.)<br><i>Briza media</i> L.<br><i>Lolium multiflorum</i> Lmk.<br><i>Polystichum Thelypteris</i> Sw."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.019780532752179,
+          51.58425684048524
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 16. 22</b><br><i>Batrachium trichophyllum</i> Chaix"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.218240873184228,
+          51.565991511675
+        ]
+      },
+      "properties": {
+        "label": "<b>R 5. 11. 41</b><br><i>Batrachium trichophyllum</i> Chaix<br><i>Epilobium parviflorum</i> Schreb.<br><i>Lobelia Dortmanna</i> L.<br><i>Utricularia vulgaris</i> L.<br><i>Utricularia neglecta</i> Lehm.<br><i>Utricularia minor</i> L.<br><i>Stratiotes aloides</i> L.<br><i>Alisma natans</i> L.<br><i>Sparganium minimum</i> Fr.<br><i>Carex arenaria</i> L.<br><i>Carex filiformis</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.965675337237975,
+          51.584072738160685
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 16. 11</b><br><i>Ranunculus Lingua</i> L.<br><i>Hypericum pulchrum</i> L.<br><i>Epilobium palustre</i> L.<br><i>Galium saxatile</i> L.<br><i>Arnica montana</i> L.<br><i>Cirsium anglicum</i> Lam.<br><i>Alisma ranunculoides</i> L.<br><i>Orchis maculata</i> L.<br><i>Platanthera bifolia</i> Rchb.<br><i>Cladium Mariscus</i> R. Br.<br><i>Briza media</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.983710345688686,
+          51.58413688757216
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 16. 12</b><br><i>Ranunculus Lingua</i> L.<br><i>Alchemilla vulgaris</i> L.<br><i>Epilobium palustre</i> L.<br><i>Oenanthe fistulosa</i> L.<br><i>Arnica montana</i> L.<br><i>Cirsium anglicum</i> Lam.<br><i>Veronica scutellata</i> L.<br><i>Veronica Anagallis</i> L.<br><i>Cladium Mariscus</i> R. Br.<br><i>Carex echinata</i> Murr.<br><i>Carex flava</i> L.<br><i>Phleum pratense</i> L.<br><i>Briza media</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.001745411710952,
+          51.58419825501975
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 16. 21</b><br><i>Ranunculus Lingua</i> L.<br><i>Silene gallica</i><br><i>Hypericum tetrapterum</i> Fr.<br><i>Trifolium hybridum</i> L.<br><i>Rubus plicatus</i> W.<br><i>Cirsium arvense</i> Scop.<br><i>Cirsium anglicum</i> Lam.<br><i>Mentha rotundifolia</i> L.<br><i>Rumex crispus</i> L.<br><i>Salix viminalis</i> L.<br><i>Elodea canadensis</i> Rich.<br><i>Sparganium minimum</i> Fr.<br><i>Cladium Mariscus</i> R. Br.<br><i>Scirpus setaceus</i> L.<br><i>Carex remota</i> L.<br><i>Carex flava</i> L.<br><i>Avena caryophyllea</i> Wygg.<br><i>Briza media</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.128154690596908,
+          51.55646082461008
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 18. 34</b><br><i>Ranunculus Lingua</i> L.<br><i>Ranunculus sceleratus</i> L.<br><i>Ranunculus bulbosus</i> L.<br><i>Nasturtium palustre</i> DG<br><i>Nasturtium amphibium</i> R. Br.<br><i>Holosteum umbellatum</i> L.<br><i>Geranium Robertianum</i> L.<br><i>Medicago lupulina</i> L.<br><i>Oenanthe fistulosa</i> L.<br><i>Veronica serpyllifolia</i> L.<br><i>Scutellaria galericulata</i> L.<br><i>Utricularia minor</i> L.<br><i>Atriplex lalifolia</i> Wahlb.<br><i>Salix Caprea</i> L.<br><i>Stratiotes aloides</i> L.<br><i>Orchis maculata</i> L.<br><i>Listera ovata</i> R. Br.<br><i>Scirpus sylvaticus</i> L.<br><i>Carex Pseudocyperus</i> L.<br><i>Poa pratensis</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2362371892012565,
+          51.57537978596902
+        ]
+      },
+      "properties": {
+        "label": "<b>R 5. 11. 24</b><br><i>Ranunculus Lingua</i> L.<br><i>Drosera longifolia</i> Hayne<br><i>Parnassia palustris</i> L.<br><i>Spergula Morisonii</i> Bor.<br><i>Filago minima</i> L.<br><i>Senecio paludosus</i> L.<br><i>Linaria minor</i> Desf.<br><i>Veronica scutellata</i> L.<br><i>Scutellaria minor</i> L.<br><i>Anagallis tenella</i> L.<br><i>Malaxis paludosa</i> Sw.<br><i>Carex arenaria</i> L.<br><i>Carex echinata</i> Murr.<br><i>Carex flava</i> L.<br><i>Avena praecox</i> P. B."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.200330435978504,
+          51.53787428256959
+        ]
+      },
+      "properties": {
+        "label": "<b>R 5. 21. 14</b><br><i>Ranunculus Lingua</i> L.<br><i>Myosotis caespitosa</i> Schltz.<br><i>Stachys palustris</i> L.<br><i>Stratiotes aloides</i> L.<br><i>Alisma ranunculoides</i> L.<br><i>Typha angustifolia</i> L.<br><i>Carex echinata</i> Murr.<br><i>Carex filiformis</i> L.<br><i>Carex flava</i> L.<br><i>Carex Pseudocyperus</i> L.<br><i>Briza media</i> L.<br><i>Poa fertilis</i> Host (= serotina Ehrh.)<br><i>Festuca arundinacea</i> Schreb.<br><i>Polystichum Thelypteris</i> Sw."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.236173490663881,
+          51.59410593856034
+        ]
+      },
+      "properties": {
+        "label": "<b>Q 5. 61. 44</b><br><i>Ranunculus bulbosus</i> L.<br><i>Ficaria ranunculoides</i> Mnch.<br><i>Cordydalis solida</i><br><i>Nasturtium amphibium</i> R. Br.<br><i>Draba verna</i> L.<br><i>Moehringia trinervia</i> Chairv.<br><i>Stellaria Holostea</i> L.<br><i>Cerastium arvense</i> L.<br><i>Geranium Robertianum</i> L.<br><i>Claytonia perfoliata</i> Donn.<br><i>Sedum purpurascens</i> Koch<br><i>Sedum acre</i> L.<br><i>Saxifraga granulata</i> L.<br><i>Hedera Helix</i> L.<br><i>Vinca minor</i> L.<br><i>Veronica hederaefolia</i> L.<br><i>Convallaria majalis</i> L.<br><i>Endymion nutans</i> Duin."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2542128171148,
+          51.5941283630058
+        ]
+      },
+      "properties": {
+        "label": "<b>Q 5. 62. 33</b><br><i>Ranunculus bulbosus</i> L.<br><i>Stellaria uliginosa</i> Murr.<br><i>Rumex crispus</i> L.<br><i>Orchis maculata</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.074212525057092,
+          51.537600872569975
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 27. 23</b><br><i>Ranunculus bulbosus</i> L.<br><i>Cardamine grandiflora</i> Hall? (= C. paludosa Knaf.)<br><i>Stellaria uliginosa</i> Murr.<br><i>Cerastium glomeratum</i> Thuill."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0741473222407825,
+          51.54696389316178
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 27. 21</b><br><i>Ranunculus bulbosus</i> L.<br><i>Papaver Argemone</i> L.<br><i>Sinapis arvensis</i> L.<br><i>Cerastium arvense</i> L.<br><i>Geranium pusillum</i> L.<br><i>Erodium cicutarium</i> Her.<br><i>Erodium pimpinellifolium</i> Willd.<br><i>Medicago lupulina</i> L.<br><i>Cirsium arvense</i> Scop.<br><i>Veronica hederaefolia</i> L.<br><i>Atriplex lalifolia</i> Wahlb.<br><i>Euphorbia Peplus</i> L.<br><i>Mercurialis annua</i> L.<br><i>Phleum pratense</i> L.<br><i>Hordeum murinum</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.074277696865648,
+          51.52823784515441
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 27. 41</b><br><i>Ranunculus bulbosus</i> L.<br><i>Polygonum Bistorta</i> L.<br><i>Anthoxanthum Puellii</i> L. X L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.110188252842029,
+          51.547055926767435
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 28. 11</b><br><i>Ficaria ranunculoides</i> Mnch.<br><i>Nasturtium amphibium</i> R. Br.<br><i>Erodium cicutarium</i> Her.<br><i>Medicago maculata</i> W.<br><i>Fragaria vesca</i> L.<br><i>Sanguisorba officinalis</i> L.<br><i>Hedera Helix</i> L.<br><i>Galium Aparine</i> L.<br><i>Cirsium anglicum</i> Lam.<br><i>Crepis biennis</i> L.<br><i>Veronica arvensis</i> L.<br><i>Salix Caprea</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1282087788021,
+          51.54709777495687
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 28. 12</b><br><i>Ficaria ranunculoides</i> Mnch.<br><i>Rhamnus cathartica</i> L.<br><i>Lotus corniculatus</i> L.<br><i>Viburnum Opulus</i> L.<br><i>Crepis biennis</i> L.<br><i>Salix viminalis</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.929605503261398,
+          51.583936093522986
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 15. 21</b><br><i>Papaver Rhoeas</i> L.<br><i>Diplotaxis muralis</i> DC.<br><i>Agrostemma Githago</i> L.<br><i>Geranium pusillum</i> L.<br><i>Erodium pimpinellifolium</i> Willd.<br><i>Melilotus alba</i> Desv.<br><i>Vicia villosa</i> Roth.<br><i>Sanguisorba officinalis</i> L.<br><i>Gnaphalium sylvaticum</i> L.<br><i>Cirsium arvense</i> Scop.<br><i>Vaccinium Oxycococcos</i> L.<br><i>Atriplex lalifolia</i> Wahlb.<br><i>Rumex crispus</i> L.<br><i>Polygonum tataricum</i> L.<br><i>Phleum pratense</i> L.<br><i>Poa pratensis</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.947640388911384,
+          51.58400580680433
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 15. 22</b><br><i>Papaver Rhoeas</i> L.<br><i>Papaver Argemone</i> L.<br><i>Potentilla procumbens</i> Sibth.<br><i>Galium saxatile</i> L.<br><i>Arnica montana</i> L.<br><i>Cirsium anglicum</i> Lam.<br><i>Vaccinium Oxycococcos</i> L.<br><i>Scutellaria galericulata</i> L.<br><i>Alisma ranunculoides</i> L.<br><i>Lemna trisulca</i> L.<br><i>Orchis maculata</i> L.<br><i>Briza media</i> L.<br><i>Lolium multiflorum</i> Lmk.<br><i>Polystichum Thelypteris</i> Sw."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.200134207599458,
+          51.584689682709744
+        ]
+      },
+      "properties": {
+        "label": "<b>R 5. 11. 12</b><br><i>Papaver Rhoeas</i> L.<br><i>Fumaria officinalis</i> L.<br><i>Erysimum Cheiranthoides</i> L.<br><i>Erodium cicutarium</i> Her.<br><i>Corrigiola littoralis</i> L.<br><i>Sedum acre</i> L.<br><i>Convolvulus arvensis</i> L.<br><i>Veronica hederaefolia</i> L.<br><i>Lamium purpureum</i> L.<br><i>Galeopsis bifida</i> Bonn."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2001734906358426,
+          51.57532661701017
+        ]
+      },
+      "properties": {
+        "label": "<b>R 5. 11. 14</b><br><i>Papaver Rhoeas</i> L.<br><i>Nasturtium amphibium</i> R. Br.<br><i>Hypericum quadrangulum</i> L.<br><i>Rhamnus cathartica</i> L.<br><i>Ervum tetraspermum</i> L.<br><i>Lathyrus pratensis</i> L.<br><i>Prunus spinosa</i> L.<br><i>Geum urbanum</i> L.<br><i>Potentilla procumbens</i> Sibth.<br><i>Alchemilla vulgaris</i> L.<br><i>Epilobium parviflorum</i> Schreb.<br><i>Galium boreale</i><br><i>Galium Aparine</i> L.<br><i>Crepis biennis</i> L.<br><i>Fraxinus excelsior</i> L.<br><i>Myosotis intermedia</i> Lk.<br><i>Rhinanthus minor</i> Ehrh.<br><i>Euphrasia Odontites</i> L.<br><i>Antirrhinum Orontium</i> L.<br><i>Veronica Beccabunga</i> L.<br><i>Anagallis arvensis</i> L.<br><i>Polygonum tataricum</i> L.<br><i>Mercurialis annua</i> L.<br><i>Juniperus communis</i> L.<br><i>Potamogeton perfoliatus</i> L.<br><i>Carex arenaria</i> L.<br><i>Carex remota</i> L.<br><i>Carex Pseudocyperus</i> L.<br><i>Poa fertilis</i> Host (= serotina Ehrh.)<br><i>Pteris aquilina</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.182270568770795,
+          51.547206644925204
+        ]
+      },
+      "properties": {
+        "label": "<b>R 5. 21. 11</b><br><i>Papaver Rhoeas</i> L.<br><i>Papaver Argemone</i> L.<br><i>Fumaria officinalis</i> L.<br><i>Erysimum Cheiranthoides</i> L.<br><i>Silene gallica</i><br><i>Prunus petraea</i> Tausch<br><i>Epilobium montanum</i> L.<br><i>Oenanthe fistulosa</i> L.<br><i>Galium Aparine</i> L.<br><i>Myosotis intermedia</i> Lk.<br><i>Veronica arvensis</i> L.<br><i>Stachys palustris</i> L.<br><i>Chenopodium murale</i> L.<br><i>Scirpus sylvaticus</i> L.<br><i>Scirpus sylvaticus</i> L.<br><i>Carex remota</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.056126922691026,
+          51.54691370777284
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 27. 12</b><br><i>Papaver Argemone</i> L.<br><i>Prunus spinosa</i> L.<br><i>Rubus plicatus</i> W.<br><i>Potentilla procumbens</i> Sibth.<br><i>Daucus Carota</i> L.<br><i>Euphrasia Odontites</i> L.<br><i>Lamium purpureum</i> L.<br><i>Rumex crispus</i> L.<br><i>Mercurialis annua</i> L.<br><i>Salix Caprea</i> L.<br><i>Avena caryophyllea</i> Wygg."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.074082088394972,
+          51.556326906806234
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 17. 43</b><br><i>Papaver Argemone</i> L.<br><i>Fumaria officinalis</i> L.<br><i>Erodium pimpinellifolium</i> Willd.<br><i>Prunus spinosa</i> L.<br><i>Cirsium arvense</i> Scop.<br><i>Convolvulus arvensis</i> L.<br><i>Euphrasia Odontites</i> L.<br><i>Anagallis arvensis</i> L.<br><i>Mercurialis annua</i> L.<br><i>Hordeum murinum</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.001825620425871,
+          51.57483532151515
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 16. 23</b><br><i>Papaver Argemone</i> L.<br><i>Trifolium hybridum</i> L.<br><i>Mentha sativa</i> L.<br><i>Anagallis arvensis</i> L.<br><i>Carex flava</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.182184663673039,
+          51.56593279574036
+        ]
+      },
+      "properties": {
+        "label": "<b>R 5. 11. 31</b><br><i>Nasturtium officinale</i> R. Br.<br><i>Spergula Morisonii</i> Bor.<br><i>Stellaria glauca</i> With.<br><i>Hypericum quadrangulum</i> L.<br><i>Geum urbanum</i> L.<br><i>Rubus Sprengelü</i> W.<br><i>Epilobium parviflorum</i> Schreb.<br><i>Erythraea Centaurium</i> P.<br><i>Veronica scutellata</i> L.<br><i>Mentha rotundifolia</i> L.<br><i>Galeopsis bifida</i> Bonn.<br><i>Stachys palustris</i> L.<br><i>Elodea canadensis</i> Rich.<br><i>Potamogeton rufescens</i> Schrad.<br><i>Typha angustifolia</i> L.<br><i>Epipactis latifolia</i> DU.<br><i>Avena caryophyllea</i> Wygg.<br><i>Avena praecox</i> P. B.<br><i>Poa nemoralis</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.055988991872627,
+          51.565639700987255
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 17. 32</b><br><i>Nasturtium palustre</i> DG<br><i>Erodium pimpinellifolium</i> Willd.<br><i>Geum urbanum</i> L.<br><i>Potentilla reptans</i> L.<br><i>Cirsium arvense</i> Scop.<br><i>Anagallis arvensis</i> L.<br><i>Polygonum tataricum</i> L.<br><i>Mercurialis annua</i> L.<br><i>Avena caryophyllea</i> Wygg.<br><i>Hordeum murinum</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.110130449394929,
+          51.55641896516578
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 18. 33</b><br><i>Nasturtium palustre</i> DG<br><i>Nasturtium amphibium</i> R. Br.<br><i>Erodium cicutarium</i> Her.<br><i>Erodium pimpinellifolium</i> Willd.<br><i>Rhamnus cathartica</i> L.<br><i>Medicago lupulina</i> L.<br><i>Lotus corniculatus</i> L.<br><i>Alchemilla vulgaris</i> L.<br><i>Carum Carvi</i> L.<br><i>Galium Mollugo</i> L.<br><i>Ligustrum vulgare</i> L.<br><i>Veronica Beccabunga</i> L.<br><i>Lamium purpureum</i> L.<br><i>Mercurialis annua</i> L.<br><i>Hordeum murinum</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.110072618434749,
+          51.56578199650333
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 18. 31</b><br><i>Sisymbrium panonicum</i> Jacq.<br><i>Potentilla reptans</i> L.<br><i>Daucus Carota</i> L.<br><i>Chaerophyllum temulum</i> L.<br><i>Convolvulus arvensis</i> L.<br><i>Atriplex lalifolia</i> Wahlb.<br><i>Salix Caprea</i> L.<br><i>Hordeum murinum</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.128100576647772,
+          51.56582386720717
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 18. 32</b><br><i>Sinapis arvensis</i> L.<br><i>Hypericum pulchrum</i> L.<br><i>Daucus Carota</i> L.<br><i>Euphrasia Odontites</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.200291227637072,
+          51.547237376678915
+        ]
+      },
+      "properties": {
+        "label": "<b>R 5. 21. 12</b><br><i>Viola sylvatica</i><br><i>Radiola linoides</i> Gm.<br><i>Oenanthe fistulosa</i> L.<br><i>Filago minima</i> L.<br><i>Lobelia Dortmanna</i> L.<br><i>Ilex Aquifolium</i> L.<br><i>Veronica serpyllifolia</i> L.<br><i>Polygonum tataricum</i> L.<br><i>Stratiotes aloides</i> L.<br><i>Alisma ranunculoides</i> L.<br><i>Typha angustifolia</i> L.<br><i>Carex disticha</i> Huds.<br><i>Carex flava</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.182313490679395,
+          51.53784355907518
+        ]
+      },
+      "properties": {
+        "label": "<b>R 5. 21. 13</b><br><i>Viola odorata</i> L.<br><i>Stellaria uliginosa</i> Murr.<br><i>Radiola linoides</i> Gm.<br><i>Geranium Robertianum</i> L.<br><i>Oxalis Acetosella</i> L.<br><i>Prunus petraea</i> Tausch<br><i>Rubus Idaeus</i> L.<br><i>Alchemilla vulgaris</i> L.<br><i>Sanguisorba officinalis</i> L.<br><i>Oenanthe fistulosa</i> L.<br><i>Hedera Helix</i> L.<br><i>Viburnum Opulus</i> L.<br><i>Galium Aparine</i> L.<br><i>Solidago Virga-aurea</i> L.<br><i>Ilex Aquifolium</i> L.<br><i>Myosotis caespitosa</i> Schltz.<br><i>Euphrasia Odontites</i> L.<br><i>Veronica officinalis</i> L.<br><i>Polygonum tataricum</i> L.<br><i>Corylus Avellana</i> L.<br><i>Stratiotes aloides</i> L.<br><i>Majanthemum bifolium</i> DC.<br><i>Scirpus setaceus</i> L.<br><i>Scirpus sylvaticus</i> L.<br><i>Carex remota</i> L.<br><i>Carex echinata</i> Murr.<br><i>Carex hirta</i> L.<br><i>Carex Pseudocyperus</i> L.<br><i>Phleum pratense</i> L.<br><i>Aira caespitosa</i> L.<br><i>Pteris aquilina</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.18235639218023,
+          51.52848046642823
+        ]
+      },
+      "properties": {
+        "label": "<b>R 5. 21. 31</b><br><i>Saponaria officinalis</i> L.<br><i>Silene gallica</i><br><i>Erodium pimpinellifolium</i> Willd.<br><i>Prunus spinosa</i> L.<br><i>Herniaria glabra</i> L.<br><i>Hedera Helix</i> L.<br><i>Veronica Beccabunga</i> L.<br><i>Polygonum tataricum</i> L.<br><i>Corylus Avellana</i> L.<br><i>Alisma ranunculoides</i> L.<br><i>Potamogeton perfoliatus</i> L.<br><i>Potamogeton compressus</i> L.<br><i>Sparganium minimum</i> Fr.<br><i>Calla palustris</i> L.<br><i>Majanthemum bifolium</i> DC.<br><i>Scirpus sylvaticus</i> L.<br><i>Carex filiformis</i> L.<br><i>Carex Pseudocyperus</i> L.<br><i>Avena praecox</i> P. B.<br><i>Festuca Myurus</i> Ehrh.<br><i>Pteris aquilina</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.037961207541777,
+          51.56558670806061
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 17. 31</b><br><i>Spergula Morisonii</i> Bor.<br><i>Rubus plicatus</i> W.<br><i>Scleranthus perennis</i> L.<br><i>Filago minima</i> L.<br><i>Gnaphalium dioicum</i> L.<br><i>Veronica officinalis</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.16415660181631,
+          51.56589926683685
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 18. 42</b><br><i>Holosteum umbellatum</i> L.<br><i>Daucus Carota</i> L.<br><i>Cirsium arvense</i> Scop.<br><i>Carex Pseudocyperus</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.020162610692963,
+          51.537442022028415
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 26. 24</b><br><i>Stellaria glauca</i> With.<br><i>Epilobium palustre</i> L.<br><i>Myriophyllum spicatum</i> L.<br><i>Peplis Portula</i> L.<br><i>Arnica montana</i> L.<br><i>Cirsium anglicum</i> Lam.<br><i>Veronica Anagallis</i> L.<br><i>Thymus Serpyllum</i> L.<br><i>Polygonum tataricum</i> L.<br><i>Alisma ranunculoides</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.596705518069793,
+          51.53784726043306
+        ]
+      },
+      "properties": {
+        "label": "<b>R 5. 26. 24</b><br><i>Stellaria Dilleniana</i> Mönch."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.254297180095826,
+          51.566039105056554
+        ]
+      },
+      "properties": {
+        "label": "<b>R 5. 12. 31</b><br><i>Cerastium arvense</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.200408796751369,
+          51.51914807409402
+        ]
+      },
+      "properties": {
+        "label": "<b>R 5. 21. 34</b><br><i>Hypericum tetrapterum</i> Fr.<br><i>Oenanthe fistulosa</i> L.<br><i>Anagallis tenella</i> L.<br><i>Juniperus communis</i> L.<br><i>Alisma natans</i> L.<br><i>Alisma ranunculoides</i> L.<br><i>Potamogeton compressus</i> L.<br><i>Malaxis paludosa</i> Sw.<br><i>Scirpus setaceus</i> L.<br><i>Carex echinata</i> Murr."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.038106570369393,
+          51.54686074334596
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 27. 11</b><br><i>Erodium pimpinellifolium</i> Willd.<br><i>Trifolium hybridum</i> L.<br><i>Trifolium arvense</i> L.<br><i>Rubus Idaeus</i> L.<br><i>Erigeron canadensis</i> L.<br><i>Cirsium anglicum</i> Lam.<br><i>Atriplex lalifolia</i> Wahlb.<br><i>Alisma natans</i> L.<br><i>Aira discolor</i> Thuillier (= uliginosa Whe.)<br><i>Avena caryophyllea</i> Wygg."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.038324355433132,
+          51.5187717443922
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 27. 33</b><br><i>Erodium pimpinellifolium</i> Willd.<br><i>Filago minima</i> L.<br><i>Gnaphalium dioicum</i> L.<br><i>Arnica montana</i> L.<br><i>Thymus Serpyllum</i> L.<br><i>Plantago Coronopus</i> L.<br><i>Carex leporina</i> L.<br><i>Carex echinata</i> Murr.<br><i>Anthoxanthum Puellii</i> L. X L.<br><i>Aira discolor</i> Thuillier (= uliginosa Whe.)<br><i>Lycopodium clavatum</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.074342837688179,
+          51.51887481103875
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 27. 43</b><br><i>Medicago lupulina</i> L.<br><i>Bryonia dioica</i> Jacq.<br><i>Chaerophyllum temulum</i> L.<br><i>Hedera Helix</i> L.<br><i>Erigeron canadensis</i> L.<br><i>Cichorium Intybus</i> L.<br><i>Convolvulus arvensis</i> L.<br><i>Atriplex lalifolia</i> Wahlb.<br><i>Bromus sterilis</i> L.<br><i>Hordeum murinum</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.21820532773495,
+          51.57535459218317
+        ]
+      },
+      "properties": {
+        "label": "<b>R 5. 11. 23</b><br><i>Medicago lupulina</i> L.<br><i>Lotus corniculatus</i> L.<br><i>Lobelia Dortmanna</i> L.<br><i>Galeopsis bifida</i> Bonn.<br><i>Polygonum tataricum</i> L.<br><i>Carex arenaria</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.668772993869023,
+          51.53769787019684
+        ]
+      },
+      "properties": {
+        "label": "<b>R 5. 27. 24</b><br><i>Lathyrus pratensis</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.200212754978833,
+          51.56596354402278
+        ]
+      },
+      "properties": {
+        "label": "<b>R 5. 11. 32</b><br><i>Prunus petraea</i> Tausch<br><i>Lobelia Dortmanna</i> L.<br><i>Myosotis intermedia</i> Lk.<br><i>Rhinanthus minor</i> Ehrh.<br><i>Thymus Serpyllum</i> L.<br><i>Stachys palustris</i> L.<br><i>Utricularia neglecta</i> Lehm.<br><i>Utricularia minor</i> L.<br><i>Elodea canadensis</i> Rich.<br><i>Alisma natans</i> L.<br><i>Alisma ranunculoides</i> L.<br><i>Potamogeton lucens</i> L.<br><i>Potamogeton rufescens</i> Schrad.<br><i>Calamagrostis lanceolata</i> Roth.<br><i>Poa fertilis</i> Host (= serotina Ehrh.)<br><i>Pteris aquilina</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.146078151054394,
+          51.57522600325507
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 18. 23</b><br><i>Prunus spinosa</i> L.<br><i>Potentilla procumbens</i> Sibth.<br><i>Daucus Carota</i> L.<br><i>Chrysanthemum Parthenium</i> P.<br><i>Lappa minor</i> DC.<br><i>Lamium amplexicaule</i> L.<br><i>Salix Caprea</i> L.<br><i>Bromus sterilis</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.182141680455213,
+          51.57529586045823
+        ]
+      },
+      "properties": {
+        "label": "<b>R 5. 11. 13</b><br><i>Prunus spinosa</i> L.<br><i>Oenanthe fistulosa</i> L.<br><i>Campanula persicifolia</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.236205347512851,
+          51.58474286596742
+        ]
+      },
+      "properties": {
+        "label": "<b>R 5. 11. 22</b><br><i>Prunus Padus</i> L.<br><i>Hedera Helix</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.254240951492912,
+          51.584765284384545
+        ]
+      },
+      "properties": {
+        "label": "<b>R 5. 12. 11</b><br><i>Prunus Padus</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.641521534940697,
+          51.55435495312106
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 11. 43</b><br><i>Fragaria vesca</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.65909147519854,
+          51.58255657933204
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 11. 22</b><br><i>Fragaria vesca</i> L.<br><i>Berula angustifolia</i> Koch<br><i>Salix Caprea</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.08385817600605,
+          51.58278908003397
+        ]
+      },
+      "properties": {
+        "label": "<b>R 6. 15. 21</b><br><i>Erigeron canadensis</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.056333572996198,
+          51.51882466611331
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 27. 34</b><br><i>Filago minima</i> L.<br><i>Veronica officinalis</i> L.<br><i>Thymus Serpyllum</i> L.<br><i>Salix Caprea</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.182227626440116,
+          51.55656972385479
+        ]
+      },
+      "properties": {
+        "label": "<b>R 5. 11. 33</b><br><i>Filago minima</i> L.<br><i>Echium vulgare</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.019857021108036,
+          51.57489389121824
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 16. 24</b><br><i>Arnica montana</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.092106247811778,
+          51.5563743258934
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 17. 44</b><br><i>Tragopogon pratensis</i> L.<br><i>Mercurialis annua</i> L.<br><i>Festuca elatior</i> L.<br><i>Bromus sterilis</i> L.<br><i>Hordeum murinum</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0203151875392376,
+          51.518716045891054
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 26. 44</b><br><i>Fraxinus excelsior</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.929510368216146,
+          51.59329894899397
+        ]
+      },
+      "properties": {
+        "label": "<b>Q 4. 65. 43</b><br><i>Myosotis caespitosa</i> Schltz."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.686973035913044,
+          51.56574265917379
+        ]
+      },
+      "properties": {
+        "label": "<b>R 5. 18. 31</b><br><i>Myosotis intermedia</i> Lk."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.001905790959981,
+          51.5654723806683
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 16. 41</b><br><i>Veronica scutellata</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.164203281667108,
+          51.556536203965784
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 18. 44</b><br><i>Thymus Serpyllum</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7497894332953505,
+          51.545635378686455
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 23. 11</b><br><i>Salix viminalis</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.596875606542738,
+          51.57529956491781
+        ]
+      },
+      "properties": {
+        "label": "<b>R 5. 16. 24</b><br><i>Platanthera bifolia</i> Rchb."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.128046436936624,
+          51.57518690262456
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 18. 14</b><br><i>Festuca elatior</i> L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.606123876401627,
+          51.51666863737424
+        ]
+      },
+      "properties": {
+        "label": "<b>R 4. 21. 33</b><br><i>Polystichum Thelypteris</i> Sw."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.74112884482253,
+          51.57495596108245
+        ]
+      },
+      "properties": {
+        "label": "<b>R 5. 18. 24</b><br><i>Pteris aquilina</i> L."
+      }
+    }
+  ]
+}
