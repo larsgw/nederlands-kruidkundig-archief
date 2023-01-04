@@ -11,6 +11,28 @@
         ]
       },
       "properties": {
+        "location": "R 5. 21. 33",
+        "taxa": [
+          "Thalictrum flavum L.",
+          "Nasturtium officinale R. Br.",
+          "Nasturtium amphibium R. Br.",
+          "Hypericum tetrapterum Fr.",
+          "Prunus spinosa L.",
+          "Geum urbanum L.",
+          "Potentilla procumbens Sibth.",
+          "Epilobium parviflorum Schreb.",
+          "Epilobium montanum L.",
+          "Torilis Anthriscus Gm.",
+          "Chaerophyllum temulum L.",
+          "Veronica scutellata L.",
+          "Stachys palustris L.",
+          "Stachys palustris L.",
+          "Stratiotes aloides L.",
+          "Scirpus sylvaticus L.",
+          "Carex Pseudocyperus L.",
+          "Aira caespitosa L.",
+          "Polystichum Thelypteris Sw."
+        ],
         "label": "<b>R 5. 21. 33</b><br><i>Thalictrum flavum</i> L.<br><i>Nasturtium officinale</i> R. Br.<br><i>Nasturtium amphibium</i> R. Br.<br><i>Hypericum tetrapterum</i> Fr.<br><i>Prunus spinosa</i> L.<br><i>Geum urbanum</i> L.<br><i>Potentilla procumbens</i> Sibth.<br><i>Epilobium parviflorum</i> Schreb.<br><i>Epilobium montanum</i> L.<br><i>Torilis Anthriscus</i> Gm.<br><i>Chaerophyllum temulum</i> L.<br><i>Veronica scutellata</i> L.<br><i>Stachys palustris</i> L.<br><i>Stachys palustris</i> L.<br><i>Stratiotes aloides</i> L.<br><i>Scirpus sylvaticus</i> L.<br><i>Carex Pseudocyperus</i> L.<br><i>Aira caespitosa</i> L.<br><i>Polystichum Thelypteris</i> Sw."
       }
     },
@@ -24,6 +46,36 @@
         ]
       },
       "properties": {
+        "location": "R 5. 21. 32",
+        "taxa": [
+          "Thalictrum flavum L.",
+          "Drosera longifolia Hayne",
+          "Radiola linoides Gm.",
+          "Hypericum tetrapterum Fr.",
+          "Geranium Robertianum L.",
+          "Prunus petraea Tausch",
+          "Rubus Idaeus L.",
+          "Potentilla procumbens Sibth.",
+          "Peplis Portula L.",
+          "Myosotis caespitosa Schltz.",
+          "Galeopsis bifida Bonn.",
+          "Scutellaria minor L.",
+          "Anagallis tenella L.",
+          "Stratiotes aloides L.",
+          "Alisma ranunculoides L.",
+          "Platanthera bifolia Rchb.",
+          "Epipactis palustris Cr.",
+          "Malaxis paludosa Sw.",
+          "Scirpus setaceus L.",
+          "Eriophorum latifolium Hoppe",
+          "Carex pulicaris L.",
+          "Carex echinata Murr.",
+          "Carex canescens L.",
+          "Carex flava L.",
+          "Carex Pseudocyperus L.",
+          "Aira caespitosa L.",
+          "Polystichum Thelypteris Sw."
+        ],
         "label": "<b>R 5. 21. 32</b><br><i>Thalictrum flavum</i> L.<br><i>Drosera longifolia</i> Hayne<br><i>Radiola linoides</i> Gm.<br><i>Hypericum tetrapterum</i> Fr.<br><i>Geranium Robertianum</i> L.<br><i>Prunus petraea</i> Tausch<br><i>Rubus Idaeus</i> L.<br><i>Potentilla procumbens</i> Sibth.<br><i>Peplis Portula</i> L.<br><i>Myosotis caespitosa</i> Schltz.<br><i>Galeopsis bifida</i> Bonn.<br><i>Scutellaria minor</i> L.<br><i>Anagallis tenella</i> L.<br><i>Stratiotes aloides</i> L.<br><i>Alisma ranunculoides</i> L.<br><i>Platanthera bifolia</i> Rchb.<br><i>Epipactis palustris</i> Cr.<br><i>Malaxis paludosa</i> Sw.<br><i>Scirpus setaceus</i> L.<br><i>Eriophorum latifolium</i> Hoppe<br><i>Carex pulicaris</i> L.<br><i>Carex echinata</i> Murr.<br><i>Carex canescens</i> L.<br><i>Carex flava</i> L.<br><i>Carex Pseudocyperus</i> L.<br><i>Aira caespitosa</i> L.<br><i>Polystichum Thelypteris</i> Sw."
       }
     },
@@ -37,6 +89,21 @@
         ]
       },
       "properties": {
+        "location": "R 4. 18. 43",
+        "taxa": [
+          "Thalictrum flavum L.",
+          "Nasturtium amphibium R. Br.",
+          "Spergula Morisonii Bor.",
+          "Erodium pimpinellifolium Willd.",
+          "Rhamnus cathartica L.",
+          "Potentilla reptans L.",
+          "Cirsium anglicum Lam.",
+          "Lobelia Dortmanna L.",
+          "Veronica serpyllifolia L.",
+          "Veronica serpyllifolia L.",
+          "Thymus Serpyllum L.",
+          "Stratiotes aloides L."
+        ],
         "label": "<b>R 4. 18. 43</b><br><i>Thalictrum flavum</i> L.<br><i>Nasturtium amphibium</i> R. Br.<br><i>Spergula Morisonii</i> Bor.<br><i>Erodium pimpinellifolium</i> Willd.<br><i>Rhamnus cathartica</i> L.<br><i>Potentilla reptans</i> L.<br><i>Cirsium anglicum</i> Lam.<br><i>Lobelia Dortmanna</i> L.<br><i>Veronica serpyllifolia</i> L.<br><i>Veronica serpyllifolia</i> L.<br><i>Thymus Serpyllum</i> L.<br><i>Stratiotes aloides</i> L."
       }
     },
@@ -50,6 +117,16 @@
         ]
       },
       "properties": {
+        "location": "R 4. 27. 24",
+        "taxa": [
+          "Thalictrum flavum L.",
+          "Batrachium heterophyllum Wgg.",
+          "Ranunculus bulbosus L.",
+          "Nasturtium amphibium R. Br.",
+          "Prunus Padus L.",
+          "Viburnum Opulus L.",
+          "Crepis biennis L."
+        ],
         "label": "<b>R 4. 27. 24</b><br><i>Thalictrum flavum</i> L.<br><i>Batrachium heterophyllum</i> Wgg.<br><i>Ranunculus bulbosus</i> L.<br><i>Nasturtium amphibium</i> R. Br.<br><i>Prunus Padus</i> L.<br><i>Viburnum Opulus</i> L.<br><i>Crepis biennis</i> L."
       }
     },
@@ -63,6 +140,17 @@
         ]
       },
       "properties": {
+        "location": "R 4. 27. 42",
+        "taxa": [
+          "Thalictrum flavum L.",
+          "Anemone nemorosa L.",
+          "Ficaria ranunculoides Mnch.",
+          "Prunus Cerasus L.",
+          "Prunus Padus L.",
+          "Ribes nigrum L.",
+          "Viburnum Opulus L.",
+          "Crepis biennis L."
+        ],
         "label": "<b>R 4. 27. 42</b><br><i>Thalictrum flavum</i> L.<br><i>Anemone nemorosa</i> L.<br><i>Ficaria ranunculoides</i> Mnch.<br><i>Prunus Cerasus</i> L.<br><i>Prunus Padus</i> L.<br><i>Ribes nigrum</i> L.<br><i>Viburnum Opulus</i> L.<br><i>Crepis biennis</i> L."
       }
     },
@@ -76,6 +164,15 @@
         ]
       },
       "properties": {
+        "location": "Q 5. 62. 34",
+        "taxa": [
+          "Anemone nemorosa L.",
+          "Ranunculus bulbosus L.",
+          "Ficaria ranunculoides Mnch.",
+          "Prunus Cerasus L.",
+          "Petastes officinalis Mnch.",
+          "Pteris aquilina L."
+        ],
         "label": "<b>Q 5. 62. 34</b><br><i>Anemone nemorosa</i> L.<br><i>Ranunculus bulbosus</i> L.<br><i>Ficaria ranunculoides</i> Mnch.<br><i>Prunus Cerasus</i> L.<br><i>Petastes officinalis</i> Mnch.<br><i>Pteris aquilina</i> L."
       }
     },
@@ -89,6 +186,17 @@
         ]
       },
       "properties": {
+        "location": "Q 5. 62. 43",
+        "taxa": [
+          "Anemone nemorosa L.",
+          "Batrachium ololeucos Llyd.",
+          "Ranunculus bulbosus L.",
+          "Cardamine sylvatica Lk.",
+          "Holosteum umbellatum L.",
+          "Erodium cicutarium Her.",
+          "Crataegus Oxyacantha L.",
+          "Veronica serpyllifolia L."
+        ],
         "label": "<b>Q 5. 62. 43</b><br><i>Anemone nemorosa</i> L.<br><i>Batrachium ololeucos</i> Llyd.<br><i>Ranunculus bulbosus</i> L.<br><i>Cardamine sylvatica</i> Lk.<br><i>Holosteum umbellatum</i> L.<br><i>Erodium cicutarium</i> Her.<br><i>Crataegus Oxyacantha</i> L.<br><i>Veronica serpyllifolia</i> L."
       }
     },
@@ -102,6 +210,25 @@
         ]
       },
       "properties": {
+        "location": "R 4. 26. 42",
+        "taxa": [
+          "Anemone nemorosa L.",
+          "Papaver dubium L.",
+          "Fumaria officinalis L.",
+          "Radiola linoides Gm.",
+          "Hypericum pulchrum L.",
+          "Epilobium angustifolium L.",
+          "Epilobium montanum L.",
+          "Callitriche verna L.",
+          "Erigeron canadensis L.",
+          "Filago minima L.",
+          "Gnaphalium sylvaticum L.",
+          "Euphrasia Odontites L.",
+          "Antirrhinum Orontium L.",
+          "Corylus Avellana L.",
+          "Calamagrostis lanceolata Roth.",
+          "Festuca arundinacea Schreb."
+        ],
         "label": "<b>R 4. 26. 42</b><br><i>Anemone nemorosa</i> L.<br><i>Papaver dubium</i> L.<br><i>Fumaria officinalis</i> L.<br><i>Radiola linoides</i> Gm.<br><i>Hypericum pulchrum</i> L.<br><i>Epilobium angustifolium</i> L.<br><i>Epilobium montanum</i> L.<br><i>Callitriche verna</i> L.<br><i>Erigeron canadensis</i> L.<br><i>Filago minima</i> L.<br><i>Gnaphalium sylvaticum</i> L.<br><i>Euphrasia Odontites</i> L.<br><i>Antirrhinum Orontium</i> L.<br><i>Corylus Avellana</i> L.<br><i>Calamagrostis lanceolata</i> Roth.<br><i>Festuca arundinacea</i> Schreb."
       }
     },
@@ -115,6 +242,18 @@
         ]
       },
       "properties": {
+        "location": "R 5. 11. 21",
+        "taxa": [
+          "Anemone nemorosa L.",
+          "Ranunculus bulbosus L.",
+          "Draba verna L.",
+          "Stellaria uliginosa Murr.",
+          "Erodium cicutarium Her.",
+          "Prunus Padus L.",
+          "Fragaria vesca L.",
+          "Hedera Helix L.",
+          "Viburnum Opulus L."
+        ],
         "label": "<b>R 5. 11. 21</b><br><i>Anemone nemorosa</i> L.<br><i>Ranunculus bulbosus</i> L.<br><i>Draba verna</i> L.<br><i>Stellaria uliginosa</i> Murr.<br><i>Erodium cicutarium</i> Her.<br><i>Prunus Padus</i> L.<br><i>Fragaria vesca</i> L.<br><i>Hedera Helix</i> L.<br><i>Viburnum Opulus</i> L."
       }
     },
@@ -128,6 +267,20 @@
         ]
       },
       "properties": {
+        "location": "R 5. 12. 21",
+        "taxa": [
+          "Anemone nemorosa L.",
+          "Batrachium heterophyllum Wgg.",
+          "Ranunculus bulbosus L.",
+          "Ficaria ranunculoides Mnch.",
+          "Stellaria uliginosa Murr.",
+          "Prunus Padus L.",
+          "Sanguisorba officinalis L.",
+          "Scleranthus perennis L.",
+          "Galium Mollugo L.",
+          "Carpinus Betulus L.",
+          "Elodea canadensis Rich."
+        ],
         "label": "<b>R 5. 12. 21</b><br><i>Anemone nemorosa</i> L.<br><i>Batrachium heterophyllum</i> Wgg.<br><i>Ranunculus bulbosus</i> L.<br><i>Ficaria ranunculoides</i> Mnch.<br><i>Stellaria uliginosa</i> Murr.<br><i>Prunus Padus</i> L.<br><i>Sanguisorba officinalis</i> L.<br><i>Scleranthus perennis</i> L.<br><i>Galium Mollugo</i> L.<br><i>Carpinus Betulus</i> L.<br><i>Elodea canadensis</i> Rich."
       }
     },
@@ -141,6 +294,20 @@
         ]
       },
       "properties": {
+        "location": "R 5. 12. 22",
+        "taxa": [
+          "Anemone nemorosa L.",
+          "Batrachium heterophyllum Wgg.",
+          "Ficaria ranunculoides Mnch.",
+          "Sisymbrium Thalianum Gaudint",
+          "Geranium Robertianum L.",
+          "Erodium cicutarium Her.",
+          "Prunus Padus L.",
+          "Myriophyllum verticillatum L.",
+          "Saxifraga granulata L.",
+          "Lemna trisulca L.",
+          "Majanthemum bifolium DC."
+        ],
         "label": "<b>R 5. 12. 22</b><br><i>Anemone nemorosa</i> L.<br><i>Batrachium heterophyllum</i> Wgg.<br><i>Ficaria ranunculoides</i> Mnch.<br><i>Sisymbrium Thalianum</i> Gaudint<br><i>Geranium Robertianum</i> L.<br><i>Erodium cicutarium</i> Her.<br><i>Prunus Padus</i> L.<br><i>Myriophyllum verticillatum</i> L.<br><i>Saxifraga granulata</i> L.<br><i>Lemna trisulca</i> L.<br><i>Majanthemum bifolium</i> DC."
       }
     },
@@ -154,6 +321,17 @@
         ]
       },
       "properties": {
+        "location": "R 5. 12. 24",
+        "taxa": [
+          "Anemone nemorosa L.",
+          "Batrachium heterophyllum Wgg.",
+          "Ficaria ranunculoides Mnch.",
+          "Stellaria Holostea L.",
+          "Stellaria glauca With.",
+          "Prunus Padus L.",
+          "Saxifraga granulata L.",
+          "Anthoxanthum Puellii L. X L."
+        ],
         "label": "<b>R 5. 12. 24</b><br><i>Anemone nemorosa</i> L.<br><i>Batrachium heterophyllum</i> Wgg.<br><i>Ficaria ranunculoides</i> Mnch.<br><i>Stellaria Holostea</i> L.<br><i>Stellaria glauca</i> With.<br><i>Prunus Padus</i> L.<br><i>Saxifraga granulata</i> L.<br><i>Anthoxanthum Puellii</i> L. X L."
       }
     },
@@ -167,6 +345,23 @@
         ]
       },
       "properties": {
+        "location": "Q 4. 65. 44",
+        "taxa": [
+          "Batrachium trichophyllum Chaix",
+          "Hypericum pulchrum L.",
+          "Trifolium hybridum L.",
+          "Vicia sepium L.",
+          "Daucus Carota L.",
+          "Arnica montana L.",
+          "Cirsium anglicum Lam.",
+          "Scutellaria minor L.",
+          "Carex Hornschuchiana Hoppe",
+          "Aira caespitosa L.",
+          "Aira discolor Thuillier (= uliginosa Whe.)",
+          "Briza media L.",
+          "Lolium multiflorum Lmk.",
+          "Polystichum Thelypteris Sw."
+        ],
         "label": "<b>Q 4. 65. 44</b><br><i>Batrachium trichophyllum</i> Chaix<br><i>Hypericum pulchrum</i> L.<br><i>Trifolium hybridum</i> L.<br><i>Vicia sepium</i> L.<br><i>Daucus Carota</i> L.<br><i>Arnica montana</i> L.<br><i>Cirsium anglicum</i> Lam.<br><i>Scutellaria minor</i> L.<br><i>Carex Hornschuchiana</i> Hoppe<br><i>Aira caespitosa</i> L.<br><i>Aira discolor</i> Thuillier (= uliginosa Whe.)<br><i>Briza media</i> L.<br><i>Lolium multiflorum</i> Lmk.<br><i>Polystichum Thelypteris</i> Sw."
       }
     },
@@ -180,6 +375,10 @@
         ]
       },
       "properties": {
+        "location": "R 4. 16. 22",
+        "taxa": [
+          "Batrachium trichophyllum Chaix"
+        ],
         "label": "<b>R 4. 16. 22</b><br><i>Batrachium trichophyllum</i> Chaix"
       }
     },
@@ -193,6 +392,20 @@
         ]
       },
       "properties": {
+        "location": "R 5. 11. 41",
+        "taxa": [
+          "Batrachium trichophyllum Chaix",
+          "Epilobium parviflorum Schreb.",
+          "Lobelia Dortmanna L.",
+          "Utricularia vulgaris L.",
+          "Utricularia neglecta Lehm.",
+          "Utricularia minor L.",
+          "Stratiotes aloides L.",
+          "Alisma natans L.",
+          "Sparganium minimum Fr.",
+          "Carex arenaria L.",
+          "Carex filiformis L."
+        ],
         "label": "<b>R 5. 11. 41</b><br><i>Batrachium trichophyllum</i> Chaix<br><i>Epilobium parviflorum</i> Schreb.<br><i>Lobelia Dortmanna</i> L.<br><i>Utricularia vulgaris</i> L.<br><i>Utricularia neglecta</i> Lehm.<br><i>Utricularia minor</i> L.<br><i>Stratiotes aloides</i> L.<br><i>Alisma natans</i> L.<br><i>Sparganium minimum</i> Fr.<br><i>Carex arenaria</i> L.<br><i>Carex filiformis</i> L."
       }
     },
@@ -206,6 +419,20 @@
         ]
       },
       "properties": {
+        "location": "R 4. 16. 11",
+        "taxa": [
+          "Ranunculus Lingua L.",
+          "Hypericum pulchrum L.",
+          "Epilobium palustre L.",
+          "Galium saxatile L.",
+          "Arnica montana L.",
+          "Cirsium anglicum Lam.",
+          "Alisma ranunculoides L.",
+          "Orchis maculata L.",
+          "Platanthera bifolia Rchb.",
+          "Cladium Mariscus R. Br.",
+          "Briza media L."
+        ],
         "label": "<b>R 4. 16. 11</b><br><i>Ranunculus Lingua</i> L.<br><i>Hypericum pulchrum</i> L.<br><i>Epilobium palustre</i> L.<br><i>Galium saxatile</i> L.<br><i>Arnica montana</i> L.<br><i>Cirsium anglicum</i> Lam.<br><i>Alisma ranunculoides</i> L.<br><i>Orchis maculata</i> L.<br><i>Platanthera bifolia</i> Rchb.<br><i>Cladium Mariscus</i> R. Br.<br><i>Briza media</i> L."
       }
     },
@@ -219,6 +446,22 @@
         ]
       },
       "properties": {
+        "location": "R 4. 16. 12",
+        "taxa": [
+          "Ranunculus Lingua L.",
+          "Alchemilla vulgaris L.",
+          "Epilobium palustre L.",
+          "Oenanthe fistulosa L.",
+          "Arnica montana L.",
+          "Cirsium anglicum Lam.",
+          "Veronica scutellata L.",
+          "Veronica Anagallis L.",
+          "Cladium Mariscus R. Br.",
+          "Carex echinata Murr.",
+          "Carex flava L.",
+          "Phleum pratense L.",
+          "Briza media L."
+        ],
         "label": "<b>R 4. 16. 12</b><br><i>Ranunculus Lingua</i> L.<br><i>Alchemilla vulgaris</i> L.<br><i>Epilobium palustre</i> L.<br><i>Oenanthe fistulosa</i> L.<br><i>Arnica montana</i> L.<br><i>Cirsium anglicum</i> Lam.<br><i>Veronica scutellata</i> L.<br><i>Veronica Anagallis</i> L.<br><i>Cladium Mariscus</i> R. Br.<br><i>Carex echinata</i> Murr.<br><i>Carex flava</i> L.<br><i>Phleum pratense</i> L.<br><i>Briza media</i> L."
       }
     },
@@ -232,6 +475,27 @@
         ]
       },
       "properties": {
+        "location": "R 4. 16. 21",
+        "taxa": [
+          "Ranunculus Lingua L.",
+          "Silene gallica",
+          "Hypericum tetrapterum Fr.",
+          "Trifolium hybridum L.",
+          "Rubus plicatus W.",
+          "Cirsium arvense Scop.",
+          "Cirsium anglicum Lam.",
+          "Mentha rotundifolia L.",
+          "Rumex crispus L.",
+          "Salix viminalis L.",
+          "Elodea canadensis Rich.",
+          "Sparganium minimum Fr.",
+          "Cladium Mariscus R. Br.",
+          "Scirpus setaceus L.",
+          "Carex remota L.",
+          "Carex flava L.",
+          "Avena caryophyllea Wygg.",
+          "Briza media L."
+        ],
         "label": "<b>R 4. 16. 21</b><br><i>Ranunculus Lingua</i> L.<br><i>Silene gallica</i><br><i>Hypericum tetrapterum</i> Fr.<br><i>Trifolium hybridum</i> L.<br><i>Rubus plicatus</i> W.<br><i>Cirsium arvense</i> Scop.<br><i>Cirsium anglicum</i> Lam.<br><i>Mentha rotundifolia</i> L.<br><i>Rumex crispus</i> L.<br><i>Salix viminalis</i> L.<br><i>Elodea canadensis</i> Rich.<br><i>Sparganium minimum</i> Fr.<br><i>Cladium Mariscus</i> R. Br.<br><i>Scirpus setaceus</i> L.<br><i>Carex remota</i> L.<br><i>Carex flava</i> L.<br><i>Avena caryophyllea</i> Wygg.<br><i>Briza media</i> L."
       }
     },
@@ -245,6 +509,29 @@
         ]
       },
       "properties": {
+        "location": "R 4. 18. 34",
+        "taxa": [
+          "Ranunculus Lingua L.",
+          "Ranunculus sceleratus L.",
+          "Ranunculus bulbosus L.",
+          "Nasturtium palustre DG",
+          "Nasturtium amphibium R. Br.",
+          "Holosteum umbellatum L.",
+          "Geranium Robertianum L.",
+          "Medicago lupulina L.",
+          "Oenanthe fistulosa L.",
+          "Veronica serpyllifolia L.",
+          "Scutellaria galericulata L.",
+          "Utricularia minor L.",
+          "Atriplex lalifolia Wahlb.",
+          "Salix Caprea L.",
+          "Stratiotes aloides L.",
+          "Orchis maculata L.",
+          "Listera ovata R. Br.",
+          "Scirpus sylvaticus L.",
+          "Carex Pseudocyperus L.",
+          "Poa pratensis L."
+        ],
         "label": "<b>R 4. 18. 34</b><br><i>Ranunculus Lingua</i> L.<br><i>Ranunculus sceleratus</i> L.<br><i>Ranunculus bulbosus</i> L.<br><i>Nasturtium palustre</i> DG<br><i>Nasturtium amphibium</i> R. Br.<br><i>Holosteum umbellatum</i> L.<br><i>Geranium Robertianum</i> L.<br><i>Medicago lupulina</i> L.<br><i>Oenanthe fistulosa</i> L.<br><i>Veronica serpyllifolia</i> L.<br><i>Scutellaria galericulata</i> L.<br><i>Utricularia minor</i> L.<br><i>Atriplex lalifolia</i> Wahlb.<br><i>Salix Caprea</i> L.<br><i>Stratiotes aloides</i> L.<br><i>Orchis maculata</i> L.<br><i>Listera ovata</i> R. Br.<br><i>Scirpus sylvaticus</i> L.<br><i>Carex Pseudocyperus</i> L.<br><i>Poa pratensis</i> L."
       }
     },
@@ -258,6 +545,24 @@
         ]
       },
       "properties": {
+        "location": "R 5. 11. 24",
+        "taxa": [
+          "Ranunculus Lingua L.",
+          "Drosera longifolia Hayne",
+          "Parnassia palustris L.",
+          "Spergula Morisonii Bor.",
+          "Filago minima L.",
+          "Senecio paludosus L.",
+          "Linaria minor Desf.",
+          "Veronica scutellata L.",
+          "Scutellaria minor L.",
+          "Anagallis tenella L.",
+          "Malaxis paludosa Sw.",
+          "Carex arenaria L.",
+          "Carex echinata Murr.",
+          "Carex flava L.",
+          "Avena praecox P. B."
+        ],
         "label": "<b>R 5. 11. 24</b><br><i>Ranunculus Lingua</i> L.<br><i>Drosera longifolia</i> Hayne<br><i>Parnassia palustris</i> L.<br><i>Spergula Morisonii</i> Bor.<br><i>Filago minima</i> L.<br><i>Senecio paludosus</i> L.<br><i>Linaria minor</i> Desf.<br><i>Veronica scutellata</i> L.<br><i>Scutellaria minor</i> L.<br><i>Anagallis tenella</i> L.<br><i>Malaxis paludosa</i> Sw.<br><i>Carex arenaria</i> L.<br><i>Carex echinata</i> Murr.<br><i>Carex flava</i> L.<br><i>Avena praecox</i> P. B."
       }
     },
@@ -271,6 +576,23 @@
         ]
       },
       "properties": {
+        "location": "R 5. 21. 14",
+        "taxa": [
+          "Ranunculus Lingua L.",
+          "Myosotis caespitosa Schltz.",
+          "Stachys palustris L.",
+          "Stratiotes aloides L.",
+          "Alisma ranunculoides L.",
+          "Typha angustifolia L.",
+          "Carex echinata Murr.",
+          "Carex filiformis L.",
+          "Carex flava L.",
+          "Carex Pseudocyperus L.",
+          "Briza media L.",
+          "Poa fertilis Host (= serotina Ehrh.)",
+          "Festuca arundinacea Schreb.",
+          "Polystichum Thelypteris Sw."
+        ],
         "label": "<b>R 5. 21. 14</b><br><i>Ranunculus Lingua</i> L.<br><i>Myosotis caespitosa</i> Schltz.<br><i>Stachys palustris</i> L.<br><i>Stratiotes aloides</i> L.<br><i>Alisma ranunculoides</i> L.<br><i>Typha angustifolia</i> L.<br><i>Carex echinata</i> Murr.<br><i>Carex filiformis</i> L.<br><i>Carex flava</i> L.<br><i>Carex Pseudocyperus</i> L.<br><i>Briza media</i> L.<br><i>Poa fertilis</i> Host (= serotina Ehrh.)<br><i>Festuca arundinacea</i> Schreb.<br><i>Polystichum Thelypteris</i> Sw."
       }
     },
@@ -284,6 +606,27 @@
         ]
       },
       "properties": {
+        "location": "Q 5. 61. 44",
+        "taxa": [
+          "Ranunculus bulbosus L.",
+          "Ficaria ranunculoides Mnch.",
+          "Cordydalis solida",
+          "Nasturtium amphibium R. Br.",
+          "Draba verna L.",
+          "Moehringia trinervia Chairv.",
+          "Stellaria Holostea L.",
+          "Cerastium arvense L.",
+          "Geranium Robertianum L.",
+          "Claytonia perfoliata Donn.",
+          "Sedum purpurascens Koch",
+          "Sedum acre L.",
+          "Saxifraga granulata L.",
+          "Hedera Helix L.",
+          "Vinca minor L.",
+          "Veronica hederaefolia L.",
+          "Convallaria majalis L.",
+          "Endymion nutans Duin."
+        ],
         "label": "<b>Q 5. 61. 44</b><br><i>Ranunculus bulbosus</i> L.<br><i>Ficaria ranunculoides</i> Mnch.<br><i>Cordydalis solida</i><br><i>Nasturtium amphibium</i> R. Br.<br><i>Draba verna</i> L.<br><i>Moehringia trinervia</i> Chairv.<br><i>Stellaria Holostea</i> L.<br><i>Cerastium arvense</i> L.<br><i>Geranium Robertianum</i> L.<br><i>Claytonia perfoliata</i> Donn.<br><i>Sedum purpurascens</i> Koch<br><i>Sedum acre</i> L.<br><i>Saxifraga granulata</i> L.<br><i>Hedera Helix</i> L.<br><i>Vinca minor</i> L.<br><i>Veronica hederaefolia</i> L.<br><i>Convallaria majalis</i> L.<br><i>Endymion nutans</i> Duin."
       }
     },
@@ -297,6 +640,13 @@
         ]
       },
       "properties": {
+        "location": "Q 5. 62. 33",
+        "taxa": [
+          "Ranunculus bulbosus L.",
+          "Stellaria uliginosa Murr.",
+          "Rumex crispus L.",
+          "Orchis maculata L."
+        ],
         "label": "<b>Q 5. 62. 33</b><br><i>Ranunculus bulbosus</i> L.<br><i>Stellaria uliginosa</i> Murr.<br><i>Rumex crispus</i> L.<br><i>Orchis maculata</i> L."
       }
     },
@@ -310,6 +660,13 @@
         ]
       },
       "properties": {
+        "location": "R 4. 27. 23",
+        "taxa": [
+          "Ranunculus bulbosus L.",
+          "Cardamine grandiflora Hall? (= C. paludosa Knaf.)",
+          "Stellaria uliginosa Murr.",
+          "Cerastium glomeratum Thuill."
+        ],
         "label": "<b>R 4. 27. 23</b><br><i>Ranunculus bulbosus</i> L.<br><i>Cardamine grandiflora</i> Hall? (= C. paludosa Knaf.)<br><i>Stellaria uliginosa</i> Murr.<br><i>Cerastium glomeratum</i> Thuill."
       }
     },
@@ -323,6 +680,24 @@
         ]
       },
       "properties": {
+        "location": "R 4. 27. 21",
+        "taxa": [
+          "Ranunculus bulbosus L.",
+          "Papaver Argemone L.",
+          "Sinapis arvensis L.",
+          "Cerastium arvense L.",
+          "Geranium pusillum L.",
+          "Erodium cicutarium Her.",
+          "Erodium pimpinellifolium Willd.",
+          "Medicago lupulina L.",
+          "Cirsium arvense Scop.",
+          "Veronica hederaefolia L.",
+          "Atriplex lalifolia Wahlb.",
+          "Euphorbia Peplus L.",
+          "Mercurialis annua L.",
+          "Phleum pratense L.",
+          "Hordeum murinum L."
+        ],
         "label": "<b>R 4. 27. 21</b><br><i>Ranunculus bulbosus</i> L.<br><i>Papaver Argemone</i> L.<br><i>Sinapis arvensis</i> L.<br><i>Cerastium arvense</i> L.<br><i>Geranium pusillum</i> L.<br><i>Erodium cicutarium</i> Her.<br><i>Erodium pimpinellifolium</i> Willd.<br><i>Medicago lupulina</i> L.<br><i>Cirsium arvense</i> Scop.<br><i>Veronica hederaefolia</i> L.<br><i>Atriplex lalifolia</i> Wahlb.<br><i>Euphorbia Peplus</i> L.<br><i>Mercurialis annua</i> L.<br><i>Phleum pratense</i> L.<br><i>Hordeum murinum</i> L."
       }
     },
@@ -336,6 +711,12 @@
         ]
       },
       "properties": {
+        "location": "R 4. 27. 41",
+        "taxa": [
+          "Ranunculus bulbosus L.",
+          "Polygonum Bistorta L.",
+          "Anthoxanthum Puellii L. X L."
+        ],
         "label": "<b>R 4. 27. 41</b><br><i>Ranunculus bulbosus</i> L.<br><i>Polygonum Bistorta</i> L.<br><i>Anthoxanthum Puellii</i> L. X L."
       }
     },
@@ -349,6 +730,21 @@
         ]
       },
       "properties": {
+        "location": "R 4. 28. 11",
+        "taxa": [
+          "Ficaria ranunculoides Mnch.",
+          "Nasturtium amphibium R. Br.",
+          "Erodium cicutarium Her.",
+          "Medicago maculata W.",
+          "Fragaria vesca L.",
+          "Sanguisorba officinalis L.",
+          "Hedera Helix L.",
+          "Galium Aparine L.",
+          "Cirsium anglicum Lam.",
+          "Crepis biennis L.",
+          "Veronica arvensis L.",
+          "Salix Caprea L."
+        ],
         "label": "<b>R 4. 28. 11</b><br><i>Ficaria ranunculoides</i> Mnch.<br><i>Nasturtium amphibium</i> R. Br.<br><i>Erodium cicutarium</i> Her.<br><i>Medicago maculata</i> W.<br><i>Fragaria vesca</i> L.<br><i>Sanguisorba officinalis</i> L.<br><i>Hedera Helix</i> L.<br><i>Galium Aparine</i> L.<br><i>Cirsium anglicum</i> Lam.<br><i>Crepis biennis</i> L.<br><i>Veronica arvensis</i> L.<br><i>Salix Caprea</i> L."
       }
     },
@@ -362,6 +758,15 @@
         ]
       },
       "properties": {
+        "location": "R 4. 28. 12",
+        "taxa": [
+          "Ficaria ranunculoides Mnch.",
+          "Rhamnus cathartica L.",
+          "Lotus corniculatus L.",
+          "Viburnum Opulus L.",
+          "Crepis biennis L.",
+          "Salix viminalis L."
+        ],
         "label": "<b>R 4. 28. 12</b><br><i>Ficaria ranunculoides</i> Mnch.<br><i>Rhamnus cathartica</i> L.<br><i>Lotus corniculatus</i> L.<br><i>Viburnum Opulus</i> L.<br><i>Crepis biennis</i> L.<br><i>Salix viminalis</i> L."
       }
     },
@@ -375,6 +780,25 @@
         ]
       },
       "properties": {
+        "location": "R 4. 15. 21",
+        "taxa": [
+          "Papaver Rhoeas L.",
+          "Diplotaxis muralis DC.",
+          "Agrostemma Githago L.",
+          "Geranium pusillum L.",
+          "Erodium pimpinellifolium Willd.",
+          "Melilotus alba Desv.",
+          "Vicia villosa Roth.",
+          "Sanguisorba officinalis L.",
+          "Gnaphalium sylvaticum L.",
+          "Cirsium arvense Scop.",
+          "Vaccinium Oxycococcos L.",
+          "Atriplex lalifolia Wahlb.",
+          "Rumex crispus L.",
+          "Polygonum tataricum L.",
+          "Phleum pratense L.",
+          "Poa pratensis L."
+        ],
         "label": "<b>R 4. 15. 21</b><br><i>Papaver Rhoeas</i> L.<br><i>Diplotaxis muralis</i> DC.<br><i>Agrostemma Githago</i> L.<br><i>Geranium pusillum</i> L.<br><i>Erodium pimpinellifolium</i> Willd.<br><i>Melilotus alba</i> Desv.<br><i>Vicia villosa</i> Roth.<br><i>Sanguisorba officinalis</i> L.<br><i>Gnaphalium sylvaticum</i> L.<br><i>Cirsium arvense</i> Scop.<br><i>Vaccinium Oxycococcos</i> L.<br><i>Atriplex lalifolia</i> Wahlb.<br><i>Rumex crispus</i> L.<br><i>Polygonum tataricum</i> L.<br><i>Phleum pratense</i> L.<br><i>Poa pratensis</i> L."
       }
     },
@@ -388,6 +812,23 @@
         ]
       },
       "properties": {
+        "location": "R 4. 15. 22",
+        "taxa": [
+          "Papaver Rhoeas L.",
+          "Papaver Argemone L.",
+          "Potentilla procumbens Sibth.",
+          "Galium saxatile L.",
+          "Arnica montana L.",
+          "Cirsium anglicum Lam.",
+          "Vaccinium Oxycococcos L.",
+          "Scutellaria galericulata L.",
+          "Alisma ranunculoides L.",
+          "Lemna trisulca L.",
+          "Orchis maculata L.",
+          "Briza media L.",
+          "Lolium multiflorum Lmk.",
+          "Polystichum Thelypteris Sw."
+        ],
         "label": "<b>R 4. 15. 22</b><br><i>Papaver Rhoeas</i> L.<br><i>Papaver Argemone</i> L.<br><i>Potentilla procumbens</i> Sibth.<br><i>Galium saxatile</i> L.<br><i>Arnica montana</i> L.<br><i>Cirsium anglicum</i> Lam.<br><i>Vaccinium Oxycococcos</i> L.<br><i>Scutellaria galericulata</i> L.<br><i>Alisma ranunculoides</i> L.<br><i>Lemna trisulca</i> L.<br><i>Orchis maculata</i> L.<br><i>Briza media</i> L.<br><i>Lolium multiflorum</i> Lmk.<br><i>Polystichum Thelypteris</i> Sw."
       }
     },
@@ -401,6 +842,19 @@
         ]
       },
       "properties": {
+        "location": "R 5. 11. 12",
+        "taxa": [
+          "Papaver Rhoeas L.",
+          "Fumaria officinalis L.",
+          "Erysimum Cheiranthoides L.",
+          "Erodium cicutarium Her.",
+          "Corrigiola littoralis L.",
+          "Sedum acre L.",
+          "Convolvulus arvensis L.",
+          "Veronica hederaefolia L.",
+          "Lamium purpureum L.",
+          "Galeopsis bifida Bonn."
+        ],
         "label": "<b>R 5. 11. 12</b><br><i>Papaver Rhoeas</i> L.<br><i>Fumaria officinalis</i> L.<br><i>Erysimum Cheiranthoides</i> L.<br><i>Erodium cicutarium</i> Her.<br><i>Corrigiola littoralis</i> L.<br><i>Sedum acre</i> L.<br><i>Convolvulus arvensis</i> L.<br><i>Veronica hederaefolia</i> L.<br><i>Lamium purpureum</i> L.<br><i>Galeopsis bifida</i> Bonn."
       }
     },
@@ -414,6 +868,39 @@
         ]
       },
       "properties": {
+        "location": "R 5. 11. 14",
+        "taxa": [
+          "Papaver Rhoeas L.",
+          "Nasturtium amphibium R. Br.",
+          "Hypericum quadrangulum L.",
+          "Rhamnus cathartica L.",
+          "Ervum tetraspermum L.",
+          "Lathyrus pratensis L.",
+          "Prunus spinosa L.",
+          "Geum urbanum L.",
+          "Potentilla procumbens Sibth.",
+          "Alchemilla vulgaris L.",
+          "Epilobium parviflorum Schreb.",
+          "Galium boreale",
+          "Galium Aparine L.",
+          "Crepis biennis L.",
+          "Fraxinus excelsior L.",
+          "Myosotis intermedia Lk.",
+          "Rhinanthus minor Ehrh.",
+          "Euphrasia Odontites L.",
+          "Antirrhinum Orontium L.",
+          "Veronica Beccabunga L.",
+          "Anagallis arvensis L.",
+          "Polygonum tataricum L.",
+          "Mercurialis annua L.",
+          "Juniperus communis L.",
+          "Potamogeton perfoliatus L.",
+          "Carex arenaria L.",
+          "Carex remota L.",
+          "Carex Pseudocyperus L.",
+          "Poa fertilis Host (= serotina Ehrh.)",
+          "Pteris aquilina L."
+        ],
         "label": "<b>R 5. 11. 14</b><br><i>Papaver Rhoeas</i> L.<br><i>Nasturtium amphibium</i> R. Br.<br><i>Hypericum quadrangulum</i> L.<br><i>Rhamnus cathartica</i> L.<br><i>Ervum tetraspermum</i> L.<br><i>Lathyrus pratensis</i> L.<br><i>Prunus spinosa</i> L.<br><i>Geum urbanum</i> L.<br><i>Potentilla procumbens</i> Sibth.<br><i>Alchemilla vulgaris</i> L.<br><i>Epilobium parviflorum</i> Schreb.<br><i>Galium boreale</i><br><i>Galium Aparine</i> L.<br><i>Crepis biennis</i> L.<br><i>Fraxinus excelsior</i> L.<br><i>Myosotis intermedia</i> Lk.<br><i>Rhinanthus minor</i> Ehrh.<br><i>Euphrasia Odontites</i> L.<br><i>Antirrhinum Orontium</i> L.<br><i>Veronica Beccabunga</i> L.<br><i>Anagallis arvensis</i> L.<br><i>Polygonum tataricum</i> L.<br><i>Mercurialis annua</i> L.<br><i>Juniperus communis</i> L.<br><i>Potamogeton perfoliatus</i> L.<br><i>Carex arenaria</i> L.<br><i>Carex remota</i> L.<br><i>Carex Pseudocyperus</i> L.<br><i>Poa fertilis</i> Host (= serotina Ehrh.)<br><i>Pteris aquilina</i> L."
       }
     },
@@ -427,6 +914,25 @@
         ]
       },
       "properties": {
+        "location": "R 5. 21. 11",
+        "taxa": [
+          "Papaver Rhoeas L.",
+          "Papaver Argemone L.",
+          "Fumaria officinalis L.",
+          "Erysimum Cheiranthoides L.",
+          "Silene gallica",
+          "Prunus petraea Tausch",
+          "Epilobium montanum L.",
+          "Oenanthe fistulosa L.",
+          "Galium Aparine L.",
+          "Myosotis intermedia Lk.",
+          "Veronica arvensis L.",
+          "Stachys palustris L.",
+          "Chenopodium murale L.",
+          "Scirpus sylvaticus L.",
+          "Scirpus sylvaticus L.",
+          "Carex remota L."
+        ],
         "label": "<b>R 5. 21. 11</b><br><i>Papaver Rhoeas</i> L.<br><i>Papaver Argemone</i> L.<br><i>Fumaria officinalis</i> L.<br><i>Erysimum Cheiranthoides</i> L.<br><i>Silene gallica</i><br><i>Prunus petraea</i> Tausch<br><i>Epilobium montanum</i> L.<br><i>Oenanthe fistulosa</i> L.<br><i>Galium Aparine</i> L.<br><i>Myosotis intermedia</i> Lk.<br><i>Veronica arvensis</i> L.<br><i>Stachys palustris</i> L.<br><i>Chenopodium murale</i> L.<br><i>Scirpus sylvaticus</i> L.<br><i>Scirpus sylvaticus</i> L.<br><i>Carex remota</i> L."
       }
     },
@@ -440,6 +946,20 @@
         ]
       },
       "properties": {
+        "location": "R 4. 27. 12",
+        "taxa": [
+          "Papaver Argemone L.",
+          "Prunus spinosa L.",
+          "Rubus plicatus W.",
+          "Potentilla procumbens Sibth.",
+          "Daucus Carota L.",
+          "Euphrasia Odontites L.",
+          "Lamium purpureum L.",
+          "Rumex crispus L.",
+          "Mercurialis annua L.",
+          "Salix Caprea L.",
+          "Avena caryophyllea Wygg."
+        ],
         "label": "<b>R 4. 27. 12</b><br><i>Papaver Argemone</i> L.<br><i>Prunus spinosa</i> L.<br><i>Rubus plicatus</i> W.<br><i>Potentilla procumbens</i> Sibth.<br><i>Daucus Carota</i> L.<br><i>Euphrasia Odontites</i> L.<br><i>Lamium purpureum</i> L.<br><i>Rumex crispus</i> L.<br><i>Mercurialis annua</i> L.<br><i>Salix Caprea</i> L.<br><i>Avena caryophyllea</i> Wygg."
       }
     },
@@ -453,6 +973,19 @@
         ]
       },
       "properties": {
+        "location": "R 4. 17. 43",
+        "taxa": [
+          "Papaver Argemone L.",
+          "Fumaria officinalis L.",
+          "Erodium pimpinellifolium Willd.",
+          "Prunus spinosa L.",
+          "Cirsium arvense Scop.",
+          "Convolvulus arvensis L.",
+          "Euphrasia Odontites L.",
+          "Anagallis arvensis L.",
+          "Mercurialis annua L.",
+          "Hordeum murinum L."
+        ],
         "label": "<b>R 4. 17. 43</b><br><i>Papaver Argemone</i> L.<br><i>Fumaria officinalis</i> L.<br><i>Erodium pimpinellifolium</i> Willd.<br><i>Prunus spinosa</i> L.<br><i>Cirsium arvense</i> Scop.<br><i>Convolvulus arvensis</i> L.<br><i>Euphrasia Odontites</i> L.<br><i>Anagallis arvensis</i> L.<br><i>Mercurialis annua</i> L.<br><i>Hordeum murinum</i> L."
       }
     },
@@ -466,6 +999,14 @@
         ]
       },
       "properties": {
+        "location": "R 4. 16. 23",
+        "taxa": [
+          "Papaver Argemone L.",
+          "Trifolium hybridum L.",
+          "Mentha sativa L.",
+          "Anagallis arvensis L.",
+          "Carex flava L."
+        ],
         "label": "<b>R 4. 16. 23</b><br><i>Papaver Argemone</i> L.<br><i>Trifolium hybridum</i> L.<br><i>Mentha sativa</i> L.<br><i>Anagallis arvensis</i> L.<br><i>Carex flava</i> L."
       }
     },
@@ -479,6 +1020,28 @@
         ]
       },
       "properties": {
+        "location": "R 5. 11. 31",
+        "taxa": [
+          "Nasturtium officinale R. Br.",
+          "Spergula Morisonii Bor.",
+          "Stellaria glauca With.",
+          "Hypericum quadrangulum L.",
+          "Geum urbanum L.",
+          "Rubus Sprengelü W.",
+          "Epilobium parviflorum Schreb.",
+          "Erythraea Centaurium P.",
+          "Veronica scutellata L.",
+          "Mentha rotundifolia L.",
+          "Galeopsis bifida Bonn.",
+          "Stachys palustris L.",
+          "Elodea canadensis Rich.",
+          "Potamogeton rufescens Schrad.",
+          "Typha angustifolia L.",
+          "Epipactis latifolia DU.",
+          "Avena caryophyllea Wygg.",
+          "Avena praecox P. B.",
+          "Poa nemoralis L."
+        ],
         "label": "<b>R 5. 11. 31</b><br><i>Nasturtium officinale</i> R. Br.<br><i>Spergula Morisonii</i> Bor.<br><i>Stellaria glauca</i> With.<br><i>Hypericum quadrangulum</i> L.<br><i>Geum urbanum</i> L.<br><i>Rubus Sprengelü</i> W.<br><i>Epilobium parviflorum</i> Schreb.<br><i>Erythraea Centaurium</i> P.<br><i>Veronica scutellata</i> L.<br><i>Mentha rotundifolia</i> L.<br><i>Galeopsis bifida</i> Bonn.<br><i>Stachys palustris</i> L.<br><i>Elodea canadensis</i> Rich.<br><i>Potamogeton rufescens</i> Schrad.<br><i>Typha angustifolia</i> L.<br><i>Epipactis latifolia</i> DU.<br><i>Avena caryophyllea</i> Wygg.<br><i>Avena praecox</i> P. B.<br><i>Poa nemoralis</i> L."
       }
     },
@@ -492,6 +1055,19 @@
         ]
       },
       "properties": {
+        "location": "R 4. 17. 32",
+        "taxa": [
+          "Nasturtium palustre DG",
+          "Erodium pimpinellifolium Willd.",
+          "Geum urbanum L.",
+          "Potentilla reptans L.",
+          "Cirsium arvense Scop.",
+          "Anagallis arvensis L.",
+          "Polygonum tataricum L.",
+          "Mercurialis annua L.",
+          "Avena caryophyllea Wygg.",
+          "Hordeum murinum L."
+        ],
         "label": "<b>R 4. 17. 32</b><br><i>Nasturtium palustre</i> DG<br><i>Erodium pimpinellifolium</i> Willd.<br><i>Geum urbanum</i> L.<br><i>Potentilla reptans</i> L.<br><i>Cirsium arvense</i> Scop.<br><i>Anagallis arvensis</i> L.<br><i>Polygonum tataricum</i> L.<br><i>Mercurialis annua</i> L.<br><i>Avena caryophyllea</i> Wygg.<br><i>Hordeum murinum</i> L."
       }
     },
@@ -505,6 +1081,24 @@
         ]
       },
       "properties": {
+        "location": "R 4. 18. 33",
+        "taxa": [
+          "Nasturtium palustre DG",
+          "Nasturtium amphibium R. Br.",
+          "Erodium cicutarium Her.",
+          "Erodium pimpinellifolium Willd.",
+          "Rhamnus cathartica L.",
+          "Medicago lupulina L.",
+          "Lotus corniculatus L.",
+          "Alchemilla vulgaris L.",
+          "Carum Carvi L.",
+          "Galium Mollugo L.",
+          "Ligustrum vulgare L.",
+          "Veronica Beccabunga L.",
+          "Lamium purpureum L.",
+          "Mercurialis annua L.",
+          "Hordeum murinum L."
+        ],
         "label": "<b>R 4. 18. 33</b><br><i>Nasturtium palustre</i> DG<br><i>Nasturtium amphibium</i> R. Br.<br><i>Erodium cicutarium</i> Her.<br><i>Erodium pimpinellifolium</i> Willd.<br><i>Rhamnus cathartica</i> L.<br><i>Medicago lupulina</i> L.<br><i>Lotus corniculatus</i> L.<br><i>Alchemilla vulgaris</i> L.<br><i>Carum Carvi</i> L.<br><i>Galium Mollugo</i> L.<br><i>Ligustrum vulgare</i> L.<br><i>Veronica Beccabunga</i> L.<br><i>Lamium purpureum</i> L.<br><i>Mercurialis annua</i> L.<br><i>Hordeum murinum</i> L."
       }
     },
@@ -518,6 +1112,17 @@
         ]
       },
       "properties": {
+        "location": "R 4. 18. 31",
+        "taxa": [
+          "Sisymbrium panonicum Jacq.",
+          "Potentilla reptans L.",
+          "Daucus Carota L.",
+          "Chaerophyllum temulum L.",
+          "Convolvulus arvensis L.",
+          "Atriplex lalifolia Wahlb.",
+          "Salix Caprea L.",
+          "Hordeum murinum L."
+        ],
         "label": "<b>R 4. 18. 31</b><br><i>Sisymbrium panonicum</i> Jacq.<br><i>Potentilla reptans</i> L.<br><i>Daucus Carota</i> L.<br><i>Chaerophyllum temulum</i> L.<br><i>Convolvulus arvensis</i> L.<br><i>Atriplex lalifolia</i> Wahlb.<br><i>Salix Caprea</i> L.<br><i>Hordeum murinum</i> L."
       }
     },
@@ -531,6 +1136,13 @@
         ]
       },
       "properties": {
+        "location": "R 4. 18. 32",
+        "taxa": [
+          "Sinapis arvensis L.",
+          "Hypericum pulchrum L.",
+          "Daucus Carota L.",
+          "Euphrasia Odontites L."
+        ],
         "label": "<b>R 4. 18. 32</b><br><i>Sinapis arvensis</i> L.<br><i>Hypericum pulchrum</i> L.<br><i>Daucus Carota</i> L.<br><i>Euphrasia Odontites</i> L."
       }
     },
@@ -544,6 +1156,22 @@
         ]
       },
       "properties": {
+        "location": "R 5. 21. 12",
+        "taxa": [
+          "Viola sylvatica",
+          "Radiola linoides Gm.",
+          "Oenanthe fistulosa L.",
+          "Filago minima L.",
+          "Lobelia Dortmanna L.",
+          "Ilex Aquifolium L.",
+          "Veronica serpyllifolia L.",
+          "Polygonum tataricum L.",
+          "Stratiotes aloides L.",
+          "Alisma ranunculoides L.",
+          "Typha angustifolia L.",
+          "Carex disticha Huds.",
+          "Carex flava L."
+        ],
         "label": "<b>R 5. 21. 12</b><br><i>Viola sylvatica</i><br><i>Radiola linoides</i> Gm.<br><i>Oenanthe fistulosa</i> L.<br><i>Filago minima</i> L.<br><i>Lobelia Dortmanna</i> L.<br><i>Ilex Aquifolium</i> L.<br><i>Veronica serpyllifolia</i> L.<br><i>Polygonum tataricum</i> L.<br><i>Stratiotes aloides</i> L.<br><i>Alisma ranunculoides</i> L.<br><i>Typha angustifolia</i> L.<br><i>Carex disticha</i> Huds.<br><i>Carex flava</i> L."
       }
     },
@@ -557,6 +1185,40 @@
         ]
       },
       "properties": {
+        "location": "R 5. 21. 13",
+        "taxa": [
+          "Viola odorata L.",
+          "Stellaria uliginosa Murr.",
+          "Radiola linoides Gm.",
+          "Geranium Robertianum L.",
+          "Oxalis Acetosella L.",
+          "Prunus petraea Tausch",
+          "Rubus Idaeus L.",
+          "Alchemilla vulgaris L.",
+          "Sanguisorba officinalis L.",
+          "Oenanthe fistulosa L.",
+          "Hedera Helix L.",
+          "Viburnum Opulus L.",
+          "Galium Aparine L.",
+          "Solidago Virga-aurea L.",
+          "Ilex Aquifolium L.",
+          "Myosotis caespitosa Schltz.",
+          "Euphrasia Odontites L.",
+          "Veronica officinalis L.",
+          "Polygonum tataricum L.",
+          "Corylus Avellana L.",
+          "Stratiotes aloides L.",
+          "Majanthemum bifolium DC.",
+          "Scirpus setaceus L.",
+          "Scirpus sylvaticus L.",
+          "Carex remota L.",
+          "Carex echinata Murr.",
+          "Carex hirta L.",
+          "Carex Pseudocyperus L.",
+          "Phleum pratense L.",
+          "Aira caespitosa L.",
+          "Pteris aquilina L."
+        ],
         "label": "<b>R 5. 21. 13</b><br><i>Viola odorata</i> L.<br><i>Stellaria uliginosa</i> Murr.<br><i>Radiola linoides</i> Gm.<br><i>Geranium Robertianum</i> L.<br><i>Oxalis Acetosella</i> L.<br><i>Prunus petraea</i> Tausch<br><i>Rubus Idaeus</i> L.<br><i>Alchemilla vulgaris</i> L.<br><i>Sanguisorba officinalis</i> L.<br><i>Oenanthe fistulosa</i> L.<br><i>Hedera Helix</i> L.<br><i>Viburnum Opulus</i> L.<br><i>Galium Aparine</i> L.<br><i>Solidago Virga-aurea</i> L.<br><i>Ilex Aquifolium</i> L.<br><i>Myosotis caespitosa</i> Schltz.<br><i>Euphrasia Odontites</i> L.<br><i>Veronica officinalis</i> L.<br><i>Polygonum tataricum</i> L.<br><i>Corylus Avellana</i> L.<br><i>Stratiotes aloides</i> L.<br><i>Majanthemum bifolium</i> DC.<br><i>Scirpus setaceus</i> L.<br><i>Scirpus sylvaticus</i> L.<br><i>Carex remota</i> L.<br><i>Carex echinata</i> Murr.<br><i>Carex hirta</i> L.<br><i>Carex Pseudocyperus</i> L.<br><i>Phleum pratense</i> L.<br><i>Aira caespitosa</i> L.<br><i>Pteris aquilina</i> L."
       }
     },
@@ -570,6 +1232,30 @@
         ]
       },
       "properties": {
+        "location": "R 5. 21. 31",
+        "taxa": [
+          "Saponaria officinalis L.",
+          "Silene gallica",
+          "Erodium pimpinellifolium Willd.",
+          "Prunus spinosa L.",
+          "Herniaria glabra L.",
+          "Hedera Helix L.",
+          "Veronica Beccabunga L.",
+          "Polygonum tataricum L.",
+          "Corylus Avellana L.",
+          "Alisma ranunculoides L.",
+          "Potamogeton perfoliatus L.",
+          "Potamogeton compressus L.",
+          "Sparganium minimum Fr.",
+          "Calla palustris L.",
+          "Majanthemum bifolium DC.",
+          "Scirpus sylvaticus L.",
+          "Carex filiformis L.",
+          "Carex Pseudocyperus L.",
+          "Avena praecox P. B.",
+          "Festuca Myurus Ehrh.",
+          "Pteris aquilina L."
+        ],
         "label": "<b>R 5. 21. 31</b><br><i>Saponaria officinalis</i> L.<br><i>Silene gallica</i><br><i>Erodium pimpinellifolium</i> Willd.<br><i>Prunus spinosa</i> L.<br><i>Herniaria glabra</i> L.<br><i>Hedera Helix</i> L.<br><i>Veronica Beccabunga</i> L.<br><i>Polygonum tataricum</i> L.<br><i>Corylus Avellana</i> L.<br><i>Alisma ranunculoides</i> L.<br><i>Potamogeton perfoliatus</i> L.<br><i>Potamogeton compressus</i> L.<br><i>Sparganium minimum</i> Fr.<br><i>Calla palustris</i> L.<br><i>Majanthemum bifolium</i> DC.<br><i>Scirpus sylvaticus</i> L.<br><i>Carex filiformis</i> L.<br><i>Carex Pseudocyperus</i> L.<br><i>Avena praecox</i> P. B.<br><i>Festuca Myurus</i> Ehrh.<br><i>Pteris aquilina</i> L."
       }
     },
@@ -583,6 +1269,15 @@
         ]
       },
       "properties": {
+        "location": "R 4. 17. 31",
+        "taxa": [
+          "Spergula Morisonii Bor.",
+          "Rubus plicatus W.",
+          "Scleranthus perennis L.",
+          "Filago minima L.",
+          "Gnaphalium dioicum L.",
+          "Veronica officinalis L."
+        ],
         "label": "<b>R 4. 17. 31</b><br><i>Spergula Morisonii</i> Bor.<br><i>Rubus plicatus</i> W.<br><i>Scleranthus perennis</i> L.<br><i>Filago minima</i> L.<br><i>Gnaphalium dioicum</i> L.<br><i>Veronica officinalis</i> L."
       }
     },
@@ -596,6 +1291,13 @@
         ]
       },
       "properties": {
+        "location": "R 4. 18. 42",
+        "taxa": [
+          "Holosteum umbellatum L.",
+          "Daucus Carota L.",
+          "Cirsium arvense Scop.",
+          "Carex Pseudocyperus L."
+        ],
         "label": "<b>R 4. 18. 42</b><br><i>Holosteum umbellatum</i> L.<br><i>Daucus Carota</i> L.<br><i>Cirsium arvense</i> Scop.<br><i>Carex Pseudocyperus</i> L."
       }
     },
@@ -609,6 +1311,19 @@
         ]
       },
       "properties": {
+        "location": "R 4. 26. 24",
+        "taxa": [
+          "Stellaria glauca With.",
+          "Epilobium palustre L.",
+          "Myriophyllum spicatum L.",
+          "Peplis Portula L.",
+          "Arnica montana L.",
+          "Cirsium anglicum Lam.",
+          "Veronica Anagallis L.",
+          "Thymus Serpyllum L.",
+          "Polygonum tataricum L.",
+          "Alisma ranunculoides L."
+        ],
         "label": "<b>R 4. 26. 24</b><br><i>Stellaria glauca</i> With.<br><i>Epilobium palustre</i> L.<br><i>Myriophyllum spicatum</i> L.<br><i>Peplis Portula</i> L.<br><i>Arnica montana</i> L.<br><i>Cirsium anglicum</i> Lam.<br><i>Veronica Anagallis</i> L.<br><i>Thymus Serpyllum</i> L.<br><i>Polygonum tataricum</i> L.<br><i>Alisma ranunculoides</i> L."
       }
     },
@@ -622,6 +1337,10 @@
         ]
       },
       "properties": {
+        "location": "R 5. 26. 24",
+        "taxa": [
+          "Stellaria Dilleniana Mönch."
+        ],
         "label": "<b>R 5. 26. 24</b><br><i>Stellaria Dilleniana</i> Mönch."
       }
     },
@@ -635,6 +1354,10 @@
         ]
       },
       "properties": {
+        "location": "R 5. 12. 31",
+        "taxa": [
+          "Cerastium arvense L."
+        ],
         "label": "<b>R 5. 12. 31</b><br><i>Cerastium arvense</i> L."
       }
     },
@@ -648,6 +1371,19 @@
         ]
       },
       "properties": {
+        "location": "R 5. 21. 34",
+        "taxa": [
+          "Hypericum tetrapterum Fr.",
+          "Oenanthe fistulosa L.",
+          "Anagallis tenella L.",
+          "Juniperus communis L.",
+          "Alisma natans L.",
+          "Alisma ranunculoides L.",
+          "Potamogeton compressus L.",
+          "Malaxis paludosa Sw.",
+          "Scirpus setaceus L.",
+          "Carex echinata Murr."
+        ],
         "label": "<b>R 5. 21. 34</b><br><i>Hypericum tetrapterum</i> Fr.<br><i>Oenanthe fistulosa</i> L.<br><i>Anagallis tenella</i> L.<br><i>Juniperus communis</i> L.<br><i>Alisma natans</i> L.<br><i>Alisma ranunculoides</i> L.<br><i>Potamogeton compressus</i> L.<br><i>Malaxis paludosa</i> Sw.<br><i>Scirpus setaceus</i> L.<br><i>Carex echinata</i> Murr."
       }
     },
@@ -661,6 +1397,19 @@
         ]
       },
       "properties": {
+        "location": "R 4. 27. 11",
+        "taxa": [
+          "Erodium pimpinellifolium Willd.",
+          "Trifolium hybridum L.",
+          "Trifolium arvense L.",
+          "Rubus Idaeus L.",
+          "Erigeron canadensis L.",
+          "Cirsium anglicum Lam.",
+          "Atriplex lalifolia Wahlb.",
+          "Alisma natans L.",
+          "Aira discolor Thuillier (= uliginosa Whe.)",
+          "Avena caryophyllea Wygg."
+        ],
         "label": "<b>R 4. 27. 11</b><br><i>Erodium pimpinellifolium</i> Willd.<br><i>Trifolium hybridum</i> L.<br><i>Trifolium arvense</i> L.<br><i>Rubus Idaeus</i> L.<br><i>Erigeron canadensis</i> L.<br><i>Cirsium anglicum</i> Lam.<br><i>Atriplex lalifolia</i> Wahlb.<br><i>Alisma natans</i> L.<br><i>Aira discolor</i> Thuillier (= uliginosa Whe.)<br><i>Avena caryophyllea</i> Wygg."
       }
     },
@@ -674,6 +1423,20 @@
         ]
       },
       "properties": {
+        "location": "R 4. 27. 33",
+        "taxa": [
+          "Erodium pimpinellifolium Willd.",
+          "Filago minima L.",
+          "Gnaphalium dioicum L.",
+          "Arnica montana L.",
+          "Thymus Serpyllum L.",
+          "Plantago Coronopus L.",
+          "Carex leporina L.",
+          "Carex echinata Murr.",
+          "Anthoxanthum Puellii L. X L.",
+          "Aira discolor Thuillier (= uliginosa Whe.)",
+          "Lycopodium clavatum L."
+        ],
         "label": "<b>R 4. 27. 33</b><br><i>Erodium pimpinellifolium</i> Willd.<br><i>Filago minima</i> L.<br><i>Gnaphalium dioicum</i> L.<br><i>Arnica montana</i> L.<br><i>Thymus Serpyllum</i> L.<br><i>Plantago Coronopus</i> L.<br><i>Carex leporina</i> L.<br><i>Carex echinata</i> Murr.<br><i>Anthoxanthum Puellii</i> L. X L.<br><i>Aira discolor</i> Thuillier (= uliginosa Whe.)<br><i>Lycopodium clavatum</i> L."
       }
     },
@@ -687,6 +1450,19 @@
         ]
       },
       "properties": {
+        "location": "R 4. 27. 43",
+        "taxa": [
+          "Medicago lupulina L.",
+          "Bryonia dioica Jacq.",
+          "Chaerophyllum temulum L.",
+          "Hedera Helix L.",
+          "Erigeron canadensis L.",
+          "Cichorium Intybus L.",
+          "Convolvulus arvensis L.",
+          "Atriplex lalifolia Wahlb.",
+          "Bromus sterilis L.",
+          "Hordeum murinum L."
+        ],
         "label": "<b>R 4. 27. 43</b><br><i>Medicago lupulina</i> L.<br><i>Bryonia dioica</i> Jacq.<br><i>Chaerophyllum temulum</i> L.<br><i>Hedera Helix</i> L.<br><i>Erigeron canadensis</i> L.<br><i>Cichorium Intybus</i> L.<br><i>Convolvulus arvensis</i> L.<br><i>Atriplex lalifolia</i> Wahlb.<br><i>Bromus sterilis</i> L.<br><i>Hordeum murinum</i> L."
       }
     },
@@ -700,6 +1476,15 @@
         ]
       },
       "properties": {
+        "location": "R 5. 11. 23",
+        "taxa": [
+          "Medicago lupulina L.",
+          "Lotus corniculatus L.",
+          "Lobelia Dortmanna L.",
+          "Galeopsis bifida Bonn.",
+          "Polygonum tataricum L.",
+          "Carex arenaria L."
+        ],
         "label": "<b>R 5. 11. 23</b><br><i>Medicago lupulina</i> L.<br><i>Lotus corniculatus</i> L.<br><i>Lobelia Dortmanna</i> L.<br><i>Galeopsis bifida</i> Bonn.<br><i>Polygonum tataricum</i> L.<br><i>Carex arenaria</i> L."
       }
     },
@@ -713,6 +1498,10 @@
         ]
       },
       "properties": {
+        "location": "R 5. 27. 24",
+        "taxa": [
+          "Lathyrus pratensis L."
+        ],
         "label": "<b>R 5. 27. 24</b><br><i>Lathyrus pratensis</i> L."
       }
     },
@@ -726,6 +1515,25 @@
         ]
       },
       "properties": {
+        "location": "R 5. 11. 32",
+        "taxa": [
+          "Prunus petraea Tausch",
+          "Lobelia Dortmanna L.",
+          "Myosotis intermedia Lk.",
+          "Rhinanthus minor Ehrh.",
+          "Thymus Serpyllum L.",
+          "Stachys palustris L.",
+          "Utricularia neglecta Lehm.",
+          "Utricularia minor L.",
+          "Elodea canadensis Rich.",
+          "Alisma natans L.",
+          "Alisma ranunculoides L.",
+          "Potamogeton lucens L.",
+          "Potamogeton rufescens Schrad.",
+          "Calamagrostis lanceolata Roth.",
+          "Poa fertilis Host (= serotina Ehrh.)",
+          "Pteris aquilina L."
+        ],
         "label": "<b>R 5. 11. 32</b><br><i>Prunus petraea</i> Tausch<br><i>Lobelia Dortmanna</i> L.<br><i>Myosotis intermedia</i> Lk.<br><i>Rhinanthus minor</i> Ehrh.<br><i>Thymus Serpyllum</i> L.<br><i>Stachys palustris</i> L.<br><i>Utricularia neglecta</i> Lehm.<br><i>Utricularia minor</i> L.<br><i>Elodea canadensis</i> Rich.<br><i>Alisma natans</i> L.<br><i>Alisma ranunculoides</i> L.<br><i>Potamogeton lucens</i> L.<br><i>Potamogeton rufescens</i> Schrad.<br><i>Calamagrostis lanceolata</i> Roth.<br><i>Poa fertilis</i> Host (= serotina Ehrh.)<br><i>Pteris aquilina</i> L."
       }
     },
@@ -739,6 +1547,17 @@
         ]
       },
       "properties": {
+        "location": "R 4. 18. 23",
+        "taxa": [
+          "Prunus spinosa L.",
+          "Potentilla procumbens Sibth.",
+          "Daucus Carota L.",
+          "Chrysanthemum Parthenium P.",
+          "Lappa minor DC.",
+          "Lamium amplexicaule L.",
+          "Salix Caprea L.",
+          "Bromus sterilis L."
+        ],
         "label": "<b>R 4. 18. 23</b><br><i>Prunus spinosa</i> L.<br><i>Potentilla procumbens</i> Sibth.<br><i>Daucus Carota</i> L.<br><i>Chrysanthemum Parthenium</i> P.<br><i>Lappa minor</i> DC.<br><i>Lamium amplexicaule</i> L.<br><i>Salix Caprea</i> L.<br><i>Bromus sterilis</i> L."
       }
     },
@@ -752,6 +1571,12 @@
         ]
       },
       "properties": {
+        "location": "R 5. 11. 13",
+        "taxa": [
+          "Prunus spinosa L.",
+          "Oenanthe fistulosa L.",
+          "Campanula persicifolia L."
+        ],
         "label": "<b>R 5. 11. 13</b><br><i>Prunus spinosa</i> L.<br><i>Oenanthe fistulosa</i> L.<br><i>Campanula persicifolia</i> L."
       }
     },
@@ -765,6 +1590,11 @@
         ]
       },
       "properties": {
+        "location": "R 5. 11. 22",
+        "taxa": [
+          "Prunus Padus L.",
+          "Hedera Helix L."
+        ],
         "label": "<b>R 5. 11. 22</b><br><i>Prunus Padus</i> L.<br><i>Hedera Helix</i> L."
       }
     },
@@ -778,6 +1608,10 @@
         ]
       },
       "properties": {
+        "location": "R 5. 12. 11",
+        "taxa": [
+          "Prunus Padus L."
+        ],
         "label": "<b>R 5. 12. 11</b><br><i>Prunus Padus</i> L."
       }
     },
@@ -791,6 +1625,10 @@
         ]
       },
       "properties": {
+        "location": "R 4. 11. 43",
+        "taxa": [
+          "Fragaria vesca L."
+        ],
         "label": "<b>R 4. 11. 43</b><br><i>Fragaria vesca</i> L."
       }
     },
@@ -804,6 +1642,12 @@
         ]
       },
       "properties": {
+        "location": "R 4. 11. 22",
+        "taxa": [
+          "Fragaria vesca L.",
+          "Berula angustifolia Koch",
+          "Salix Caprea L."
+        ],
         "label": "<b>R 4. 11. 22</b><br><i>Fragaria vesca</i> L.<br><i>Berula angustifolia</i> Koch<br><i>Salix Caprea</i> L."
       }
     },
@@ -817,6 +1661,10 @@
         ]
       },
       "properties": {
+        "location": "R 6. 15. 21",
+        "taxa": [
+          "Erigeron canadensis L."
+        ],
         "label": "<b>R 6. 15. 21</b><br><i>Erigeron canadensis</i> L."
       }
     },
@@ -830,6 +1678,13 @@
         ]
       },
       "properties": {
+        "location": "R 4. 27. 34",
+        "taxa": [
+          "Filago minima L.",
+          "Veronica officinalis L.",
+          "Thymus Serpyllum L.",
+          "Salix Caprea L."
+        ],
         "label": "<b>R 4. 27. 34</b><br><i>Filago minima</i> L.<br><i>Veronica officinalis</i> L.<br><i>Thymus Serpyllum</i> L.<br><i>Salix Caprea</i> L."
       }
     },
@@ -843,6 +1698,11 @@
         ]
       },
       "properties": {
+        "location": "R 5. 11. 33",
+        "taxa": [
+          "Filago minima L.",
+          "Echium vulgare L."
+        ],
         "label": "<b>R 5. 11. 33</b><br><i>Filago minima</i> L.<br><i>Echium vulgare</i> L."
       }
     },
@@ -856,6 +1716,10 @@
         ]
       },
       "properties": {
+        "location": "R 4. 16. 24",
+        "taxa": [
+          "Arnica montana L."
+        ],
         "label": "<b>R 4. 16. 24</b><br><i>Arnica montana</i> L."
       }
     },
@@ -869,6 +1733,14 @@
         ]
       },
       "properties": {
+        "location": "R 4. 17. 44",
+        "taxa": [
+          "Tragopogon pratensis L.",
+          "Mercurialis annua L.",
+          "Festuca elatior L.",
+          "Bromus sterilis L.",
+          "Hordeum murinum L."
+        ],
         "label": "<b>R 4. 17. 44</b><br><i>Tragopogon pratensis</i> L.<br><i>Mercurialis annua</i> L.<br><i>Festuca elatior</i> L.<br><i>Bromus sterilis</i> L.<br><i>Hordeum murinum</i> L."
       }
     },
@@ -882,6 +1754,10 @@
         ]
       },
       "properties": {
+        "location": "R 4. 26. 44",
+        "taxa": [
+          "Fraxinus excelsior L."
+        ],
         "label": "<b>R 4. 26. 44</b><br><i>Fraxinus excelsior</i> L."
       }
     },
@@ -895,6 +1771,10 @@
         ]
       },
       "properties": {
+        "location": "Q 4. 65. 43",
+        "taxa": [
+          "Myosotis caespitosa Schltz."
+        ],
         "label": "<b>Q 4. 65. 43</b><br><i>Myosotis caespitosa</i> Schltz."
       }
     },
@@ -908,6 +1788,10 @@
         ]
       },
       "properties": {
+        "location": "R 5. 18. 31",
+        "taxa": [
+          "Myosotis intermedia Lk."
+        ],
         "label": "<b>R 5. 18. 31</b><br><i>Myosotis intermedia</i> Lk."
       }
     },
@@ -921,6 +1805,10 @@
         ]
       },
       "properties": {
+        "location": "R 4. 16. 41",
+        "taxa": [
+          "Veronica scutellata L."
+        ],
         "label": "<b>R 4. 16. 41</b><br><i>Veronica scutellata</i> L."
       }
     },
@@ -934,6 +1822,10 @@
         ]
       },
       "properties": {
+        "location": "R 4. 18. 44",
+        "taxa": [
+          "Thymus Serpyllum L."
+        ],
         "label": "<b>R 4. 18. 44</b><br><i>Thymus Serpyllum</i> L."
       }
     },
@@ -947,6 +1839,10 @@
         ]
       },
       "properties": {
+        "location": "R 4. 23. 11",
+        "taxa": [
+          "Salix viminalis L."
+        ],
         "label": "<b>R 4. 23. 11</b><br><i>Salix viminalis</i> L."
       }
     },
@@ -960,6 +1856,10 @@
         ]
       },
       "properties": {
+        "location": "R 5. 16. 24",
+        "taxa": [
+          "Platanthera bifolia Rchb."
+        ],
         "label": "<b>R 5. 16. 24</b><br><i>Platanthera bifolia</i> Rchb."
       }
     },
@@ -973,6 +1873,10 @@
         ]
       },
       "properties": {
+        "location": "R 4. 18. 14",
+        "taxa": [
+          "Festuca elatior L."
+        ],
         "label": "<b>R 4. 18. 14</b><br><i>Festuca elatior</i> L."
       }
     },
@@ -986,6 +1890,10 @@
         ]
       },
       "properties": {
+        "location": "R 4. 21. 33",
+        "taxa": [
+          "Polystichum Thelypteris Sw."
+        ],
         "label": "<b>R 4. 21. 33</b><br><i>Polystichum Thelypteris</i> Sw."
       }
     },
@@ -999,6 +1907,10 @@
         ]
       },
       "properties": {
+        "location": "R 5. 18. 24",
+        "taxa": [
+          "Pteris aquilina L."
+        ],
         "label": "<b>R 5. 18. 24</b><br><i>Pteris aquilina</i> L."
       }
     }
