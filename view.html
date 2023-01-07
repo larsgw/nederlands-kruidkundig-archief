@@ -16,14 +16,10 @@
     <div id="map" style="width: 100vw; height: 100vh;"></div>
     <script>
       function display (layers) {
-        var map = new L.Map('map').setView([51.56, 5.1], 12)
-        L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-          maxZoom: 19,
-          attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-        }).addTo(map)
-
+        var overlayLayers = {}
         for (var i = 0; i < layers.length; i++) {
-          L.geoJSON(layers[i], {
+          var label = layers[i][0]
+          var layer = L.geoJSON(layers[i][1], {
             onEachFeature: function (feature, layer) {
               layer.bindPopup(feature.properties.label)
             },
@@ -35,14 +31,41 @@
                 radius: 500
               })
             }
-          }).addTo(map)
+          })
+          layers[i] = L.layerGroup([layer])
+          overlayLayers[label] = layers[i]
         }
+
+        var mapLayers = {
+          OpenStreetMap: L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+          }),
+          'Bonnebladen (1900)': L.tileLayer.wms('https://geoserver-bigdata.nieuwland.nl/RCE/wms?', {
+            attribution: '<a href="https://www.atlasleefomgeving.nl/topografische-kaart-1900-bonnebladen">WUR, Rijksdienst voor het Cultureel Erfgoed</a>',
+            format: 'image/png',
+            transparent: true,
+            layers: 'Bonnebladen1900'
+          })
+        }
+
+        var map = new L.Map('map', {
+          center: [51.56, 5.1],
+          zoom: 12,
+          layers: [mapLayers.OpenStreetMap].concat(layers)
+        })
+
+        var layerControl = L.control.layers(mapLayers, overlayLayers).addTo(map)
       }
       var layers = window.location.search.slice(1).split('&')
       for (var i = 0; i < layers.length; i++) {
-        layers[i] = fetch('data/' + layers[i] + '.json').then(function (response) {
-          return response.json()
-        })
+        (function (label) {
+          layers[i] = fetch('data/' + label + '.json').then(function (response) {
+            return response.json().then(function (json) {
+              return [label, json]
+            })
+          })
+        })(layers[i])
       }
       Promise.all(layers).then(display)
     </script>
