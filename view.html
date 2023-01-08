@@ -28,7 +28,14 @@
               layer.bindPopup(feature.properties.label)
             },
             pointToLayer: function (feature, coords) {
-              return L.circle(coords, {
+              var width = coords.toBounds((40e3 / 8) / 4)
+              var height = coords.toBounds((25e3 / 6) / 4)
+              var north = height.getNorth()
+              var south = height.getSouth()
+              var west = width.getWest()
+              var east = width.getEast()
+
+              return L.rectangle([[north, east], [south, west]], {
                 color: 'red',
                 fillColor: '#f00',
                 fillOpacity: 0.05 * feature.properties.label.split('<br>').length,
