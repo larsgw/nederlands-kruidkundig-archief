@@ -1,0 +1,1921 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83817793161387,
+          51.68653561164472
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 44. 14",
+        "taxa": [
+          "Aethusa Cynapium",
+          "Agrimonia Eupatoria",
+          "Aira caespitosa",
+          "Berula angustifolia",
+          "Carex paniculata",
+          "Carex riparia",
+          "Crepis biennis",
+          "Equisetum arvense",
+          "Erucastrum Pollichii",
+          "Eupatorium cannabinum",
+          "Euphorbia Peplus",
+          "Festuca gigantea",
+          "Galeopsis Tetrahit",
+          "Hordeum secalinum",
+          "Humulus Lupulus",
+          "Hypericum tetrapterum",
+          "Iris Pseudacorus",
+          "Lappa minor",
+          "Lathyrus pratensis",
+          "Lemna trisulca",
+          "Lotus corniculatus",
+          "Mentha sylvestris",
+          "Menyanthes trifoliata",
+          "Mercurialis annua",
+          "Nasturtium officinale",
+          "Nasturtium palustre",
+          "Nasturtium sylvestre",
+          "Oenanthe fistulosa",
+          "Ononis spinosa",
+          "Polypodium vulgare",
+          "Potamogeton natans",
+          "Potentilla reptans",
+          "Rubus caesius",
+          "Scirpus lacustris: vooral in den Biesbosch, maar ook",
+          "Scrophularia nodosa",
+          "Sinapis arvensis",
+          "Sonchus oleraceus",
+          "Thrincia hirta",
+          "Veronica Anagalis",
+          "Veronica Beccabunga",
+          "Veronica Chamaedrys"
+        ],
+        "label": "<b>Q 4. 44. 14</b><br><i>Aethusa Cynapium</i><br><i>Agrimonia Eupatoria</i><br><i>Aira caespitosa</i><br><i>Berula angustifolia</i><br><i>Carex paniculata</i><br><i>Carex riparia</i><br><i>Crepis biennis</i><br><i>Equisetum arvense</i><br><i>Erucastrum Pollichii</i><br><i>Eupatorium cannabinum</i><br><i>Euphorbia Peplus</i><br><i>Festuca gigantea</i><br><i>Galeopsis Tetrahit</i><br><i>Hordeum secalinum</i><br><i>Humulus Lupulus</i><br><i>Hypericum tetrapterum</i><br><i>Iris Pseudacorus</i><br><i>Lappa minor</i><br><i>Lathyrus pratensis</i><br><i>Lemna trisulca</i><br><i>Lotus corniculatus</i><br><i>Mentha sylvestris</i><br><i>Menyanthes trifoliata</i><br><i>Mercurialis annua</i><br><i>Nasturtium officinale</i><br><i>Nasturtium palustre</i><br><i>Nasturtium sylvestre</i><br><i>Oenanthe fistulosa</i><br><i>Ononis spinosa</i><br><i>Polypodium vulgare</i><br><i>Potamogeton natans</i><br><i>Potentilla reptans</i><br><i>Rubus caesius</i><br><i>Scirpus lacustris</i>: vooral in den Biesbosch, maar ook<br><i>Scrophularia nodosa</i><br><i>Sinapis arvensis</i><br><i>Sonchus oleraceus</i><br><i>Thrincia hirta</i><br><i>Veronica Anagalis</i><br><i>Veronica Beccabunga</i><br><i>Veronica Chamaedrys</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.874222289148037,
+          51.69606326680486
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 44. 22",
+        "taxa": [
+          "Aethusa Cynapium",
+          "Avena flavescens",
+          "Berula angustifolia",
+          "Bidens cernuus",
+          "Butomus umbellatus",
+          "Caltha palustris",
+          "Ceratophyllum submersum",
+          "Epilobium montanum",
+          "Equisetum limosum",
+          "Erysimum cheiranthoides",
+          "Eupatorium cannabinum",
+          "Euphorbia Peplus",
+          "Hedera Helix",
+          "Heleocharis palustris",
+          "Hypericum tetrapterum",
+          "Lappa minor",
+          "Lemna gibba",
+          "Lemna polyrrhiza",
+          "Lemna trisulca",
+          "Medicago lupulina",
+          "Mentha aquatica",
+          "Nasturtium officinale",
+          "Nasturtium sylvestre",
+          "Oenanthe fistulosa",
+          "Papaver Rhoeas",
+          "Ranunculus Lingua",
+          "Ranunculus sceleratus",
+          "Rubus caesius",
+          "Rumex crispus",
+          "Rumex Hydrolapathum",
+          "Scirpus triqueter: in den Biesbosch",
+          "Scrophularia nodosa",
+          "Senecio aquaticus",
+          "Sinapis arvensis",
+          "Sonchus arvensis",
+          "Sonchus oleraceus",
+          "Sparganium simplex",
+          "Stachys palustris",
+          "Tussilago Farfara"
+        ],
+        "label": "<b>Q 4. 44. 22</b><br><i>Aethusa Cynapium</i><br><i>Avena flavescens</i><br><i>Berula angustifolia</i><br><i>Bidens cernuus</i><br><i>Butomus umbellatus</i><br><i>Caltha palustris</i><br><i>Ceratophyllum submersum</i><br><i>Epilobium montanum</i><br><i>Equisetum limosum</i><br><i>Erysimum cheiranthoides</i><br><i>Eupatorium cannabinum</i><br><i>Euphorbia Peplus</i><br><i>Hedera Helix</i><br><i>Heleocharis palustris</i><br><i>Hypericum tetrapterum</i><br><i>Lappa minor</i><br><i>Lemna gibba</i><br><i>Lemna polyrrhiza</i><br><i>Lemna trisulca</i><br><i>Medicago lupulina</i><br><i>Mentha aquatica</i><br><i>Nasturtium officinale</i><br><i>Nasturtium sylvestre</i><br><i>Oenanthe fistulosa</i><br><i>Papaver Rhoeas</i><br><i>Ranunculus Lingua</i><br><i>Ranunculus sceleratus</i><br><i>Rubus caesius</i><br><i>Rumex crispus</i><br><i>Rumex Hydrolapathum</i><br><i>Scirpus triqueter</i>: in den Biesbosch<br><i>Scrophularia nodosa</i><br><i>Senecio aquaticus</i><br><i>Sinapis arvensis</i><br><i>Sonchus arvensis</i><br><i>Sonchus oleraceus</i><br><i>Sparganium simplex</i><br><i>Stachys palustris</i><br><i>Tussilago Farfara</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892404869053581,
+          51.68677885355734
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 45. 13",
+        "taxa": [
+          "Aethusa Cynapium",
+          "Avena flavescens",
+          "Butomus umbellatus",
+          "Cheliclonium majus",
+          "Cynosurus cristatus",
+          "Equisetum arvense",
+          "Equisetum limosum",
+          "Erysimum cheiranthoides",
+          "Euphorbia Peplus",
+          "Lappa minor",
+          "Leersia oryzoides: aan slootkanten",
+          "Lemna trisulca",
+          "Malva sylvestris",
+          "Malva vulgaris",
+          "Medicago lupulina",
+          "Oenanthe fistulosa",
+          "Panicum crus galli",
+          "Rumex crispus",
+          "Senecio aquaticus",
+          "Sinapis arvensis",
+          "Stachys palustris",
+          "Vicia Sepium"
+        ],
+        "label": "<b>Q 4. 45. 13</b><br><i>Aethusa Cynapium</i><br><i>Avena flavescens</i><br><i>Butomus umbellatus</i><br><i>Cheliclonium majus</i><br><i>Cynosurus cristatus</i><br><i>Equisetum arvense</i><br><i>Equisetum limosum</i><br><i>Erysimum cheiranthoides</i><br><i>Euphorbia Peplus</i><br><i>Lappa minor</i><br><i>Leersia oryzoides</i>: aan slootkanten<br><i>Lemna trisulca</i><br><i>Malva sylvestris</i><br><i>Malva vulgaris</i><br><i>Medicago lupulina</i><br><i>Oenanthe fistulosa</i><br><i>Panicum crus galli</i><br><i>Rumex crispus</i><br><i>Senecio aquaticus</i><br><i>Sinapis arvensis</i><br><i>Stachys palustris</i><br><i>Vicia Sepium</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9104806600552,
+          51.68685435399039
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 45. 14",
+        "taxa": [
+          "Aethusa Cynapium",
+          "Ballota foetida",
+          "Berula angustifolia",
+          "Bidens cernuus",
+          "Butomus umbellatus",
+          "Cheliclonium majus",
+          "Erysimum cheiranthoides",
+          "Euphorbia Peplus",
+          "Heleocharis palustris",
+          "Lappa minor",
+          "Malva vulgaris",
+          "Papaver Argemone",
+          "Polygonum lapathifolium",
+          "Sonchus arvensis"
+        ],
+        "label": "<b>Q 4. 45. 14</b><br><i>Aethusa Cynapium</i><br><i>Ballota foetida</i><br><i>Berula angustifolia</i><br><i>Bidens cernuus</i><br><i>Butomus umbellatus</i><br><i>Cheliclonium majus</i><br><i>Erysimum cheiranthoides</i><br><i>Euphorbia Peplus</i><br><i>Heleocharis palustris</i><br><i>Lappa minor</i><br><i>Malva vulgaris</i><br><i>Papaver Argemone</i><br><i>Polygonum lapathifolium</i><br><i>Sonchus arvensis</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.982868851780089,
+          51.67776562611061
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 46. 32",
+        "taxa": [
+          "Aethusa Cynapium",
+          "Aira caespitosa",
+          "Alisma natans",
+          "Athyrium filix femina",
+          "Berula angustifolia",
+          "Bidens cernuus",
+          "Centaurea Cyanus",
+          "Crepis biennis",
+          "Cynosurus cristatus",
+          "Erysimum cheiranthoides",
+          "Geranium molle",
+          "Heleocharis acicularis",
+          "Helosciadium nodiflorum",
+          "Hypericum tetrapterum",
+          "Lysimachia Nummularia",
+          "Malva sylvestris",
+          "Oxalis stricta",
+          "Panicum crus galli",
+          "Papaver Rhoeas",
+          "Raphanus Raphanistrum",
+          "Salix cinerea",
+          "Setaria viridis",
+          "Tanacetum vulgare",
+          "Tragopogon minor",
+          "Trifolium minus"
+        ],
+        "label": "<b>Q 4. 46. 32</b><br><i>Aethusa Cynapium</i><br><i>Aira caespitosa</i><br><i>Alisma natans</i><br><i>Athyrium filix femina</i><br><i>Berula angustifolia</i><br><i>Bidens cernuus</i><br><i>Centaurea Cyanus</i><br><i>Crepis biennis</i><br><i>Cynosurus cristatus</i><br><i>Erysimum cheiranthoides</i><br><i>Geranium molle</i><br><i>Heleocharis acicularis</i><br><i>Helosciadium nodiflorum</i><br><i>Hypericum tetrapterum</i><br><i>Lysimachia Nummularia</i><br><i>Malva sylvestris</i><br><i>Oxalis stricta</i><br><i>Panicum crus galli</i><br><i>Papaver Rhoeas</i><br><i>Raphanus Raphanistrum</i><br><i>Salix cinerea</i><br><i>Setaria viridis</i><br><i>Tanacetum vulgare</i><br><i>Tragopogon minor</i><br><i>Trifolium minus</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.983037471754981,
+          51.65903994411768
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 56. 12",
+        "taxa": [
+          "Aethusa Cynapium",
+          "Agrostis vulgaris",
+          "Athyrium filix femina",
+          "Calla palustris",
+          "Cardamine pratensis: wortelrosetten",
+          "Carex vulgaris",
+          "Centaurea Cyanus",
+          "Chrysanthemum Leucanthemum",
+          "Comarum palustre",
+          "Cynosurus cristatus",
+          "Drosera intermedia",
+          "Equisetum arvense",
+          "Equisetum limosum",
+          "Erodium pimpinellifolium",
+          "Erysimum cheiranthoides",
+          "Eupatorium cannabinum",
+          "Euphorbia Helioscopia",
+          "Euphrasia officinalis",
+          "Humulus Lupulus",
+          "Hydrocotyle vulgare",
+          "Hypericum perforatum",
+          "Juncus bufonius",
+          "Juncus supinus",
+          "Lysimachia Nummularia",
+          "Mentha arvensis",
+          "Menyanthes trifoliata",
+          "Nasturtium amphibium",
+          "Oenanthe fistulosa",
+          "Osmunda regalis",
+          "Oxalis stricta",
+          "Panicum crus galli",
+          "Panicum lineare",
+          "Papaver Rhoeas",
+          "Poa serotina",
+          "Polygonum lapathifolium",
+          "Potentilla procumbens",
+          "Potentilla Tormentilla",
+          "Radiola linoides",
+          "Raphanus Raphanistrum",
+          "Rumex Hydrolapathum",
+          "Sagina procumbens",
+          "Salix amygdalina",
+          "Salix aurita",
+          "Salix repens",
+          "Sanguisorba officinalis: in lage hooilanden, maar ook op droge gronden",
+          "Scirpus fluitans",
+          "Scutellaria minor",
+          "Setaria viridis",
+          "Sparganium simplex",
+          "Spergula arvensis",
+          "Stachys palustris",
+          "Tanacetum vulgare",
+          "Trifolium minus"
+        ],
+        "label": "<b>Q 4. 56. 12</b><br><i>Aethusa Cynapium</i><br><i>Agrostis vulgaris</i><br><i>Athyrium filix femina</i><br><i>Calla palustris</i><br><i>Cardamine pratensis</i>: wortelrosetten<br><i>Carex vulgaris</i><br><i>Centaurea Cyanus</i><br><i>Chrysanthemum Leucanthemum</i><br><i>Comarum palustre</i><br><i>Cynosurus cristatus</i><br><i>Drosera intermedia</i><br><i>Equisetum arvense</i><br><i>Equisetum limosum</i><br><i>Erodium pimpinellifolium</i><br><i>Erysimum cheiranthoides</i><br><i>Eupatorium cannabinum</i><br><i>Euphorbia Helioscopia</i><br><i>Euphrasia officinalis</i><br><i>Humulus Lupulus</i><br><i>Hydrocotyle vulgare</i><br><i>Hypericum perforatum</i><br><i>Juncus bufonius</i><br><i>Juncus supinus</i><br><i>Lysimachia Nummularia</i><br><i>Mentha arvensis</i><br><i>Menyanthes trifoliata</i><br><i>Nasturtium amphibium</i><br><i>Oenanthe fistulosa</i><br><i>Osmunda regalis</i><br><i>Oxalis stricta</i><br><i>Panicum crus galli</i><br><i>Panicum lineare</i><br><i>Papaver Rhoeas</i><br><i>Poa serotina</i><br><i>Polygonum lapathifolium</i><br><i>Potentilla procumbens</i><br><i>Potentilla Tormentilla</i><br><i>Radiola linoides</i><br><i>Raphanus Raphanistrum</i><br><i>Rumex Hydrolapathum</i><br><i>Sagina procumbens</i><br><i>Salix amygdalina</i><br><i>Salix aurita</i><br><i>Salix repens</i><br><i>Sanguisorba officinalis</i>: in lage hooilanden, maar ook op droge gronden<br><i>Scirpus fluitans</i><br><i>Scutellaria minor</i><br><i>Setaria viridis</i><br><i>Sparganium simplex</i><br><i>Spergula arvensis</i><br><i>Stachys palustris</i><br><i>Tanacetum vulgare</i><br><i>Trifolium minus</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8380635891826556,
+          51.69589827096811
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 44. 12",
+        "taxa": [
+          "Agrimonia Eupatoria",
+          "Butomus umbellatus",
+          "Caltha palustris",
+          "Carex hirta",
+          "Carex rostrata",
+          "Chenopodium ficifolium",
+          "Circaea lutetiana",
+          "Epilobium palustre",
+          "Equisetum limosum",
+          "Erysimum cheiranthoides",
+          "Eupatorium cannabinum",
+          "Impatiens noli tangere",
+          "Iris Pseudacorus",
+          "Juncus Compressus",
+          "Juncus glaucus",
+          "Lathyrus pratensis",
+          "Lemna trisulca",
+          "Lysimachia thyrsiflora",
+          "Medicago lupulina",
+          "Mentha aquatica",
+          "Mentha sylvestris",
+          "Menyanthes trifoliata",
+          "Nasturtium amphibium",
+          "Nasturtium officinale",
+          "Pedicularis palustris",
+          "Poa serotina",
+          "Potentilla reptans",
+          "Ranunculus Lingua",
+          "Ranunculus sceleratus",
+          "Rumex Hydrolapathum",
+          "Scrophularia nodosa",
+          "Sonchus oleraceus",
+          "Sparganium simplex",
+          "Stachys palustris",
+          "Thrincia hirta",
+          "Torilis Anthriscus",
+          "Tussilago Farfara",
+          "Utricularia vulgaris",
+          "Veronica Anagalis",
+          "Veronica Beccabunga"
+        ],
+        "label": "<b>Q 4. 44. 12</b><br><i>Agrimonia Eupatoria</i><br><i>Butomus umbellatus</i><br><i>Caltha palustris</i><br><i>Carex hirta</i><br><i>Carex rostrata</i><br><i>Chenopodium ficifolium</i><br><i>Circaea lutetiana</i><br><i>Epilobium palustre</i><br><i>Equisetum limosum</i><br><i>Erysimum cheiranthoides</i><br><i>Eupatorium cannabinum</i><br><i>Impatiens noli tangere</i><br><i>Iris Pseudacorus</i><br><i>Juncus Compressus</i><br><i>Juncus glaucus</i><br><i>Lathyrus pratensis</i><br><i>Lemna trisulca</i><br><i>Lysimachia thyrsiflora</i><br><i>Medicago lupulina</i><br><i>Mentha aquatica</i><br><i>Mentha sylvestris</i><br><i>Menyanthes trifoliata</i><br><i>Nasturtium amphibium</i><br><i>Nasturtium officinale</i><br><i>Pedicularis palustris</i><br><i>Poa serotina</i><br><i>Potentilla reptans</i><br><i>Ranunculus Lingua</i><br><i>Ranunculus sceleratus</i><br><i>Rumex Hydrolapathum</i><br><i>Scrophularia nodosa</i><br><i>Sonchus oleraceus</i><br><i>Sparganium simplex</i><br><i>Stachys palustris</i><br><i>Thrincia hirta</i><br><i>Torilis Anthriscus</i><br><i>Tussilago Farfara</i><br><i>Utricularia vulgaris</i><br><i>Veronica Anagalis</i><br><i>Veronica Beccabunga</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892301750672506,
+          51.69614157846464
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 45. 11",
+        "taxa": [
+          "Agrimonia Eupatoria",
+          "Butomus umbellatus",
+          "Eupatorium cannabinum",
+          "Lappa minor",
+          "Ononis spinosa",
+          "Potamogeton rufescens",
+          "Sonchus arvensis",
+          "Verbena officinalis"
+        ],
+        "label": "<b>Q 4. 45. 11</b><br><i>Agrimonia Eupatoria</i><br><i>Butomus umbellatus</i><br><i>Eupatorium cannabinum</i><br><i>Lappa minor</i><br><i>Ononis spinosa</i><br><i>Potamogeton rufescens</i><br><i>Sonchus arvensis</i><br><i>Verbena officinalis</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.837491056978136,
+          51.74271142978192
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 24. 34",
+        "taxa": [
+          "Agrostemma Githago",
+          "Butomus umbellatus",
+          "Callitriche verna",
+          "Campanula rotundifolia",
+          "Carduus nutans: ?",
+          "Cerastium glomeratum: ?",
+          "Circaea lutetiana",
+          "Diplotaxis tenuifolia",
+          "Erucastrum Pollichii",
+          "Galeopsis Tetrahit",
+          "Hippuris vulgaris",
+          "Hordeum secalinum",
+          "Hottonia palustris",
+          "Lathyrus pratensis",
+          "Melilotus officinalis",
+          "Mentha aquatica",
+          "Nasturtium amphibium",
+          "Papaver Rhoeas",
+          "Petasites officinalis",
+          "Potamogeton densus",
+          "Potentilla reptans",
+          "Ranunculus Philonotis",
+          "Ruppia rostellata: ?",
+          "Scrophularia nodosa",
+          "Sonchus oleraceus",
+          "Tragopogon pratensis",
+          "Trifolium fragiferum",
+          "Tussilago Farfara",
+          "Typha angustifolia",
+          "Typha latifolia",
+          "Utricularia vulgaris",
+          "Veronica Anagalis",
+          "Vicia sativa: cultuur?",
+          "Vicia Sepium",
+          "Vicia villosa: ?"
+        ],
+        "label": "<b>Q 4. 24. 34</b><br><i>Agrostemma Githago</i><br><i>Butomus umbellatus</i><br><i>Callitriche verna</i><br><i>Campanula rotundifolia</i><br><i>Carduus nutans</i>: ?<br><i>Cerastium glomeratum</i>: ?<br><i>Circaea lutetiana</i><br><i>Diplotaxis tenuifolia</i><br><i>Erucastrum Pollichii</i><br><i>Galeopsis Tetrahit</i><br><i>Hippuris vulgaris</i><br><i>Hordeum secalinum</i><br><i>Hottonia palustris</i><br><i>Lathyrus pratensis</i><br><i>Melilotus officinalis</i><br><i>Mentha aquatica</i><br><i>Nasturtium amphibium</i><br><i>Papaver Rhoeas</i><br><i>Petasites officinalis</i><br><i>Potamogeton densus</i><br><i>Potentilla reptans</i><br><i>Ranunculus Philonotis</i><br><i>Ruppia rostellata</i>: ?<br><i>Scrophularia nodosa</i><br><i>Sonchus oleraceus</i><br><i>Tragopogon pratensis</i><br><i>Trifolium fragiferum</i><br><i>Tussilago Farfara</i><br><i>Typha angustifolia</i><br><i>Typha latifolia</i><br><i>Utricularia vulgaris</i><br><i>Veronica Anagalis</i><br><i>Vicia sativa</i>: cultuur?<br><i>Vicia Sepium</i><br><i>Vicia villosa</i>: ?"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.983121721419919,
+          51.64967709036708
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 56. 14",
+        "taxa": [
+          "Aira disc.",
+          "Alisma ranunculoides",
+          "Athyrium filix femina",
+          "Blechnum Spicant",
+          "Briza media",
+          "Caltha palustris",
+          "Campanula rotundifolia",
+          "Carex districha",
+          "Carex echinata",
+          "Carex flava",
+          "Carex panicea",
+          "Carex rostrata",
+          "Carex vulgaris",
+          "Cirsium anglicum",
+          "Cladium Mariscus",
+          "Comarum palustre",
+          "Drosera intermedia",
+          "Drosera rotundifolia",
+          "Equisetum limosum",
+          "Eriophorum polystachyum",
+          "Eupatorium cannabinum",
+          "Euphrasia officinalis",
+          "Galium uliginosum",
+          "Genista anglica",
+          "Gentiana Pneumonanthe",
+          "Gentiana Pneumonanthe",
+          "Heleocharis multicaulis",
+          "Hieracium Pilosella",
+          "Holcus mollis",
+          "Hottonia palustris",
+          "Hydrocotyle vulgare",
+          "Hypericum Elodes",
+          "Juncus squarrosus",
+          "Juncus supinus",
+          "Littorella lacustris",
+          "Lonicera Periclymenum",
+          "Lycopodium inundatum",
+          "Mentha aquatica",
+          "Menyanthes trifoliata",
+          "Myosotis caespitosa",
+          "Narthecium ossifragum",
+          "Orchis maculata",
+          "Osmunda regalis",
+          "Pedicularis palustris",
+          "Pedicularis sylvatica",
+          "Polygonum lapathifolium",
+          "Polystichum spinolosum",
+          "Potentilla Tormentilla",
+          "Rhynchospora alba",
+          "Rhynchospora fusca",
+          "Salix aurita",
+          "Sanguisorba officinalis: in lage hooilanden, maar ook op droge gronden",
+          "Scirpus caespitosus",
+          "Scleranthus annuus",
+          "Sorbus aucuparia",
+          "Sparganium simplex",
+          "Thrincia hirta"
+        ],
+        "label": "<b>Q 4. 56. 14</b><br><i>Aira disc.</i><br><i>Alisma ranunculoides</i><br><i>Athyrium filix femina</i><br><i>Blechnum Spicant</i><br><i>Briza media</i><br><i>Caltha palustris</i><br><i>Campanula rotundifolia</i><br><i>Carex districha</i><br><i>Carex echinata</i><br><i>Carex flava</i><br><i>Carex panicea</i><br><i>Carex rostrata</i><br><i>Carex vulgaris</i><br><i>Cirsium anglicum</i><br><i>Cladium Mariscus</i><br><i>Comarum palustre</i><br><i>Drosera intermedia</i><br><i>Drosera rotundifolia</i><br><i>Equisetum limosum</i><br><i>Eriophorum polystachyum</i><br><i>Eupatorium cannabinum</i><br><i>Euphrasia officinalis</i><br><i>Galium uliginosum</i><br><i>Genista anglica</i><br><i>Gentiana Pneumonanthe</i><br><i>Gentiana Pneumonanthe</i><br><i>Heleocharis multicaulis</i><br><i>Hieracium Pilosella</i><br><i>Holcus mollis</i><br><i>Hottonia palustris</i><br><i>Hydrocotyle vulgare</i><br><i>Hypericum Elodes</i><br><i>Juncus squarrosus</i><br><i>Juncus supinus</i><br><i>Littorella lacustris</i><br><i>Lonicera Periclymenum</i><br><i>Lycopodium inundatum</i><br><i>Mentha aquatica</i><br><i>Menyanthes trifoliata</i><br><i>Myosotis caespitosa</i><br><i>Narthecium ossifragum</i><br><i>Orchis maculata</i><br><i>Osmunda regalis</i><br><i>Pedicularis palustris</i><br><i>Pedicularis sylvatica</i><br><i>Polygonum lapathifolium</i><br><i>Polystichum spinolosum</i><br><i>Potentilla Tormentilla</i><br><i>Rhynchospora alba</i><br><i>Rhynchospora fusca</i><br><i>Salix aurita</i><br><i>Sanguisorba officinalis</i>: in lage hooilanden, maar ook op droge gronden<br><i>Scirpus caespitosus</i><br><i>Scleranthus annuus</i><br><i>Sorbus aucuparia</i><br><i>Sparganium simplex</i><br><i>Thrincia hirta</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.00134379448523,
+          51.63101280808211
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 56. 43",
+        "taxa": [
+          "Aira flex.",
+          "Apera Spica Venti",
+          "Athyrium filix femina",
+          "Avena praecox",
+          "Blechnum Spicant",
+          "Drosera intermedia",
+          "Drosera rotundifolia",
+          "Eriophorum polystachyum",
+          "Genista anglica",
+          "Gentiana Pneumonanthe",
+          "Gnaphalium uliginosum",
+          "Holcus mollis",
+          "Hydrocotyle vulgare",
+          "Hypericum perforatum",
+          "Illecebrum verticillatum",
+          "Juncus bufonius",
+          "Juncus supinus",
+          "Lonicera Periclymenum",
+          "Luzula multiflora",
+          "Lycopodium inundatum",
+          "Nardus stricta",
+          "Narthecium ossifragum",
+          "Ornithopus perpusillus",
+          "Osmunda regalis",
+          "Panicum lineare",
+          "Pedicularis sylvatica",
+          "Potentilla Tormentilla",
+          "Radiola linoides",
+          "Rhynchospora alba",
+          "Salix repens",
+          "Sarothamnus scoparius",
+          "Scirpus caespitosus",
+          "Scirpus fluitans",
+          "Scleranthus annuus",
+          "Sorbus aucuparia",
+          "Spergula arvensis",
+          "Spergularia rubra",
+          "Stellaria uliginosa",
+          "Thrincia hirta"
+        ],
+        "label": "<b>Q 4. 56. 43</b><br><i>Aira flex.</i><br><i>Apera Spica Venti</i><br><i>Athyrium filix femina</i><br><i>Avena praecox</i><br><i>Blechnum Spicant</i><br><i>Drosera intermedia</i><br><i>Drosera rotundifolia</i><br><i>Eriophorum polystachyum</i><br><i>Genista anglica</i><br><i>Gentiana Pneumonanthe</i><br><i>Gnaphalium uliginosum</i><br><i>Holcus mollis</i><br><i>Hydrocotyle vulgare</i><br><i>Hypericum perforatum</i><br><i>Illecebrum verticillatum</i><br><i>Juncus bufonius</i><br><i>Juncus supinus</i><br><i>Lonicera Periclymenum</i><br><i>Luzula multiflora</i><br><i>Lycopodium inundatum</i><br><i>Nardus stricta</i><br><i>Narthecium ossifragum</i><br><i>Ornithopus perpusillus</i><br><i>Osmunda regalis</i><br><i>Panicum lineare</i><br><i>Pedicularis sylvatica</i><br><i>Potentilla Tormentilla</i><br><i>Radiola linoides</i><br><i>Rhynchospora alba</i><br><i>Salix repens</i><br><i>Sarothamnus scoparius</i><br><i>Scirpus caespitosus</i><br><i>Scirpus fluitans</i><br><i>Scleranthus annuus</i><br><i>Sorbus aucuparia</i><br><i>Spergula arvensis</i><br><i>Spergularia rubra</i><br><i>Stellaria uliginosa</i><br><i>Thrincia hirta</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.94727447513789,
+          51.62145725759144
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 65. 22",
+        "taxa": [
+          "Aira flex.",
+          "Apera Spica Venti",
+          "Carex arenaria",
+          "Corynephorus canescens",
+          "Erodium pimpinellifolium",
+          "Euphrasia officinalis",
+          "Genista anglica",
+          "Gentiana Pneumonanthe",
+          "Hieracium tridentatum",
+          "Holcus mollis",
+          "Hypericum perforatum",
+          "Illecebrum verticillatum",
+          "Jasione montana",
+          "Juncus squarrosus",
+          "Juncus supinus",
+          "Malva vulgaris",
+          "Nardus stricta",
+          "Panicum crus galli",
+          "Panicum lineare",
+          "Potentilla Tormentilla",
+          "Radiola linoides",
+          "Raphanus Raphanistrum",
+          "Salix repens",
+          "Sanguisorba officinalis: in lage hooilanden, maar ook op droge gronden",
+          "Sarothamnus scoparius",
+          "Sorbus aucuparia",
+          "Spergula arvensis",
+          "Tanacetum vulgare",
+          "Triodia decumbens"
+        ],
+        "label": "<b>Q 4. 65. 22</b><br><i>Aira flex.</i><br><i>Apera Spica Venti</i><br><i>Carex arenaria</i><br><i>Corynephorus canescens</i><br><i>Erodium pimpinellifolium</i><br><i>Euphrasia officinalis</i><br><i>Genista anglica</i><br><i>Gentiana Pneumonanthe</i><br><i>Hieracium tridentatum</i><br><i>Holcus mollis</i><br><i>Hypericum perforatum</i><br><i>Illecebrum verticillatum</i><br><i>Jasione montana</i><br><i>Juncus squarrosus</i><br><i>Juncus supinus</i><br><i>Malva vulgaris</i><br><i>Nardus stricta</i><br><i>Panicum crus galli</i><br><i>Panicum lineare</i><br><i>Potentilla Tormentilla</i><br><i>Radiola linoides</i><br><i>Raphanus Raphanistrum</i><br><i>Salix repens</i><br><i>Sanguisorba officinalis</i>: in lage hooilanden, maar ook op droge gronden<br><i>Sarothamnus scoparius</i><br><i>Sorbus aucuparia</i><br><i>Spergula arvensis</i><br><i>Tanacetum vulgare</i><br><i>Triodia decumbens</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.965412138657123,
+          51.6121613919864
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 66. 13",
+        "taxa": [
+          "Aira flex.",
+          "Carex arenaria",
+          "Carex panicea",
+          "Cirsium anglicum",
+          "Corynephorus canescens",
+          "Eriophorum polystachyum",
+          "Genista anglica",
+          "Gentiana Pneumonanthe",
+          "Gnaphalium uliginosum",
+          "Heleocharis multicaulis",
+          "Hydrocotyle vulgare",
+          "Hypericum Elodes",
+          "Illecebrum verticillatum",
+          "Jasione montana",
+          "Juncus squarrosus",
+          "Lotus corniculatus",
+          "Nardus stricta",
+          "Narthecium ossifragum",
+          "Potentilla Tormentilla",
+          "Rhynchospora alba",
+          "Salix repens",
+          "Sarothamnus scoparius",
+          "Scirpus caespitosus",
+          "Triodia decumbens"
+        ],
+        "label": "<b>Q 4. 66. 13</b><br><i>Aira flex.</i><br><i>Carex arenaria</i><br><i>Carex panicea</i><br><i>Cirsium anglicum</i><br><i>Corynephorus canescens</i><br><i>Eriophorum polystachyum</i><br><i>Genista anglica</i><br><i>Gentiana Pneumonanthe</i><br><i>Gnaphalium uliginosum</i><br><i>Heleocharis multicaulis</i><br><i>Hydrocotyle vulgare</i><br><i>Hypericum Elodes</i><br><i>Illecebrum verticillatum</i><br><i>Jasione montana</i><br><i>Juncus squarrosus</i><br><i>Lotus corniculatus</i><br><i>Nardus stricta</i><br><i>Narthecium ossifragum</i><br><i>Potentilla Tormentilla</i><br><i>Rhynchospora alba</i><br><i>Salix repens</i><br><i>Sarothamnus scoparius</i><br><i>Scirpus caespitosus</i><br><i>Triodia decumbens</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.820456352542941,
+          51.65836099005818
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 54. 11",
+        "taxa": [
+          "Alchemilla vulgaris",
+          "Apera Spica Venti",
+          "Cheliclonium majus",
+          "Gnaphalium uliginosum",
+          "Hieracium tridentatum",
+          "Hieracium umbellatum",
+          "Holcus mollis",
+          "Humulus Lupulus",
+          "Jasione montana",
+          "Juncus bufonius",
+          "Lotus corniculatus",
+          "Nasturtium palustre",
+          "Oxalis stricta",
+          "Polygonum lapathifolium",
+          "Prunus spinosa",
+          "Raphanus Raphanistrum",
+          "Sagina procumbens",
+          "Senecio aquaticus",
+          "Senecio erucifolius",
+          "Sonchus arvensis",
+          "Spergula arvensis",
+          "Trifolium hybridum",
+          "Trifolium minus",
+          "Tussilago Farfara",
+          "Veronica arvensis",
+          "Viola tricolor"
+        ],
+        "label": "<b>Q 4. 54. 11</b><br><i>Alchemilla vulgaris</i><br><i>Apera Spica Venti</i><br><i>Cheliclonium majus</i><br><i>Gnaphalium uliginosum</i><br><i>Hieracium tridentatum</i><br><i>Hieracium umbellatum</i><br><i>Holcus mollis</i><br><i>Humulus Lupulus</i><br><i>Jasione montana</i><br><i>Juncus bufonius</i><br><i>Lotus corniculatus</i><br><i>Nasturtium palustre</i><br><i>Oxalis stricta</i><br><i>Polygonum lapathifolium</i><br><i>Prunus spinosa</i><br><i>Raphanus Raphanistrum</i><br><i>Sagina procumbens</i><br><i>Senecio aquaticus</i><br><i>Senecio erucifolius</i><br><i>Sonchus arvensis</i><br><i>Spergula arvensis</i><br><i>Trifolium hybridum</i><br><i>Trifolium minus</i><br><i>Tussilago Farfara</i><br><i>Veronica arvensis</i><br><i>Viola tricolor</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.820574210989055,
+          51.64899831921071
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 54. 13",
+        "taxa": [
+          "Alchemilla vulgaris",
+          "Apera Spica Venti",
+          "Centaurea Cyanus",
+          "Chrysanthemum segetum",
+          "Geranium pusillum",
+          "Lysimachia thyrsiflora",
+          "Nasturtium palustre",
+          "Oxalis stricta",
+          "Panicum crus galli",
+          "Polygonum lapathifolium",
+          "Prunus spinosa",
+          "Senecio erucifolius",
+          "Stachys palustris",
+          "Viola tricolor"
+        ],
+        "label": "<b>Q 4. 54. 13</b><br><i>Alchemilla vulgaris</i><br><i>Apera Spica Venti</i><br><i>Centaurea Cyanus</i><br><i>Chrysanthemum segetum</i><br><i>Geranium pusillum</i><br><i>Lysimachia thyrsiflora</i><br><i>Nasturtium palustre</i><br><i>Oxalis stricta</i><br><i>Panicum crus galli</i><br><i>Polygonum lapathifolium</i><br><i>Prunus spinosa</i><br><i>Senecio erucifolius</i><br><i>Stachys palustris</i><br><i>Viola tricolor</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.982953181884464,
+          51.668402789406706
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 46. 34",
+        "taxa": [
+          "Apera Spica Venti",
+          "Athyrium filix femina",
+          "Ballota foetida",
+          "Berula angustifolia",
+          "Bidens cernuus",
+          "Calla palustris",
+          "Campanula rotundifolia",
+          "Cladium Mariscus",
+          "Comarum palustre",
+          "Cynosurus cristatus",
+          "Drosera intermedia",
+          "Drosera rotundifolia",
+          "Equisetum arvense",
+          "Equisetum limosum",
+          "Euphrasia officinalis",
+          "Galeopsis Tetrahit",
+          "Heleocharis acicularis",
+          "Holcus mollis",
+          "Hottonia palustris",
+          "Hydrocotyle vulgare",
+          "Iris Pseudacorus",
+          "Juncus bufonius",
+          "Lathyrus pratensis",
+          "Leersia oryzoides: aan slootkanten",
+          "Linum catarcticum",
+          "Lycopodium inundatum",
+          "Lysimachia Nummularia",
+          "Lysimachia thyrsiflora",
+          "Malva sylvestris",
+          "Malva vulgaris",
+          "Mentha arvensis",
+          "Oxalis stricta",
+          "Panicum crus galli",
+          "Pedicularis palustris",
+          "Poa pratensis",
+          "Polygonum lapathifolium",
+          "Polygonum mite",
+          "Raphanus Raphanistrum",
+          "Rhynchospora alba",
+          "Rhynchospora fusca",
+          "Rumex Hydrolapathum",
+          "Sanguisorba officinalis: in lage hooilanden, maar ook op droge gronden",
+          "Setaria viridis",
+          "Sorbus aucuparia",
+          "Tanacetum vulgare",
+          "Thrincia hirta",
+          "Typha angustifolia",
+          "Viola palustris"
+        ],
+        "label": "<b>Q 4. 46. 34</b><br><i>Apera Spica Venti</i><br><i>Athyrium filix femina</i><br><i>Ballota foetida</i><br><i>Berula angustifolia</i><br><i>Bidens cernuus</i><br><i>Calla palustris</i><br><i>Campanula rotundifolia</i><br><i>Cladium Mariscus</i><br><i>Comarum palustre</i><br><i>Cynosurus cristatus</i><br><i>Drosera intermedia</i><br><i>Drosera rotundifolia</i><br><i>Equisetum arvense</i><br><i>Equisetum limosum</i><br><i>Euphrasia officinalis</i><br><i>Galeopsis Tetrahit</i><br><i>Heleocharis acicularis</i><br><i>Holcus mollis</i><br><i>Hottonia palustris</i><br><i>Hydrocotyle vulgare</i><br><i>Iris Pseudacorus</i><br><i>Juncus bufonius</i><br><i>Lathyrus pratensis</i><br><i>Leersia oryzoides</i>: aan slootkanten<br><i>Linum catarcticum</i><br><i>Lycopodium inundatum</i><br><i>Lysimachia Nummularia</i><br><i>Lysimachia thyrsiflora</i><br><i>Malva sylvestris</i><br><i>Malva vulgaris</i><br><i>Mentha arvensis</i><br><i>Oxalis stricta</i><br><i>Panicum crus galli</i><br><i>Pedicularis palustris</i><br><i>Poa pratensis</i><br><i>Polygonum lapathifolium</i><br><i>Polygonum mite</i><br><i>Raphanus Raphanistrum</i><br><i>Rhynchospora alba</i><br><i>Rhynchospora fusca</i><br><i>Rumex Hydrolapathum</i><br><i>Sanguisorba officinalis</i>: in lage hooilanden, maar ook op droge gronden<br><i>Setaria viridis</i><br><i>Sorbus aucuparia</i><br><i>Tanacetum vulgare</i><br><i>Thrincia hirta</i><br><i>Typha angustifolia</i><br><i>Viola palustris</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8386347559208005,
+          51.64908488660354
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 54. 14",
+        "taxa": [
+          "Apera Spica Venti",
+          "Arnoseris pusilla",
+          "Athyrium filix femina",
+          "Cardamine pratensis: wortelrosetten",
+          "Centaurea Cyanus",
+          "Chrysanthemum segetum",
+          "Cynosurus cristatus",
+          "Epilobium virgatum",
+          "Galeopsis Tetrahit",
+          "Gnaphalium uliginosum",
+          "Hieracium umbellatum",
+          "Holcus mollis",
+          "Hottonia palustris",
+          "Humulus Lupulus",
+          "Hydrocotyle vulgare",
+          "Hypericum tetrapterum",
+          "Juncus bufonius",
+          "Lonicera Periclymenum",
+          "Lotus corniculatus",
+          "Oxalis stricta",
+          "Peplis Portula",
+          "Poa nemoralis",
+          "Poa pratensis",
+          "Polygonum minus",
+          "Polygonum mite",
+          "Polystichum spinolosum",
+          "Populus tremula",
+          "Raphanus Raphanistrum",
+          "Sagina procumbens",
+          "Scleranthus annuus",
+          "Scrophularia nodosa",
+          "Sorbus aucuparia",
+          "Spergula arvensis",
+          "Stellaria graminca",
+          "Stellaria uliginosa",
+          "Trifolium fragiferum",
+          "Veronica Beccabunga",
+          "Viola tricolor"
+        ],
+        "label": "<b>Q 4. 54. 14</b><br><i>Apera Spica Venti</i><br><i>Arnoseris pusilla</i><br><i>Athyrium filix femina</i><br><i>Cardamine pratensis</i>: wortelrosetten<br><i>Centaurea Cyanus</i><br><i>Chrysanthemum segetum</i><br><i>Cynosurus cristatus</i><br><i>Epilobium virgatum</i><br><i>Galeopsis Tetrahit</i><br><i>Gnaphalium uliginosum</i><br><i>Hieracium umbellatum</i><br><i>Holcus mollis</i><br><i>Hottonia palustris</i><br><i>Humulus Lupulus</i><br><i>Hydrocotyle vulgare</i><br><i>Hypericum tetrapterum</i><br><i>Juncus bufonius</i><br><i>Lonicera Periclymenum</i><br><i>Lotus corniculatus</i><br><i>Oxalis stricta</i><br><i>Peplis Portula</i><br><i>Poa nemoralis</i><br><i>Poa pratensis</i><br><i>Polygonum minus</i><br><i>Polygonum mite</i><br><i>Polystichum spinolosum</i><br><i>Populus tremula</i><br><i>Raphanus Raphanistrum</i><br><i>Sagina procumbens</i><br><i>Scleranthus annuus</i><br><i>Scrophularia nodosa</i><br><i>Sorbus aucuparia</i><br><i>Spergula arvensis</i><br><i>Stellaria graminca</i><br><i>Stellaria uliginosa</i><br><i>Trifolium fragiferum</i><br><i>Veronica Beccabunga</i><br><i>Viola tricolor</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.820220466869129,
+          51.67708630601808
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 44. 31",
+        "taxa": [
+          "Artemisia vulgaris",
+          "Athyrium filix femina",
+          "Ballota foetida",
+          "Berula angustifolia",
+          "Carex Pseudo-Cyperus",
+          "Centaurea Cyanus",
+          "Equisetum arvense",
+          "Euphorbia Peplus",
+          "Festuca gigantea",
+          "Geum urbanum",
+          "Hieracium Pilosella",
+          "Hottonia palustris",
+          "Humulus Lupulus",
+          "Hypericum tetrapterum",
+          "Iris Pseudacorus",
+          "Lappa minor",
+          "Lotus corniculatus",
+          "Nasturtium amphibium",
+          "Ononis spinosa",
+          "Petasites officinalis",
+          "Potamogeton natans",
+          "Prunus Padus",
+          "Prunus spinosa",
+          "Rubus caesius",
+          "Rumex Hydrolapathum",
+          "Salix aurita",
+          "Salix cinerea",
+          "Scleranthus annuus",
+          "Scrophularia nodosa",
+          "Senecio erucifolius",
+          "Sonchus oleraceus",
+          "Sorbus aucuparia",
+          "Ulmus suberosa",
+          "Viola tricolor"
+        ],
+        "label": "<b>Q 4. 44. 31</b><br><i>Artemisia vulgaris</i><br><i>Athyrium filix femina</i><br><i>Ballota foetida</i><br><i>Berula angustifolia</i><br><i>Carex Pseudo-Cyperus</i><br><i>Centaurea Cyanus</i><br><i>Equisetum arvense</i><br><i>Euphorbia Peplus</i><br><i>Festuca gigantea</i><br><i>Geum urbanum</i><br><i>Hieracium Pilosella</i><br><i>Hottonia palustris</i><br><i>Humulus Lupulus</i><br><i>Hypericum tetrapterum</i><br><i>Iris Pseudacorus</i><br><i>Lappa minor</i><br><i>Lotus corniculatus</i><br><i>Nasturtium amphibium</i><br><i>Ononis spinosa</i><br><i>Petasites officinalis</i><br><i>Potamogeton natans</i><br><i>Prunus Padus</i><br><i>Prunus spinosa</i><br><i>Rubus caesius</i><br><i>Rumex Hydrolapathum</i><br><i>Salix aurita</i><br><i>Salix cinerea</i><br><i>Scleranthus annuus</i><br><i>Scrophularia nodosa</i><br><i>Senecio erucifolius</i><br><i>Sonchus oleraceus</i><br><i>Sorbus aucuparia</i><br><i>Ulmus suberosa</i><br><i>Viola tricolor</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.820338437849489,
+          51.66772365236852
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 44. 33",
+        "taxa": [
+          "Artemisia vulgaris",
+          "Athyrium filix femina",
+          "Caltha palustris",
+          "Carex riparia",
+          "Carex rostrata",
+          "Carex vulgaris",
+          "Comarum palustre",
+          "Euphrasia officinalis",
+          "Galeopsis Tetrahit",
+          "Humulus Lupulus",
+          "Hydrocotyle vulgare",
+          "Iris Pseudacorus",
+          "Juncus conglomeratus",
+          "Lysimachia Nummularia",
+          "Lysimachia thyrsiflora",
+          "Nasturtium officinale",
+          "Oenanthe fistulosa",
+          "Osmunda regalis",
+          "Pilularia globulifera",
+          "Polygonum minus",
+          "Prunus spinosa",
+          "Rumex Hydrolapathum",
+          "Scirpus lacustris: vooral in den Biesbosch, maar ook",
+          "Thrincia hirta",
+          "Typha angustifolia",
+          "Utricularia minor"
+        ],
+        "label": "<b>Q 4. 44. 33</b><br><i>Artemisia vulgaris</i><br><i>Athyrium filix femina</i><br><i>Caltha palustris</i><br><i>Carex riparia</i><br><i>Carex rostrata</i><br><i>Carex vulgaris</i><br><i>Comarum palustre</i><br><i>Euphrasia officinalis</i><br><i>Galeopsis Tetrahit</i><br><i>Humulus Lupulus</i><br><i>Hydrocotyle vulgare</i><br><i>Iris Pseudacorus</i><br><i>Juncus conglomeratus</i><br><i>Lysimachia Nummularia</i><br><i>Lysimachia thyrsiflora</i><br><i>Nasturtium officinale</i><br><i>Oenanthe fistulosa</i><br><i>Osmunda regalis</i><br><i>Pilularia globulifera</i><br><i>Polygonum minus</i><br><i>Prunus spinosa</i><br><i>Rumex Hydrolapathum</i><br><i>Scirpus lacustris</i>: vooral in den Biesbosch, maar ook<br><i>Thrincia hirta</i><br><i>Typha angustifolia</i><br><i>Utricularia minor</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.98320593090754,
+          51.64031422827854
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 56. 32",
+        "taxa": [
+          "Athyrium filix femina",
+          "Blechnum Spicant",
+          "Drosera intermedia",
+          "Drosera rotundifolia",
+          "Eriophorum polystachyum",
+          "Euphrasia officinalis",
+          "Gentiana Pneumonanthe",
+          "Gnaphalium uliginosum",
+          "Hieracium Pilosella",
+          "Hottonia palustris",
+          "Hydrocotyle vulgare",
+          "Hypericum perforatum",
+          "Jasione montana",
+          "Juncus bufonius",
+          "Juncus squarrosus",
+          "Juncus supinus",
+          "Narthecium ossifragum",
+          "Ornithopus perpusillus",
+          "Osmunda regalis",
+          "Panicum crus galli",
+          "Panicum lineare",
+          "Plantago Coronopus",
+          "Poa pratensis",
+          "Polygonum lapathifolium",
+          "Populus tremula",
+          "Potentilla Tormentilla",
+          "Rhynchospora alba",
+          "Salix aurita",
+          "Salix repens",
+          "Scirpus caespitosus",
+          "Scirpus fluitans",
+          "Scleranthus annuus",
+          "Spergula arvensis",
+          "Spergularia rubra"
+        ],
+        "label": "<b>Q 4. 56. 32</b><br><i>Athyrium filix femina</i><br><i>Blechnum Spicant</i><br><i>Drosera intermedia</i><br><i>Drosera rotundifolia</i><br><i>Eriophorum polystachyum</i><br><i>Euphrasia officinalis</i><br><i>Gentiana Pneumonanthe</i><br><i>Gnaphalium uliginosum</i><br><i>Hieracium Pilosella</i><br><i>Hottonia palustris</i><br><i>Hydrocotyle vulgare</i><br><i>Hypericum perforatum</i><br><i>Jasione montana</i><br><i>Juncus bufonius</i><br><i>Juncus squarrosus</i><br><i>Juncus supinus</i><br><i>Narthecium ossifragum</i><br><i>Ornithopus perpusillus</i><br><i>Osmunda regalis</i><br><i>Panicum crus galli</i><br><i>Panicum lineare</i><br><i>Plantago Coronopus</i><br><i>Poa pratensis</i><br><i>Polygonum lapathifolium</i><br><i>Populus tremula</i><br><i>Potentilla Tormentilla</i><br><i>Rhynchospora alba</i><br><i>Salix aurita</i><br><i>Salix repens</i><br><i>Scirpus caespitosus</i><br><i>Scirpus fluitans</i><br><i>Scleranthus annuus</i><br><i>Spergula arvensis</i><br><i>Spergularia rubra</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0012633561217115,
+          51.64037569493725
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 56. 41",
+        "taxa": [
+          "Athyrium filix femina",
+          "Blechnum Spicant",
+          "Filago minima",
+          "Gentiana Pneumonanthe",
+          "Gnaphalium uliginosum",
+          "Hydrocotyle vulgare",
+          "Illecebrum verticillatum",
+          "Jasione montana",
+          "Lonicera Periclymenum",
+          "Mentha arvensis",
+          "Nardus stricta",
+          "Nasturtium palustre",
+          "Polygonum lapathifolium",
+          "Polygonum minus",
+          "Potentilla Tormentilla",
+          "Sagina procumbens",
+          "Salix aurita",
+          "Scleranthus annuus",
+          "Spergula arvensis"
+        ],
+        "label": "<b>Q 4. 56. 41</b><br><i>Athyrium filix femina</i><br><i>Blechnum Spicant</i><br><i>Filago minima</i><br><i>Gentiana Pneumonanthe</i><br><i>Gnaphalium uliginosum</i><br><i>Hydrocotyle vulgare</i><br><i>Illecebrum verticillatum</i><br><i>Jasione montana</i><br><i>Lonicera Periclymenum</i><br><i>Mentha arvensis</i><br><i>Nardus stricta</i><br><i>Nasturtium palustre</i><br><i>Polygonum lapathifolium</i><br><i>Polygonum minus</i><br><i>Potentilla Tormentilla</i><br><i>Sagina procumbens</i><br><i>Salix aurita</i><br><i>Scleranthus annuus</i><br><i>Spergula arvensis</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.001424194506743,
+          51.62164991314307
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 66. 21",
+        "taxa": [
+          "Avena caryophyllea",
+          "Avena praecox",
+          "Carex echinata",
+          "Chrysanthemum Leucanthemum",
+          "Eriophorum polystachyum",
+          "Euphrasia officinalis",
+          "Genista anglica",
+          "Hieracium Pilosella",
+          "Hieracium tridentatum",
+          "Hypericum perforatum",
+          "Illecebrum verticillatum",
+          "Jasione montana",
+          "Juncus squarrosus",
+          "Lonicera Periclymenum",
+          "Luzula multiflora",
+          "Nardus stricta",
+          "Pedicularis sylvatica",
+          "Plantago Coronopus",
+          "Potentilla Tormentilla",
+          "Prunus serotina",
+          "Rhynchospora alba",
+          "Sagina procumbens",
+          "Salix aurita",
+          "Salix repens",
+          "Sarothamnus scoparius",
+          "Tragopogon pratensis"
+        ],
+        "label": "<b>Q 4. 66. 21</b><br><i>Avena caryophyllea</i><br><i>Avena praecox</i><br><i>Carex echinata</i><br><i>Chrysanthemum Leucanthemum</i><br><i>Eriophorum polystachyum</i><br><i>Euphrasia officinalis</i><br><i>Genista anglica</i><br><i>Hieracium Pilosella</i><br><i>Hieracium tridentatum</i><br><i>Hypericum perforatum</i><br><i>Illecebrum verticillatum</i><br><i>Jasione montana</i><br><i>Juncus squarrosus</i><br><i>Lonicera Periclymenum</i><br><i>Luzula multiflora</i><br><i>Nardus stricta</i><br><i>Pedicularis sylvatica</i><br><i>Plantago Coronopus</i><br><i>Potentilla Tormentilla</i><br><i>Prunus serotina</i><br><i>Rhynchospora alba</i><br><i>Sagina procumbens</i><br><i>Salix aurita</i><br><i>Salix repens</i><br><i>Sarothamnus scoparius</i><br><i>Tragopogon pratensis</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.837146880228934,
+          51.770799210377135
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 24. 12",
+        "taxa": [
+          "Avena flavescens",
+          "Erysimum cheiranthoides",
+          "Euphorbia Helioscopia",
+          "Hypericum tetrapterum",
+          "Veronica Buxbaumii"
+        ],
+        "label": "<b>Q 4. 24. 12</b><br><i>Avena flavescens</i><br><i>Erysimum cheiranthoides</i><br><i>Euphorbia Helioscopia</i><br><i>Hypericum tetrapterum</i><br><i>Veronica Buxbaumii</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.837261660687659,
+          51.761436626691584
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 24. 14",
+        "taxa": [
+          "Avena flavescens",
+          "Butomus umbellatus",
+          "Caltha palustris",
+          "Cardamine pratensis: wortelrosetten",
+          "Carex hirta",
+          "Chrysanthemum Leucanthemum",
+          "Circaea lutetiana",
+          "Crepis biennis",
+          "Epipactis latifolia: ?",
+          "Equisetum arvense",
+          "Equisetum limosum",
+          "Erucastrum Pollichii",
+          "Euphorbia Peplus",
+          "Festuca gigantea",
+          "Galeopsis Tetrahit",
+          "Galium Aparine",
+          "Geranium dissectum",
+          "Geranium molle",
+          "Helosciadium nodiflorum",
+          "Hordeum secalinum",
+          "Humulus Lupulus",
+          "Hypericum quadrangulum",
+          "Hypericum tetrapterum",
+          "Juncus Compressus",
+          "Juncus glaucus",
+          "Lappa major",
+          "Lathyrus pratensis",
+          "Lemna trisulca",
+          "Lotus corniculatus",
+          "Lycopodium inundatum",
+          "Lysimachia Nummularia",
+          "Medicago lupulina",
+          "Mentha aquatica",
+          "Mentha arvensis",
+          "Mentha sylvestris",
+          "Myosotis intermedia",
+          "Nasturtium amphibium",
+          "Nasturtium officinale",
+          "Nasturtium palustre",
+          "Nasturtium sylvestre",
+          "Pastinaca sativa",
+          "Potamogeton densus",
+          "Potamogeton perfoliatus",
+          "Potentilla reptans",
+          "Rubus caesius",
+          "Rumex crispus",
+          "Rumex Hydrolapathum",
+          "Scrophularia nodosa",
+          "Senecio aquaticus",
+          "Senecio erucifolius",
+          "Senecio paluclosus: in den Biesbosch",
+          "Sinapis arvensis",
+          "Sonchus arvensis",
+          "Stachys palustris",
+          "Thalictrum flavum: ?",
+          "Thrincia hirta",
+          "Tragopogon pratensis",
+          "Triglochin palustre",
+          "Tussilago Farfara",
+          "Typha latifolia",
+          "Utricularia vulgaris",
+          "Veronica Anagalis",
+          "Veronica Buxbaumii",
+          "Veronica Chamaedrys",
+          "Vicia Sepium"
+        ],
+        "label": "<b>Q 4. 24. 14</b><br><i>Avena flavescens</i><br><i>Butomus umbellatus</i><br><i>Caltha palustris</i><br><i>Cardamine pratensis</i>: wortelrosetten<br><i>Carex hirta</i><br><i>Chrysanthemum Leucanthemum</i><br><i>Circaea lutetiana</i><br><i>Crepis biennis</i><br><i>Epipactis latifolia</i>: ?<br><i>Equisetum arvense</i><br><i>Equisetum limosum</i><br><i>Erucastrum Pollichii</i><br><i>Euphorbia Peplus</i><br><i>Festuca gigantea</i><br><i>Galeopsis Tetrahit</i><br><i>Galium Aparine</i><br><i>Geranium dissectum</i><br><i>Geranium molle</i><br><i>Helosciadium nodiflorum</i><br><i>Hordeum secalinum</i><br><i>Humulus Lupulus</i><br><i>Hypericum quadrangulum</i><br><i>Hypericum tetrapterum</i><br><i>Juncus Compressus</i><br><i>Juncus glaucus</i><br><i>Lappa major</i><br><i>Lathyrus pratensis</i><br><i>Lemna trisulca</i><br><i>Lotus corniculatus</i><br><i>Lycopodium inundatum</i><br><i>Lysimachia Nummularia</i><br><i>Medicago lupulina</i><br><i>Mentha aquatica</i><br><i>Mentha arvensis</i><br><i>Mentha sylvestris</i><br><i>Myosotis intermedia</i><br><i>Nasturtium amphibium</i><br><i>Nasturtium officinale</i><br><i>Nasturtium palustre</i><br><i>Nasturtium sylvestre</i><br><i>Pastinaca sativa</i><br><i>Potamogeton densus</i><br><i>Potamogeton perfoliatus</i><br><i>Potentilla reptans</i><br><i>Rubus caesius</i><br><i>Rumex crispus</i><br><i>Rumex Hydrolapathum</i><br><i>Scrophularia nodosa</i><br><i>Senecio aquaticus</i><br><i>Senecio erucifolius</i><br><i>Senecio paluclosus</i>: in den Biesbosch<br><i>Sinapis arvensis</i><br><i>Sonchus arvensis</i><br><i>Stachys palustris</i><br><i>Thalictrum flavum</i>: ?<br><i>Thrincia hirta</i><br><i>Tragopogon pratensis</i><br><i>Triglochin palustre</i><br><i>Tussilago Farfara</i><br><i>Typha latifolia</i><br><i>Utricularia vulgaris</i><br><i>Veronica Anagalis</i><br><i>Veronica Buxbaumii</i><br><i>Veronica Chamaedrys</i><br><i>Vicia Sepium</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.874435957706879,
+          51.67733785032782
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 44. 42",
+        "taxa": [
+          "Avena flavescens",
+          "Caltha palustris",
+          "Carex acuta",
+          "Crepis biennis",
+          "Hypericum tetrapterum",
+          "Lathyrus pratensis",
+          "Leersia oryzoides: aan slootkanten",
+          "Lysimachia thyrsiflora",
+          "Mentha aquatica",
+          "Mentha arvensis",
+          "Mentha sativa",
+          "Nasturtium sylvestre",
+          "Pastinaca sativa",
+          "Pimpinella Saxifraga",
+          "Potamogeton perfoliatus",
+          "Potentilla reptans",
+          "Rubus caesius",
+          "Rumex Hydrolapathum",
+          "Scirpus triqueter: in den Biesbosch",
+          "Scrophularia Ehrharti",
+          "Senecio aquaticus",
+          "Sonchus arvensis",
+          "Stachys palustris",
+          "Thrincia hirta",
+          "Tussilago Farfara"
+        ],
+        "label": "<b>Q 4. 44. 42</b><br><i>Avena flavescens</i><br><i>Caltha palustris</i><br><i>Carex acuta</i><br><i>Crepis biennis</i><br><i>Hypericum tetrapterum</i><br><i>Lathyrus pratensis</i><br><i>Leersia oryzoides</i>: aan slootkanten<br><i>Lysimachia thyrsiflora</i><br><i>Mentha aquatica</i><br><i>Mentha arvensis</i><br><i>Mentha sativa</i><br><i>Nasturtium sylvestre</i><br><i>Pastinaca sativa</i><br><i>Pimpinella Saxifraga</i><br><i>Potamogeton perfoliatus</i><br><i>Potentilla reptans</i><br><i>Rubus caesius</i><br><i>Rumex Hydrolapathum</i><br><i>Scirpus triqueter</i>: in den Biesbosch<br><i>Scrophularia Ehrharti</i><br><i>Senecio aquaticus</i><br><i>Sonchus arvensis</i><br><i>Stachys palustris</i><br><i>Thrincia hirta</i><br><i>Tussilago Farfara</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.855478183562173,
+          51.752158062328114
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 24. 41",
+        "taxa": [
+          "Berula angustifolia",
+          "Helosciadium nodiflorum",
+          "Nasturtium officinale",
+          "Potamogeton perfoliatus",
+          "Scirpus triqueter: in den Biesbosch",
+          "Senecio paluclosus: in den Biesbosch",
+          "Typha latifolia"
+        ],
+        "label": "<b>Q 4. 24. 41</b><br><i>Berula angustifolia</i><br><i>Helosciadium nodiflorum</i><br><i>Nasturtium officinale</i><br><i>Potamogeton perfoliatus</i><br><i>Scirpus triqueter</i>: in den Biesbosch<br><i>Senecio paluclosus</i>: in den Biesbosch<br><i>Typha latifolia</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.856142901126827,
+          51.69598216429797
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 44. 21",
+        "taxa": [
+          "Berula angustifolia",
+          "Carex muricata",
+          "Convolvulus arvensis",
+          "Crepis biennis",
+          "Equisetum arvense",
+          "Erigeron canadensis",
+          "Lappa minor",
+          "Lemna gibba",
+          "Lemna polyrrhiza",
+          "Mentha sylvestris",
+          "Mercurialis annua",
+          "Petasites officinalis",
+          "Poa pratensis",
+          "Potentilla reptans",
+          "Rumex crispus",
+          "Rumex Hydrolapathum",
+          "Scrophularia Neesii",
+          "Sonchus arvensis",
+          "Sonchus oleraceus",
+          "Thrincia hirta",
+          "Tussilago Farfara",
+          "Typha angustifolia",
+          "Veronica Anagalis",
+          "Veronica arvensis"
+        ],
+        "label": "<b>Q 4. 44. 21</b><br><i>Berula angustifolia</i><br><i>Carex muricata</i><br><i>Convolvulus arvensis</i><br><i>Crepis biennis</i><br><i>Equisetum arvense</i><br><i>Erigeron canadensis</i><br><i>Lappa minor</i><br><i>Lemna gibba</i><br><i>Lemna polyrrhiza</i><br><i>Mentha sylvestris</i><br><i>Mercurialis annua</i><br><i>Petasites officinalis</i><br><i>Poa pratensis</i><br><i>Potentilla reptans</i><br><i>Rumex crispus</i><br><i>Rumex Hydrolapathum</i><br><i>Scrophularia Neesii</i><br><i>Sonchus arvensis</i><br><i>Sonchus oleraceus</i><br><i>Thrincia hirta</i><br><i>Tussilago Farfara</i><br><i>Typha angustifolia</i><br><i>Veronica Anagalis</i><br><i>Veronica arvensis</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.874329148931469,
+          51.68670056300632
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 44. 24",
+        "taxa": [
+          "Berula angustifolia",
+          "Cichorium Intibus",
+          "Equisetum limosum",
+          "Erysimum cheiranthoides",
+          "Galium Aparine",
+          "Humulus Lupulus",
+          "Iris Pseudacorus",
+          "Lemna trisulca",
+          "Oenanthe fistulosa",
+          "Rubus caesius",
+          "Rumex crispus",
+          "Sonchus arvensis",
+          "Sparganium simplex",
+          "Stachys palustris"
+        ],
+        "label": "<b>Q 4. 44. 24</b><br><i>Berula angustifolia</i><br><i>Cichorium Intibus</i><br><i>Equisetum limosum</i><br><i>Erysimum cheiranthoides</i><br><i>Galium Aparine</i><br><i>Humulus Lupulus</i><br><i>Iris Pseudacorus</i><br><i>Lemna trisulca</i><br><i>Oenanthe fistulosa</i><br><i>Rubus caesius</i><br><i>Rumex crispus</i><br><i>Sonchus arvensis</i><br><i>Sparganium simplex</i><br><i>Stachys palustris</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.820102439562257,
+          51.68644895088323
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 44. 13",
+        "taxa": [
+          "Bidens cernuus",
+          "Hypericum tetrapterum"
+        ],
+        "label": "<b>Q 4. 44. 13</b><br><i>Bidens cernuus</i><br><i>Hypericum tetrapterum</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.983458318588678,
+          51.61222559322126
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 66. 14",
+        "taxa": [
+          "Calamagrostis Epigeios",
+          "Campanula rotundifolia",
+          "Corynephorus canescens",
+          "Genista anglica",
+          "Hypericum perforatum",
+          "Juncus supinus",
+          "Nardus stricta",
+          "Narthecium ossifragum",
+          "Radiola linoides",
+          "Salix repens",
+          "Sarothamnus scoparius",
+          "Triodia decumbens"
+        ],
+        "label": "<b>Q 4. 66. 14</b><br><i>Calamagrostis Epigeios</i><br><i>Campanula rotundifolia</i><br><i>Corynephorus canescens</i><br><i>Genista anglica</i><br><i>Hypericum perforatum</i><br><i>Juncus supinus</i><br><i>Nardus stricta</i><br><i>Narthecium ossifragum</i><br><i>Radiola linoides</i><br><i>Salix repens</i><br><i>Sarothamnus scoparius</i><br><i>Triodia decumbens</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.855810780588046,
+          51.724070155539
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 34. 23",
+        "taxa": [
+          "Callitriche verna",
+          "Chrysanthemum Leucanthemum",
+          "Galium Aparine",
+          "Hypericum tetrapterum",
+          "Lathyrus pratensis",
+          "Melilotus officinalis",
+          "Ranunculus sceleratus",
+          "Rumex crispus",
+          "Senecio erucifolius",
+          "Sonchus oleraceus",
+          "Tragopogon minor",
+          "Trifolium minus",
+          "Typha angustifolia",
+          "Veronica Anagalis"
+        ],
+        "label": "<b>Q 4. 34. 23</b><br><i>Callitriche verna</i><br><i>Chrysanthemum Leucanthemum</i><br><i>Galium Aparine</i><br><i>Hypericum tetrapterum</i><br><i>Lathyrus pratensis</i><br><i>Melilotus officinalis</i><br><i>Ranunculus sceleratus</i><br><i>Rumex crispus</i><br><i>Senecio erucifolius</i><br><i>Sonchus oleraceus</i><br><i>Tragopogon minor</i><br><i>Trifolium minus</i><br><i>Typha angustifolia</i><br><i>Veronica Anagalis</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.874542715510135,
+          51.66797512889289
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 44. 44",
+        "taxa": [
+          "Caltha palustris",
+          "Sanguisorba officinalis: in lage hooilanden, maar ook op droge gronden",
+          "Scirpus lacustris: vooral in den Biesbosch, maar ook"
+        ],
+        "label": "<b>Q 4. 44. 44</b><br><i>Caltha palustris</i><br><i>Sanguisorba officinalis</i>: in lage hooilanden, maar ook op droge gronden<br><i>Scirpus lacustris</i>: vooral in den Biesbosch, maar ook"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.874649422377078,
+          51.65861239882517
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 54. 22",
+        "taxa": [
+          "Caltha palustris",
+          "Hypericum tetrapterum",
+          "Leersia oryzoides: aan slootkanten",
+          "Poa serotina",
+          "Sanguisorba officinalis: in lage hooilanden, maar ook op droge gronden",
+          "Trifolium fragiferum"
+        ],
+        "label": "<b>Q 4. 54. 22</b><br><i>Caltha palustris</i><br><i>Hypericum tetrapterum</i><br><i>Leersia oryzoides</i>: aan slootkanten<br><i>Poa serotina</i><br><i>Sanguisorba officinalis</i>: in lage hooilanden, maar ook op droge gronden<br><i>Trifolium fragiferum</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8559215403276115,
+          51.71470750101071
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 34. 41",
+        "taxa": [
+          "Carex acuta",
+          "Scirpus triqueter: in den Biesbosch",
+          "Senecio aquaticus",
+          "Tussilago Farfara",
+          "Typha angustifolia"
+        ],
+        "label": "<b>Q 4. 34. 41</b><br><i>Carex acuta</i><br><i>Scirpus triqueter</i>: in den Biesbosch<br><i>Senecio aquaticus</i><br><i>Tussilago Farfara</i><br><i>Typha angustifolia</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.001584879631448,
+          51.60292409950763
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 66. 41",
+        "taxa": [
+          "Carex rostrata",
+          "Carex vulgaris",
+          "Cirsium anglicum",
+          "Cuscuta Epithymum",
+          "Drosera intermedia",
+          "Drosera rotundifolia",
+          "Eriophorum polystachyum",
+          "Genista anglica",
+          "Genista pilosa",
+          "Juncus squarrosus",
+          "Juncus supinus",
+          "Narthecium ossifragum",
+          "Ornithopus perpusillus",
+          "Rhynchospora alba",
+          "Rhynchospora fusca",
+          "Scirpus caespitosus"
+        ],
+        "label": "<b>Q 4. 66. 41</b><br><i>Carex rostrata</i><br><i>Carex vulgaris</i><br><i>Cirsium anglicum</i><br><i>Cuscuta Epithymum</i><br><i>Drosera intermedia</i><br><i>Drosera rotundifolia</i><br><i>Eriophorum polystachyum</i><br><i>Genista anglica</i><br><i>Genista pilosa</i><br><i>Juncus squarrosus</i><br><i>Juncus supinus</i><br><i>Narthecium ossifragum</i><br><i>Ornithopus perpusillus</i><br><i>Rhynchospora alba</i><br><i>Rhynchospora fusca</i><br><i>Scirpus caespitosus</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8566953792271805,
+          51.64916866695769
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 54. 23",
+        "taxa": [
+          "Centaurea Cyanus",
+          "Spergula arvensis"
+        ],
+        "label": "<b>Q 4. 54. 23</b><br><i>Centaurea Cyanus</i><br><i>Spergula arvensis</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.837491056978136,
+          51.74271142978192
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 24. 34 ?",
+        "taxa": [
+          "Cineraria palustris",
+          "Cirsium anglicum",
+          "Juncus conglomeratus"
+        ],
+        "label": "<b>Q 4. 24. 34 ?</b><br><i>Cineraria palustris</i><br><i>Cirsium anglicum</i><br><i>Juncus conglomeratus</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.855810780588046,
+          51.724070155539
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 34. 23 ?",
+        "taxa": [
+          "Cineraria palustris"
+        ],
+        "label": "<b>Q 4. 34. 23 ?</b><br><i>Cineraria palustris</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.001504556213183,
+          51.61228701024372
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 66. 23",
+        "taxa": [
+          "Corynephorus canescens",
+          "Cuscuta Epithymum",
+          "Drosera intermedia",
+          "Erodium pimpinellifolium",
+          "Genista anglica",
+          "Gnaphalium sylvaticum",
+          "Hieracium tridentatum",
+          "Holcus mollis",
+          "Hydrocotyle vulgare",
+          "Hypericum perforatum",
+          "Jasione montana",
+          "Juncus squarrosus",
+          "Lycopodium inundatum",
+          "Nardus stricta",
+          "Panicum lineare",
+          "Pedicularis sylvatica",
+          "Potentilla procumbens",
+          "Potentilla Tormentilla",
+          "Rhynchospora alba",
+          "Salix aurita",
+          "Salix repens",
+          "Sarothamnus scoparius",
+          "Scleranthus annuus",
+          "Spergula arvensis",
+          "Tanacetum vulgare",
+          "Thrincia hirta",
+          "Viola canina"
+        ],
+        "label": "<b>Q 4. 66. 23</b><br><i>Corynephorus canescens</i><br><i>Cuscuta Epithymum</i><br><i>Drosera intermedia</i><br><i>Erodium pimpinellifolium</i><br><i>Genista anglica</i><br><i>Gnaphalium sylvaticum</i><br><i>Hieracium tridentatum</i><br><i>Holcus mollis</i><br><i>Hydrocotyle vulgare</i><br><i>Hypericum perforatum</i><br><i>Jasione montana</i><br><i>Juncus squarrosus</i><br><i>Lycopodium inundatum</i><br><i>Nardus stricta</i><br><i>Panicum lineare</i><br><i>Pedicularis sylvatica</i><br><i>Potentilla procumbens</i><br><i>Potentilla Tormentilla</i><br><i>Rhynchospora alba</i><br><i>Salix aurita</i><br><i>Salix repens</i><br><i>Sarothamnus scoparius</i><br><i>Scleranthus annuus</i><br><i>Spergula arvensis</i><br><i>Tanacetum vulgare</i><br><i>Thrincia hirta</i><br><i>Viola canina</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.856032247161459,
+          51.70534483722248
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 34. 43",
+        "taxa": [
+          "Crepis biennis",
+          "Festuca gigantea",
+          "Mentha aquatica",
+          "Mentha sativa",
+          "Mercurialis annua",
+          "Scirpus triqueter: in den Biesbosch",
+          "Senecio aquaticus",
+          "Senecio paluclosus: in den Biesbosch"
+        ],
+        "label": "<b>Q 4. 34. 43</b><br><i>Crepis biennis</i><br><i>Festuca gigantea</i><br><i>Mentha aquatica</i><br><i>Mentha sativa</i><br><i>Mercurialis annua</i><br><i>Scirpus triqueter</i>: in den Biesbosch<br><i>Senecio aquaticus</i><br><i>Senecio paluclosus</i>: in den Biesbosch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0011023642608174,
+          51.65910144390136
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 56. 21",
+        "taxa": [
+          "Gentiana Pneumonanthe"
+        ],
+        "label": "<b>Q 4. 56. 21</b><br><i>Gentiana Pneumonanthe</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.001182879389233,
+          51.64973857358486
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 56. 23",
+        "taxa": [
+          "Gentiana Pneumonanthe",
+          "Lonicera Periclymenum",
+          "Lycopodium inundatum"
+        ],
+        "label": "<b>Q 4. 56. 23</b><br><i>Gentiana Pneumonanthe</i><br><i>Lonicera Periclymenum</i><br><i>Lycopodium inundatum</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8376056728872046,
+          51.733348816805005
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 34. 12",
+        "taxa": [
+          "Helosciadium nodiflorum",
+          "Nasturtium amphibium",
+          "Nasturtium officinale",
+          "Scirpus triqueter: in den Biesbosch",
+          "Senecio aquaticus",
+          "Senecio paluclosus: in den Biesbosch",
+          "Typha angustifolia"
+        ],
+        "label": "<b>Q 4. 34. 12</b><br><i>Helosciadium nodiflorum</i><br><i>Nasturtium amphibium</i><br><i>Nasturtium officinale</i><br><i>Scirpus triqueter</i>: in den Biesbosch<br><i>Senecio aquaticus</i><br><i>Senecio paluclosus</i>: in den Biesbosch<br><i>Typha angustifolia</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.621118716612762,
+          51.69467387675244
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 41. 12",
+        "taxa": [
+          "Juncus bufonius"
+        ],
+        "label": "<b>Q 4. 41. 12</b><br><i>Juncus bufonius</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.874649422377078,
+          51.65861239882517
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 54. 22 ?",
+        "taxa": [
+          "Juncus obtusiflorus"
+        ],
+        "label": "<b>Q 4. 54. 22 ?</b><br><i>Juncus obtusiflorus</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.874756078343517,
+          51.649249660248344
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 54. 24",
+        "taxa": [
+          "Leersia oryzoides: aan slootkanten"
+        ],
+        "label": "<b>Q 4. 54. 24</b><br><i>Leersia oryzoides</i>: aan slootkanten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.019474214723462,
+          51.62170856172334
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 66. 22",
+        "taxa": [
+          "Lycium halamifolium: in een tuin"
+        ],
+        "label": "<b>Q 4. 66. 22</b><br><i>Lycium halamifolium</i>: in een tuin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.839204561986271,
+          51.60227129214299
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 64. 32",
+        "taxa": [
+          "Malachium aquaticum"
+        ],
+        "label": "<b>Q 4. 64. 32</b><br><i>Malachium aquaticum</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.837376386257834,
+          51.752074033118674
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 24. 32",
+        "taxa": [
+          "Mentha aquatica",
+          "Papaver Rhoeas",
+          "Potentilla reptans",
+          "Tussilago Farfara"
+        ],
+        "label": "<b>Q 4. 24. 32</b><br><i>Mentha aquatica</i><br><i>Papaver Rhoeas</i><br><i>Potentilla reptans</i><br><i>Tussilago Farfara</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.837720234023644,
+          51.72398619431154
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 34. 14",
+        "taxa": [
+          "Mentha aquatica",
+          "Nasturtium officinale",
+          "Petasites officinalis",
+          "Potamogeton perfoliatus",
+          "Salix viminalis",
+          "Scirpus triqueter: in den Biesbosch",
+          "Senecio aquaticus",
+          "Senecio paluclosus: in den Biesbosch",
+          "Typha angustifolia"
+        ],
+        "label": "<b>Q 4. 34. 14</b><br><i>Mentha aquatica</i><br><i>Nasturtium officinale</i><br><i>Petasites officinalis</i><br><i>Potamogeton perfoliatus</i><br><i>Salix viminalis</i><br><i>Scirpus triqueter</i>: in den Biesbosch<br><i>Senecio aquaticus</i><br><i>Senecio paluclosus</i>: in den Biesbosch<br><i>Typha angustifolia</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.839318360338906,
+          51.592908549399496
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 64. 34",
+        "taxa": [
+          "Menyanthes trifoliata"
+        ],
+        "label": "<b>Q 4. 64. 34</b><br><i>Menyanthes trifoliata</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.855589102242647,
+          51.7427954363213
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 24. 43",
+        "taxa": [
+          "Nasturtium amphibium",
+          "Scirpus triqueter: in den Biesbosch",
+          "Senecio paluclosus: in den Biesbosch",
+          "Typha latifolia"
+        ],
+        "label": "<b>Q 4. 24. 43</b><br><i>Nasturtium amphibium</i><br><i>Scirpus triqueter</i>: in den Biesbosch<br><i>Senecio paluclosus</i>: in den Biesbosch<br><i>Typha latifolia</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.838748825834705,
+          51.639722184024485
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 54. 32",
+        "taxa": [
+          "Ranunculus Lingua"
+        ],
+        "label": "<b>Q 4. 54. 32</b><br><i>Ranunculus Lingua</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.982784481413547,
+          51.687128454105775
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 46. 14",
+        "taxa": [
+          "Ranunculus sceleratus"
+        ],
+        "label": "<b>Q 4. 46. 14</b><br><i>Ranunculus sceleratus</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.929319962104532,
+          51.61202463695652
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 65. 23",
+        "taxa": [
+          "Sanguisorba officinalis: in lage hooilanden, maar ook op droge gronden"
+        ],
+        "label": "<b>Q 4. 65. 23</b><br><i>Sanguisorba officinalis</i>: in lage hooilanden, maar ook op droge gronden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8192746679373055,
+          51.751987208589746
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 24. 31",
+        "taxa": [
+          "Scirpus maritimus"
+        ],
+        "label": "<b>Q 4. 24. 31</b><br><i>Scirpus maritimus</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8378347404260165,
+          51.714623562425174
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 34. 32",
+        "taxa": [
+          "Senecio aquaticus",
+          "Senecio paluclosus: in den Biesbosch"
+        ],
+        "label": "<b>Q 4. 34. 32</b><br><i>Senecio aquaticus</i><br><i>Senecio paluclosus</i>: in den Biesbosch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.873472839418796,
+          51.761601934370084
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 24. 24",
+        "taxa": [
+          "Trifolium hybridum"
+        ],
+        "label": "<b>Q 4. 24. 24</b><br><i>Trifolium hybridum</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8569160016872415,
+          51.63044320839451
+        ]
+      },
+      "properties": {
+        "location": "Q 4. 54. 43",
+        "taxa": [
+          "Viola tricolor"
+        ],
+        "label": "<b>Q 4. 54. 43</b><br><i>Viola tricolor</i>"
+      }
+    }
+  ]
+}
