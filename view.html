@@ -15,10 +15,14 @@
   <body>
     <div id="map" style="width: 100vw; height: 100vh;"></div>
     <script>
+      var view = { center: [52.2, 5.5], zoom: 8 }
       function display (layers) {
         var overlayLayers = {}
         for (var i = 0; i < layers.length; i++) {
           var label = layers[i][0]
+          if (!layers[i][1]) {
+            continue
+          }
           var layer = L.geoJSON(layers[i][1], {
             onEachFeature: function (feature, layer) {
               layer.bindPopup(feature.properties.label)
@@ -50,8 +54,8 @@
         }
 
         var map = new L.Map('map', {
-          center: [51.56, 5.1],
-          zoom: 12,
+          center: view.center,
+          zoom: view.zoom,
           layers: [mapLayers.OpenStreetMap].concat(layers)
         })
 
@@ -59,6 +63,14 @@
       }
       var layers = window.location.search.slice(1).split('&')
       for (var i = 0; i < layers.length; i++) {
+        if (layers[i].includes('=')) {
+          var [key, value] = layers[i].split('=')
+          view[key] = JSON.parse(value)
+          layers.splice(i, 1)
+          i--
+          continue
+        }
+
         (function (label) {
           layers[i] = fetch('data/' + label + '.json').then(function (response) {
             return response.json().then(function (json) {
