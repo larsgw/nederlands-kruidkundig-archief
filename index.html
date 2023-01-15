@@ -8,11 +8,14 @@
   </head>
   <body>
     <h1>Nederlands Kruidkundig Archief</h1>
-    <p>Nederlands Kruidkundig Archief was a periodical for Dutch Botany by the Royal Dutch Botanical Society. In the publication, various lists of plants are published with location info, for example after a series of excursions with the society. This location info, at least on some occasions, follows the notation from Goethart &amp; Jongmans. Because I wanted to look at one of the lists this is not easily human-readable and an obscure format, I extracted the list and converted it to modern coordinates. This page lists such extracted lists.</p>
+    <p>Nederlands Kruidkundig Archief was a periodical for Dutch Botany by the Royal Dutch Botanical Society. In the publication, various lists of plants are published with location info, for example after a series of excursions with the society. This location info, at least on some occasions, follows the <a href="#goethart-jongmans-notation">notation from Goethart &amp; Jongmans</a>. This is not easily human-readable and an obscure format. Because I wanted to look to analyze the data from some of the lists, I extracted it and converted it to modern coordinates. This page lists such extracted lists.</p>
 
     <p>Cite this website:</p>
 
     <blockquote>Willighagen, L. G. (2023) Biodiversity data from the <i>Nederlands Kruidkundig Archief</i>. https://larsgw.github.io/nederlands-kruidkundig-archief/.</blockquote>
+
+    <h2>Map instructions</h2>
+    <p>To view the data from a single publication on a map, click the link labeled &quot;Map&quot; at the bottom of the information of the publication. Note that common species are not always displayed, as locations were generally not provided for these species. On the map page, it is possible to switch to maps from 1900 by hovering over the icon in the top right corner and clicking &quot;Bonnebladen (1900)&quot;. There, it is also possible to hide different parts of the extracted data, which are usually the vegetation records (red rectangles) or the routes (blue lines). On the map itself, both parts are interactive: clicking on them will bring up a pop-up with additional information.</p>
 
     <h2>Data</h2>
     <ul>
@@ -422,7 +425,7 @@
       </li>
     </ul>
 
-    <h2>Goethart &amp; Jongmans notation</h2>
+    <h2 id="goethart-jongmans-notation">Goethart &amp; Jongmans notation</h2>
     <p>As I could not find an online source documenting this notation, I thought I would describe it here. Locations look like this:</p>
 
     <blockquote>R 4. 18. 22</blockquote>
@@ -430,7 +433,7 @@
     <p>They have 4 components, "R 4.", "18.", "2", and "2":</p>
 
     <ul>
-      <li><b>R 4.</b> indicates the row ("R") and column ("4") in a grid covering the Netherlands. This grid is derived from the <i>Militaire Stafkaart</i>, specifically the 1:50 000 edition (<a href="https://www.nationaalarchief.nl/sites/default/files/afbeeldingen/toegangen/bladwijzer-TMK.jpg">overview</a>). The rows of the grid are labeled G to V (skipping vowels, so GHJKLMNPQRSTV). The columns are labeled 1 to 8, where columns 1 and 8 are half as wide as the rest.</li>
+      <li><b>R 4.</b> indicates the row ("R") and column ("4") in a grid covering the Netherlands. This grid is based on the divisions of the <i>Militaire Stafkaart</i>, specifically the 1:50 000 edition (<a href="map-grid.jpg">overview</a>). The rows of the grid are labeled G to V (skipping vowels, so GHJKLMNPQRSTV). The columns are labeled 1 to 8, where columns 1 and 8 are half as wide as the rest.</li>
       <li>These grid cells are then further divided into 6&times;8 sub-grids. The second component of the location signifies which cell in the sub-grid the location is in. <b>18.</b> thus means 1 down and 8 across. These cells are called "uurhokken" or hour cells, because walking along one side (5 km) takes approximately an hour.</li>
       <li>The hour cells are then divided into half-hour cells, a 2&times;2 sub-sub-grid. This grid is indexed 1 to 4, with 1 meaning top left, 2 top right, 3 bottom left, and 4 bottom right. <b>2</b> thus means the top right quarter.</li>
       <li>The half-hour cells are then further divided into quarter-hour cells, again a 2&times;2 sub-sub-sub-grid. It is indexed in the same way, so <b>2</b> again means the top right corner.</li>
