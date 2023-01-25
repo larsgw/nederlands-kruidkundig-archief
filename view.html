@@ -24,9 +24,30 @@
             continue
           }
           var layer = L.geoJSON(layers[i][1], {
-            onEachFeature: function (feature, layer) {
-              layer.bindPopup(feature.properties.label)
+            // Style grid differently
+            style: function (feature) {
+              if (feature.geometry.type === 'Polygon') {
+                return {
+                 color: '#000000',
+                 fillOpacity: 0
+                }
+              }
             },
+            // Bind popups
+            onEachFeature: function (feature, layer) {
+              if (feature.geometry.type === 'Polygon') {
+                layer.bindTooltip(feature.properties.label, {
+                  pane: 'overlayPane',
+                  permanent: true,
+                  direction: 'center',
+                  offset: [0, 0]
+                })
+                layer.setStyle({ interactive: false })
+              } else {
+                layer.bindPopup(feature.properties.label)
+              }
+            },
+            // Make Rectangles from points
             pointToLayer: function (feature, coords) {
               var width = coords.toBounds((40e3 / 8) / 4)
               var height = coords.toBounds((25e3 / 6) / 4)
