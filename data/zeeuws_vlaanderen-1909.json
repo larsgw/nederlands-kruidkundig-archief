@@ -250,10 +250,11 @@
           "Erodium cicutarium",
           "Melilotus altissimus",
           "Geum urbanum",
+          "Ceratophyllum submersum  ?",
           "Cirsium lanceolatum flor. albis",
           "Euphrasia officinalis nemorosa"
         ],
-        "label": "<b>S 3. 21. 11</b><br><i>Ranunculus acris fl. semi-pleno</i><br><i>Viola odorata</i><br><i>Silene noctiflora</i>: steeds in enkele exemplaren<br><i>Geranium robertianum</i><br><i>Erodium cicutarium</i><br><i>Melilotus altissimus</i><br><i>Geum urbanum</i><br><i>Cirsium lanceolatum flor. albis</i><br><i>Euphrasia officinalis nemorosa</i>"
+        "label": "<b>S 3. 21. 11</b><br><i>Ranunculus acris fl. semi-pleno</i><br><i>Viola odorata</i><br><i>Silene noctiflora</i>: steeds in enkele exemplaren<br><i>Geranium robertianum</i><br><i>Erodium cicutarium</i><br><i>Melilotus altissimus</i><br><i>Geum urbanum</i><br><i>Ceratophyllum submersum  ?</i><br><i>Cirsium lanceolatum flor. albis</i><br><i>Euphrasia officinalis nemorosa</i>"
       }
     },
     {
@@ -1223,17 +1224,26 @@
           "Filago minima",
           "Arnoseris pusilla",
           "Erica Tetralix",
+          "Ilex aquifolium  !",
+          "Veronica scutellata  !",
           "Galeopsis ochroleuca",
           "Utricularia neglecta",
+          "Littorella lacustris  !",
+          "Castanea sativa  !",
+          "Salix repens  !",
           "S. ranunculoides",
           "Potamogeton polygonifolius",
           "Typha angustifolia",
           "Juncus conglomeratus",
           "Juncus silvaticus",
+          "Juncus supinus  !",
           "Heleocharis multicaulis",
           "Scirpus fluitans",
+          "Eriophorum polystachyum  !",
           "Carex arenaria",
+          "Carex echinata  !",
           "Carex leporina",
+          "Carex pilulifera  !",
           "Carex flava",
           "Panicum crusgalli",
           "Calamagrostis lanceolata",
@@ -1244,7 +1254,7 @@
           "Polystichum Filix mas",
           "Blechnum Spicant"
         ],
-        "label": "<b>S 3. 32. 31</b><br><i>Teesdalia nudicaulis</i><br><i>Drosera rotundifolia</i><br><i>Drosera intermedia</i><br><i>Hypericum tetrapterum</i><br><i>Hypericum elodes</i>: !<br><i>Ornithopus perpusillus</i>: grensgemeenten<br><i>Vicia sativa</i><br><i>Rubus plicatus</i>: (? R. fruticosus in vroegere opgaven)<br><i>Potentilla Tormentilla</i><br><i>Potentilla procumbens</i><br><i>Lythrum salicaria</i><br><i>Oenanthe fistulosa</i><br><i>Filago minima</i><br><i>Arnoseris pusilla</i><br><i>Erica Tetralix</i><br><i>Galeopsis ochroleuca</i><br><i>Utricularia neglecta</i><br><i>S. ranunculoides</i><br><i>Potamogeton polygonifolius</i><br><i>Typha angustifolia</i><br><i>Juncus conglomeratus</i><br><i>Juncus silvaticus</i><br><i>Heleocharis multicaulis</i><br><i>Scirpus fluitans</i><br><i>Carex arenaria</i><br><i>Carex leporina</i><br><i>Carex flava</i><br><i>Panicum crusgalli</i><br><i>Calamagrostis lanceolata</i><br><i>Corynephorus canescens</i><br><i>Triodia decumbens</i><br><i>Molinia coerulea</i><br><i>Nardus stricta</i><br><i>Polystichum Filix mas</i><br><i>Blechnum Spicant</i>"
+        "label": "<b>S 3. 32. 31</b><br><i>Teesdalia nudicaulis</i><br><i>Drosera rotundifolia</i><br><i>Drosera intermedia</i><br><i>Hypericum tetrapterum</i><br><i>Hypericum elodes</i>: !<br><i>Ornithopus perpusillus</i>: grensgemeenten<br><i>Vicia sativa</i><br><i>Rubus plicatus</i>: (? R. fruticosus in vroegere opgaven)<br><i>Potentilla Tormentilla</i><br><i>Potentilla procumbens</i><br><i>Lythrum salicaria</i><br><i>Oenanthe fistulosa</i><br><i>Filago minima</i><br><i>Arnoseris pusilla</i><br><i>Erica Tetralix</i><br><i>Ilex aquifolium  !</i><br><i>Veronica scutellata  !</i><br><i>Galeopsis ochroleuca</i><br><i>Utricularia neglecta</i><br><i>Littorella lacustris  !</i><br><i>Castanea sativa  !</i><br><i>Salix repens  !</i><br><i>S. ranunculoides</i><br><i>Potamogeton polygonifolius</i><br><i>Typha angustifolia</i><br><i>Juncus conglomeratus</i><br><i>Juncus silvaticus</i><br><i>Juncus supinus  !</i><br><i>Heleocharis multicaulis</i><br><i>Scirpus fluitans</i><br><i>Eriophorum polystachyum  !</i><br><i>Carex arenaria</i><br><i>Carex echinata  !</i><br><i>Carex leporina</i><br><i>Carex pilulifera  !</i><br><i>Carex flava</i><br><i>Panicum crusgalli</i><br><i>Calamagrostis lanceolata</i><br><i>Corynephorus canescens</i><br><i>Triodia decumbens</i><br><i>Molinia coerulea</i><br><i>Nardus stricta</i><br><i>Polystichum Filix mas</i><br><i>Blechnum Spicant</i>"
       }
     },
     {
@@ -2460,23 +2470,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.0358153783599215,
-          51.314794301795594
-        ]
-      },
-      "properties": {
-        "location": "S 3. 21. 11 ?",
-        "taxa": [
-          "Ceratophyllum submersum"
-        ],
-        "label": "<b>S 3. 21. 11 ?</b><br><i>Ceratophyllum submersum</i>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           3.840238638338466,
           51.26553049154995
         ]
@@ -2769,31 +2762,6 @@
           "Salix alba"
         ],
         "label": "<b>S 3. 21. 14</b><br><i>Campanula rapunculoides</i><br><i>Polygonum amphibium terrestre</i><br><i>Salix alba</i>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.109090878918632,
-          51.259438270134275
-        ]
-      },
-      "properties": {
-        "location": "S 3. 32. 31 !",
-        "taxa": [
-          "Ilex aquifolium",
-          "Veronica scutellata",
-          "Littorella lacustris",
-          "Castanea sativa",
-          "Salix repens",
-          "Juncus supinus",
-          "Eriophorum polystachyum",
-          "Carex echinata",
-          "Carex pilulifera"
-        ],
-        "label": "<b>S 3. 32. 31 !</b><br><i>Ilex aquifolium</i><br><i>Veronica scutellata</i><br><i>Littorella lacustris</i><br><i>Castanea sativa</i><br><i>Salix repens</i><br><i>Juncus supinus</i><br><i>Eriophorum polystachyum</i><br><i>Carex echinata</i><br><i>Carex pilulifera</i>"
       }
     },
     {

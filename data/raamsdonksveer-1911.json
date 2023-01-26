@@ -389,13 +389,16 @@
           "Campanula rotundifolia",
           "Carduus nutans: ?",
           "Cerastium glomeratum: ?",
+          "Cineraria palustris  ?",
           "Circaea lutetiana",
+          "Cirsium anglicum  ?",
           "Diplotaxis tenuifolia",
           "Erucastrum Pollichii",
           "Galeopsis Tetrahit",
           "Hippuris vulgaris",
           "Hordeum secalinum",
           "Hottonia palustris",
+          "Juncus conglomeratus  ?",
           "Lathyrus pratensis",
           "Melilotus officinalis",
           "Mentha aquatica",
@@ -419,7 +422,7 @@
           "Vicia Sepium",
           "Vicia villosa: ?"
         ],
-        "label": "<b>Q 4. 24. 34</b><br><i>Agrostemma Githago</i><br><i>Butomus umbellatus</i><br><i>Callitriche verna</i><br><i>Campanula rotundifolia</i><br><i>Carduus nutans</i>: ?<br><i>Cerastium glomeratum</i>: ?<br><i>Circaea lutetiana</i><br><i>Diplotaxis tenuifolia</i><br><i>Erucastrum Pollichii</i><br><i>Galeopsis Tetrahit</i><br><i>Hippuris vulgaris</i><br><i>Hordeum secalinum</i><br><i>Hottonia palustris</i><br><i>Lathyrus pratensis</i><br><i>Melilotus officinalis</i><br><i>Mentha aquatica</i><br><i>Nasturtium amphibium</i><br><i>Papaver Rhoeas</i><br><i>Petasites officinalis</i><br><i>Potamogeton densus</i><br><i>Potentilla reptans</i><br><i>Ranunculus Philonotis</i><br><i>Ruppia rostellata</i>: ?<br><i>Scrophularia nodosa</i><br><i>Sonchus oleraceus</i><br><i>Tragopogon pratensis</i><br><i>Trifolium fragiferum</i><br><i>Tussilago Farfara</i><br><i>Typha angustifolia</i><br><i>Typha latifolia</i><br><i>Utricularia vulgaris</i><br><i>Veronica Anagalis</i><br><i>Vicia sativa</i>: cultuur?<br><i>Vicia Sepium</i><br><i>Vicia villosa</i>: ?"
+        "label": "<b>Q 4. 24. 34</b><br><i>Agrostemma Githago</i><br><i>Butomus umbellatus</i><br><i>Callitriche verna</i><br><i>Campanula rotundifolia</i><br><i>Carduus nutans</i>: ?<br><i>Cerastium glomeratum</i>: ?<br><i>Cineraria palustris  ?</i><br><i>Circaea lutetiana</i><br><i>Cirsium anglicum  ?</i><br><i>Diplotaxis tenuifolia</i><br><i>Erucastrum Pollichii</i><br><i>Galeopsis Tetrahit</i><br><i>Hippuris vulgaris</i><br><i>Hordeum secalinum</i><br><i>Hottonia palustris</i><br><i>Juncus conglomeratus  ?</i><br><i>Lathyrus pratensis</i><br><i>Melilotus officinalis</i><br><i>Mentha aquatica</i><br><i>Nasturtium amphibium</i><br><i>Papaver Rhoeas</i><br><i>Petasites officinalis</i><br><i>Potamogeton densus</i><br><i>Potentilla reptans</i><br><i>Ranunculus Philonotis</i><br><i>Ruppia rostellata</i>: ?<br><i>Scrophularia nodosa</i><br><i>Sonchus oleraceus</i><br><i>Tragopogon pratensis</i><br><i>Trifolium fragiferum</i><br><i>Tussilago Farfara</i><br><i>Typha angustifolia</i><br><i>Typha latifolia</i><br><i>Utricularia vulgaris</i><br><i>Veronica Anagalis</i><br><i>Vicia sativa</i>: cultuur?<br><i>Vicia Sepium</i><br><i>Vicia villosa</i>: ?"
       }
     },
     {
@@ -1340,6 +1343,7 @@
         "taxa": [
           "Callitriche verna",
           "Chrysanthemum Leucanthemum",
+          "Cineraria palustris  ?",
           "Galium Aparine",
           "Hypericum tetrapterum",
           "Lathyrus pratensis",
@@ -1353,7 +1357,7 @@
           "Typha angustifolia",
           "Veronica Anagalis"
         ],
-        "label": "<b>Q 4. 34. 23</b><br><i>Callitriche verna</i><br><i>Chrysanthemum Leucanthemum</i><br><i>Galium Aparine</i><br><i>Hypericum tetrapterum</i><br><i>Lathyrus pratensis</i><br><i>Melilotus officinalis</i><br><i>Ranunculus sceleratus</i><br><i>Rumex crispus</i><br><i>Senecio erucifolius</i><br><i>Sonchus oleraceus</i><br><i>Tragopogon minor</i><br><i>Trifolium minus</i><br><i>Typha angustifolia</i><br><i>Veronica Anagalis</i>"
+        "label": "<b>Q 4. 34. 23</b><br><i>Callitriche verna</i><br><i>Chrysanthemum Leucanthemum</i><br><i>Cineraria palustris  ?</i><br><i>Galium Aparine</i><br><i>Hypericum tetrapterum</i><br><i>Lathyrus pratensis</i><br><i>Melilotus officinalis</i><br><i>Ranunculus sceleratus</i><br><i>Rumex crispus</i><br><i>Senecio erucifolius</i><br><i>Sonchus oleraceus</i><br><i>Tragopogon minor</i><br><i>Trifolium minus</i><br><i>Typha angustifolia</i><br><i>Veronica Anagalis</i>"
       }
     },
     {
@@ -1389,12 +1393,13 @@
         "taxa": [
           "Caltha palustris",
           "Hypericum tetrapterum",
+          "Juncus obtusiflorus  ?",
           "Leersia oryzoides: aan slootkanten",
           "Poa serotina",
           "Sanguisorba officinalis: in lage hooilanden, maar ook op droge gronden",
           "Trifolium fragiferum"
         ],
-        "label": "<b>Q 4. 54. 22</b><br><i>Caltha palustris</i><br><i>Hypericum tetrapterum</i><br><i>Leersia oryzoides</i>: aan slootkanten<br><i>Poa serotina</i><br><i>Sanguisorba officinalis</i>: in lage hooilanden, maar ook op droge gronden<br><i>Trifolium fragiferum</i>"
+        "label": "<b>Q 4. 54. 22</b><br><i>Caltha palustris</i><br><i>Hypericum tetrapterum</i><br><i>Juncus obtusiflorus  ?</i><br><i>Leersia oryzoides</i>: aan slootkanten<br><i>Poa serotina</i><br><i>Sanguisorba officinalis</i>: in lage hooilanden, maar ook op droge gronden<br><i>Trifolium fragiferum</i>"
       }
     },
     {
@@ -1466,42 +1471,6 @@
           "Spergula arvensis"
         ],
         "label": "<b>Q 4. 54. 23</b><br><i>Centaurea Cyanus</i><br><i>Spergula arvensis</i>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.837491056978136,
-          51.74271142978192
-        ]
-      },
-      "properties": {
-        "location": "Q 4. 24. 34 ?",
-        "taxa": [
-          "Cineraria palustris",
-          "Cirsium anglicum",
-          "Juncus conglomeratus"
-        ],
-        "label": "<b>Q 4. 24. 34 ?</b><br><i>Cineraria palustris</i><br><i>Cirsium anglicum</i><br><i>Juncus conglomeratus</i>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.855810780588046,
-          51.724070155539
-        ]
-      },
-      "properties": {
-        "location": "Q 4. 34. 23 ?",
-        "taxa": [
-          "Cineraria palustris"
-        ],
-        "label": "<b>Q 4. 34. 23 ?</b><br><i>Cineraria palustris</i>"
       }
     },
     {
@@ -1645,23 +1614,6 @@
           "Juncus bufonius"
         ],
         "label": "<b>Q 4. 41. 12</b><br><i>Juncus bufonius</i>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.874649422377078,
-          51.65861239882517
-        ]
-      },
-      "properties": {
-        "location": "Q 4. 54. 22 ?",
-        "taxa": [
-          "Juncus obtusiflorus"
-        ],
-        "label": "<b>Q 4. 54. 22 ?</b><br><i>Juncus obtusiflorus</i>"
       }
     },
     {
