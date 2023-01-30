@@ -1,0 +1,3087 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3698442632001084,
+          51.37069871107098
+        ]
+      },
+      "properties": {
+        "location": "R 1. 67. 24",
+        "taxa": [
+          "Thalictrum minus dunense",
+          "Viola vulgaris",
+          "Halianthus peploïdes: langs het strand",
+          "Erodium Cicutarium",
+          "Salsola Kali: langs de zeekust",
+          "Triticum junceum"
+        ],
+        "label": "<b>R 1. 67. 24</b><br><i>Thalictrum minus dunense</i><br><i>Viola vulgaris</i><br><i>Halianthus peploïdes</i>: langs het strand<br><i>Erodium Cicutarium</i><br><i>Salsola Kali</i>: langs de zeekust<br><i>Triticum junceum</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3702584881876776,
+          51.36134017647191
+        ]
+      },
+      "properties": {
+        "location": "R 1. 67. 42",
+        "taxa": [
+          "Thalictrum minus dunense",
+          "Viola vulgaris",
+          "Polygala vulgaris: flor. coer., flor. alb., flor. ros.",
+          "Sagina nodosa: langs de kuststreek",
+          "Halianthus peploïdes: langs het strand",
+          "Linum catarcticum: z.",
+          "Erodium Cicutarium",
+          "Trifolium arvense",
+          "Hydrocotyle vulgaris",
+          "Oenanthe Lachenalii: z.",
+          "Cirsium palustre: z.",
+          "Lycopsis arvensis: z.",
+          "Rhinanthus minor",
+          "Plantago maritima",
+          "Plantago Coronopus",
+          "Schoberia maritima: schorren en zilte gronden binnendijks",
+          "Salsola Kali: langs de zeekust",
+          "Salicornia herbacea: schorren en zilte gronden binnendijks",
+          "Triglochin maritimum: op schorren en ook op zilte gronden binnendijks",
+          "Triglochin palustre: zilte gronden binnendijks",
+          "Orchis Morio",
+          "Epipactis palustris",
+          "Juncus maritimus: binnenkant der duinen",
+          "Carex muricata",
+          "Carex glauca",
+          "Carex hirta",
+          "Triticum junceum"
+        ],
+        "label": "<b>R 1. 67. 42</b><br><i>Thalictrum minus dunense</i><br><i>Viola vulgaris</i><br><i>Polygala vulgaris</i>: flor. coer., flor. alb., flor. ros.<br><i>Sagina nodosa</i>: langs de kuststreek<br><i>Halianthus peploïdes</i>: langs het strand<br><i>Linum catarcticum</i>: z.<br><i>Erodium Cicutarium</i><br><i>Trifolium arvense</i><br><i>Hydrocotyle vulgaris</i><br><i>Oenanthe Lachenalii</i>: z.<br><i>Cirsium palustre</i>: z.<br><i>Lycopsis arvensis</i>: z.<br><i>Rhinanthus minor</i><br><i>Plantago maritima</i><br><i>Plantago Coronopus</i><br><i>Schoberia maritima</i>: schorren en zilte gronden binnendijks<br><i>Salsola Kali</i>: langs de zeekust<br><i>Salicornia herbacea</i>: schorren en zilte gronden binnendijks<br><i>Triglochin maritimum</i>: op schorren en ook op zilte gronden binnendijks<br><i>Triglochin palustre</i>: zilte gronden binnendijks<br><i>Orchis Morio</i><br><i>Epipactis palustris</i><br><i>Juncus maritimus</i>: binnenkant der duinen<br><i>Carex muricata</i><br><i>Carex glauca</i><br><i>Carex hirta</i><br><i>Triticum junceum</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.387786405779851,
+          51.37100852955401
+        ]
+      },
+      "properties": {
+        "location": "R 1. 68. 13",
+        "taxa": [
+          "Thalictrum minus dunense",
+          "Ranunculus Flammula: z.",
+          "Papaver Argemone: z.",
+          "Viola canina: z.",
+          "Viola vulgaris",
+          "Polygala vulgaris: flor. coer., flor. alb., flor. ros.",
+          "Silene conica: z. in de duinen",
+          "Halianthus peploïdes: langs het strand",
+          "Cerastium semidecandrum",
+          "Linum catarcticum: z.",
+          "Erodium Cicutarium",
+          "Ononis repens maritima",
+          "Anthyllis vulneraria maritima",
+          "Trifolium arvense",
+          "Lotus crassifolius: in de duinen",
+          "Hydrocotyle vulgaris",
+          "Eryngium maritimum",
+          "Oenanthe Lachenalii: z.",
+          "Sambucus nigra",
+          "Bidens tripartita: z.",
+          "Onopordon Acanthium: z.",
+          "Carlina vulgaris: z.",
+          "Crepis diffusa",
+          "Veronica Chamaedrys",
+          "Orobanche Galii: in de duinen",
+          "Rhinanthus minor",
+          "Euphrasia officinalis subspec. nemorosa",
+          "Samolus Valerandi: z.",
+          "Plantago Coronopus",
+          "Salsola Kali: langs de zeekust",
+          "Salix argentea: geen cultuur",
+          "Herminium Monorchis",
+          "Epipactis palustris",
+          "Juncus maritimus: binnenkant der duinen",
+          "Carex glauca",
+          "Carex hirta",
+          "Calamagrostis Epigeios",
+          "Triticum repens"
+        ],
+        "label": "<b>R 1. 68. 13</b><br><i>Thalictrum minus dunense</i><br><i>Ranunculus Flammula</i>: z.<br><i>Papaver Argemone</i>: z.<br><i>Viola canina</i>: z.<br><i>Viola vulgaris</i><br><i>Polygala vulgaris</i>: flor. coer., flor. alb., flor. ros.<br><i>Silene conica</i>: z. in de duinen<br><i>Halianthus peploïdes</i>: langs het strand<br><i>Cerastium semidecandrum</i><br><i>Linum catarcticum</i>: z.<br><i>Erodium Cicutarium</i><br><i>Ononis repens maritima</i><br><i>Anthyllis vulneraria maritima</i><br><i>Trifolium arvense</i><br><i>Lotus crassifolius</i>: in de duinen<br><i>Hydrocotyle vulgaris</i><br><i>Eryngium maritimum</i><br><i>Oenanthe Lachenalii</i>: z.<br><i>Sambucus nigra</i><br><i>Bidens tripartita</i>: z.<br><i>Onopordon Acanthium</i>: z.<br><i>Carlina vulgaris</i>: z.<br><i>Crepis diffusa</i><br><i>Veronica Chamaedrys</i><br><i>Orobanche Galii</i>: in de duinen<br><i>Rhinanthus minor</i><br><i>Euphrasia officinalis subspec. nemorosa</i><br><i>Samolus Valerandi</i>: z.<br><i>Plantago Coronopus</i><br><i>Salsola Kali</i>: langs de zeekust<br><i>Salix argentea</i>: geen cultuur<br><i>Herminium Monorchis</i><br><i>Epipactis palustris</i><br><i>Juncus maritimus</i>: binnenkant der duinen<br><i>Carex glauca</i><br><i>Carex hirta</i><br><i>Calamagrostis Epigeios</i><br><i>Triticum repens</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4057288284678666,
+          51.37131558659163
+        ]
+      },
+      "properties": {
+        "location": "R 1. 68. 14",
+        "taxa": [
+          "Thalictrum minus dunense",
+          "Ranunculus Flammula: z.",
+          "Diplotaxis tenuifolia: z.",
+          "Viola canina: z.",
+          "Viola vulgaris",
+          "Polygala vulgaris: flor. coer., flor. alb., flor. ros.",
+          "Silene conica: z. in de duinen",
+          "Halianthus peploïdes: langs het strand",
+          "Erodium Cicutarium",
+          "Anthyllis vulneraria maritima",
+          "Trifolium major",
+          "Lotus crassifolius: in de duinen",
+          "Vicia angustifolia: v.z.",
+          "Lathyrus tuberosus: z. op bouwl.",
+          "Epilobium tetragonum: z.",
+          "Eryngium campestre: z.",
+          "Eryngium maritimum",
+          "Aethusa Cynapium: (abnormal form, see p. 23)",
+          "Centaurea solstitialis: z.",
+          "Centaurea Calcitrapa: z.",
+          "Crepis diffusa",
+          "Lycopsis arvensis: z.",
+          "Orobanche Galii: in de duinen",
+          "Lamium amplexicaule",
+          "Verbena officinalis: aan dijken",
+          "Rumex Acetosella",
+          "Salix argentea: geen cultuur",
+          "Allium compactum",
+          "Juncus glaucus: met grasgroene, brooze halmen (bastaard met effusus?)",
+          "Heleocharis palustris: z.",
+          "Glyceria spectabilis",
+          "Triticum acutum",
+          "Triticum repens",
+          "Triticum glaucum longe aristatum"
+        ],
+        "label": "<b>R 1. 68. 14</b><br><i>Thalictrum minus dunense</i><br><i>Ranunculus Flammula</i>: z.<br><i>Diplotaxis tenuifolia</i>: z.<br><i>Viola canina</i>: z.<br><i>Viola vulgaris</i><br><i>Polygala vulgaris</i>: flor. coer., flor. alb., flor. ros.<br><i>Silene conica</i>: z. in de duinen<br><i>Halianthus peploïdes</i>: langs het strand<br><i>Erodium Cicutarium</i><br><i>Anthyllis vulneraria maritima</i><br><i>Trifolium major</i><br><i>Lotus crassifolius</i>: in de duinen<br><i>Vicia angustifolia</i>: v.z.<br><i>Lathyrus tuberosus</i>: z. op bouwl.<br><i>Epilobium tetragonum</i>: z.<br><i>Eryngium campestre</i>: z.<br><i>Eryngium maritimum</i><br><i>Aethusa Cynapium</i>: (abnormal form, see p. 23)<br><i>Centaurea solstitialis</i>: z.<br><i>Centaurea Calcitrapa</i>: z.<br><i>Crepis diffusa</i><br><i>Lycopsis arvensis</i>: z.<br><i>Orobanche Galii</i>: in de duinen<br><i>Lamium amplexicaule</i><br><i>Verbena officinalis</i>: aan dijken<br><i>Rumex Acetosella</i><br><i>Salix argentea</i>: geen cultuur<br><i>Allium compactum</i><br><i>Juncus glaucus</i>: met grasgroene, brooze halmen (bastaard met effusus?)<br><i>Heleocharis palustris</i>: z.<br><i>Glyceria spectabilis</i><br><i>Triticum acutum</i><br><i>Triticum repens</i><br><i>Triticum glaucum longe aristatum</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4412147822322603,
+          51.38128027186956
+        ]
+      },
+      "properties": {
+        "location": "R 1. 68. 22",
+        "taxa": [
+          "Thalictrum minus dunense",
+          "Viola vulgaris",
+          "Sagina nodosa: langs de kuststreek",
+          "Halianthus peploïdes: langs het strand",
+          "Anthyllis vulneraria maritima",
+          "Eryngium maritimum",
+          "Torilis nodosa",
+          "Erythraea pulchella: z.",
+          "Plantago maritima",
+          "Plantago Coronopus",
+          "Allium capsuliferum",
+          "Juncus maritimus: binnenkant der duinen",
+          "Agrostis prorepens",
+          "Glyceria maritima",
+          "Triticum repens",
+          "Lepturus filiformis"
+        ],
+        "label": "<b>R 1. 68. 22</b><br><i>Thalictrum minus dunense</i><br><i>Viola vulgaris</i><br><i>Sagina nodosa</i>: langs de kuststreek<br><i>Halianthus peploïdes</i>: langs het strand<br><i>Anthyllis vulneraria maritima</i><br><i>Eryngium maritimum</i><br><i>Torilis nodosa</i><br><i>Erythraea pulchella</i>: z.<br><i>Plantago maritima</i><br><i>Plantago Coronopus</i><br><i>Allium capsuliferum</i><br><i>Juncus maritimus</i>: binnenkant der duinen<br><i>Agrostis prorepens</i><br><i>Glyceria maritima</i><br><i>Triticum repens</i><br><i>Lepturus filiformis</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.51223350047503,
+          51.40117742984293
+        ]
+      },
+      "properties": {
+        "location": "R 2. 51. 42",
+        "taxa": [
+          "Thalictrum minus dunense",
+          "Sagina nodosa: langs de kuststreek",
+          "Halianthus peploïdes: langs het strand",
+          "Erodium pimpinellifolium",
+          "Anthyllis vulneraria maritima",
+          "Medicago maculata",
+          "Vicia villosa",
+          "Eryngium maritimum",
+          "Torilis nodosa",
+          "Galium Mollugo: z.",
+          "Verbena officinalis: aan dijken",
+          "Statice Limonium: op de schorren",
+          "Plantago maritima",
+          "Plantago Coronopus",
+          "Triglochin maritimum: op schorren en ook op zilte gronden binnendijks",
+          "Juncus maritimus: binnenkant der duinen",
+          "Lepturus filiformis"
+        ],
+        "label": "<b>R 2. 51. 42</b><br><i>Thalictrum minus dunense</i><br><i>Sagina nodosa</i>: langs de kuststreek<br><i>Halianthus peploïdes</i>: langs het strand<br><i>Erodium pimpinellifolium</i><br><i>Anthyllis vulneraria maritima</i><br><i>Medicago maculata</i><br><i>Vicia villosa</i><br><i>Eryngium maritimum</i><br><i>Torilis nodosa</i><br><i>Galium Mollugo</i>: z.<br><i>Verbena officinalis</i>: aan dijken<br><i>Statice Limonium</i>: op de schorren<br><i>Plantago maritima</i><br><i>Plantago Coronopus</i><br><i>Triglochin maritimum</i>: op schorren en ook op zilte gronden binnendijks<br><i>Juncus maritimus</i>: binnenkant der duinen<br><i>Lepturus filiformis</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4946674808671725,
+          51.39152762864849
+        ]
+      },
+      "properties": {
+        "location": "R 2. 51. 43",
+        "taxa": [
+          "Thalictrum minus dunense",
+          "Ranunculus Flammula: z.",
+          "Cochlearia danica",
+          "Sagina nodosa: langs de kuststreek",
+          "Halianthus peploïdes: langs het strand",
+          "Erodium pimpinellifolium",
+          "Anthyllis vulneraria maritima",
+          "Medicago maculata",
+          "Melilotus arvensis",
+          "Hydrocotyle vulgaris",
+          "Eryngium maritimum",
+          "Oenanthe fistulosa: v.z.",
+          "Torilis nodosa",
+          "Sambucus nigra",
+          "Valeriana officinalis: z",
+          "Senecio sylvaticus: z.",
+          "Cirsium palustre: z.",
+          "Pyrola rotundifolia: z.",
+          "Myosotis caespitosa: z.",
+          "Verbena officinalis: aan dijken",
+          "Lysimachia vulgaris: z.",
+          "Plantago Coronopus",
+          "Salsola Kali: langs de zeekust",
+          "Atriplex littoralis: z.",
+          "Rumex sanguineus: z.",
+          "Rumex palustris: z.",
+          "Rumex maritimus: z.",
+          "Salix repens: in de duinen, geen cultuur",
+          "Potamogeton natans: z.",
+          "Orchis incarnata",
+          "Epipactis palustris",
+          "Allium vineale",
+          "Heleocharis palustris: z.",
+          "Carex vulgaris",
+          "Carex glauca",
+          "Carex flava",
+          "Carex distans",
+          "Calamagrostis Epigeios",
+          "Triticum junceum",
+          "Lepturus filiformis",
+          "Ophioglossum vulgatum: z."
+        ],
+        "label": "<b>R 2. 51. 43</b><br><i>Thalictrum minus dunense</i><br><i>Ranunculus Flammula</i>: z.<br><i>Cochlearia danica</i><br><i>Sagina nodosa</i>: langs de kuststreek<br><i>Halianthus peploïdes</i>: langs het strand<br><i>Erodium pimpinellifolium</i><br><i>Anthyllis vulneraria maritima</i><br><i>Medicago maculata</i><br><i>Melilotus arvensis</i><br><i>Hydrocotyle vulgaris</i><br><i>Eryngium maritimum</i><br><i>Oenanthe fistulosa</i>: v.z.<br><i>Torilis nodosa</i><br><i>Sambucus nigra</i><br><i>Valeriana officinalis</i>: z<br><i>Senecio sylvaticus</i>: z.<br><i>Cirsium palustre</i>: z.<br><i>Pyrola rotundifolia</i>: z.<br><i>Myosotis caespitosa</i>: z.<br><i>Verbena officinalis</i>: aan dijken<br><i>Lysimachia vulgaris</i>: z.<br><i>Plantago Coronopus</i><br><i>Salsola Kali</i>: langs de zeekust<br><i>Atriplex littoralis</i>: z.<br><i>Rumex sanguineus</i>: z.<br><i>Rumex palustris</i>: z.<br><i>Rumex maritimus</i>: z.<br><i>Salix repens</i>: in de duinen, geen cultuur<br><i>Potamogeton natans</i>: z.<br><i>Orchis incarnata</i><br><i>Epipactis palustris</i><br><i>Allium vineale</i><br><i>Heleocharis palustris</i>: z.<br><i>Carex vulgaris</i><br><i>Carex glauca</i><br><i>Carex flava</i><br><i>Carex distans</i><br><i>Calamagrostis Epigeios</i><br><i>Triticum junceum</i><br><i>Lepturus filiformis</i><br><i>Ophioglossum vulgatum</i>: z."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5481444546450187,
+          51.40175057772062
+        ]
+      },
+      "properties": {
+        "location": "R 2. 52. 32",
+        "taxa": [
+          "Thalictrum minus dunense",
+          "Sagina nodosa: langs de kuststreek",
+          "Halianthus peploïdes: langs het strand",
+          "Erodium pimpinellifolium",
+          "Eryngium maritimum",
+          "Galium Mollugo: z.",
+          "Statice Limonium: op de schorren",
+          "Plantago Coronopus",
+          "Triticum junceum"
+        ],
+        "label": "<b>R 2. 52. 32</b><br><i>Thalictrum minus dunense</i><br><i>Sagina nodosa</i>: langs de kuststreek<br><i>Halianthus peploïdes</i>: langs het strand<br><i>Erodium pimpinellifolium</i><br><i>Eryngium maritimum</i><br><i>Galium Mollugo</i>: z.<br><i>Statice Limonium</i>: op de schorren<br><i>Plantago Coronopus</i><br><i>Triticum junceum</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.548522480066701,
+          51.39239126515018
+        ]
+      },
+      "properties": {
+        "location": "R 2. 52. 34",
+        "taxa": [
+          "Thalictrum minus dunense",
+          "Brassica nigra",
+          "Halianthus peploïdes: langs het strand",
+          "Erodium pimpinellifolium",
+          "Trifolium arvense",
+          "Eryngium maritimum",
+          "Galium verum X Mollugo: in de duinen",
+          "Galium Mollugo: z.",
+          "Carlina vulgaris: z.",
+          "Mentha sylvestris: z.",
+          "Plantago Coronopus",
+          "Salsola Kali: langs de zeekust",
+          "Rumex Acetosella",
+          "Zanichellia pedicellata: z.",
+          "Allium vineale",
+          "Carex distans",
+          "Triticum junceum"
+        ],
+        "label": "<b>R 2. 52. 34</b><br><i>Thalictrum minus dunense</i><br><i>Brassica nigra</i><br><i>Halianthus peploïdes</i>: langs het strand<br><i>Erodium pimpinellifolium</i><br><i>Trifolium arvense</i><br><i>Eryngium maritimum</i><br><i>Galium verum X Mollugo</i>: in de duinen<br><i>Galium Mollugo</i>: z.<br><i>Carlina vulgaris</i>: z.<br><i>Mentha sylvestris</i>: z.<br><i>Plantago Coronopus</i><br><i>Salsola Kali</i>: langs de zeekust<br><i>Rumex Acetosella</i><br><i>Zanichellia pedicellata</i>: z.<br><i>Allium vineale</i><br><i>Carex distans</i><br><i>Triticum junceum</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.515695399176451,
+          51.31694476966122
+        ]
+      },
+      "properties": {
+        "location": "S 2. 11. 44",
+        "taxa": [
+          "Ranunculus Flammula: z.",
+          "Oenanthe fistulosa: v.z.",
+          "Crepis diffusa",
+          "Scrophularia Neesii: z.",
+          "Rhinanthus major",
+          "Polygonum terrestre",
+          "Polygonum vulgatum",
+          "Triglochin maritimum: op schorren en ook op zilte gronden binnendijks"
+        ],
+        "label": "<b>S 2. 11. 44</b><br><i>Ranunculus Flammula</i>: z.<br><i>Oenanthe fistulosa</i>: v.z.<br><i>Crepis diffusa</i><br><i>Scrophularia Neesii</i>: z.<br><i>Rhinanthus major</i><br><i>Polygonum terrestre</i><br><i>Polygonum vulgatum</i><br><i>Triglochin maritimum</i>: op schorren en ook op zilte gronden binnendijks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4240747347661364,
+          51.36226110046828
+        ]
+      },
+      "properties": {
+        "location": "R 1. 68. 41",
+        "taxa": [
+          "Ranunculus bulbosus: z.",
+          "Erodium Cicutarium",
+          "Juncus glaucus: met grasgroene, brooze halmen (bastaard met effusus?)",
+          "Phleum arenarium: in de duinen, te Cadzand bij de tramhalte, te Retranchement op den dijk van het uitwateringskanaal",
+          "Festuca elatior"
+        ],
+        "label": "<b>R 1. 68. 41</b><br><i>Ranunculus bulbosus</i>: z.<br><i>Erodium Cicutarium</i><br><i>Juncus glaucus</i>: met grasgroene, brooze halmen (bastaard met effusus?)<br><i>Phleum arenarium</i>: in de duinen, te Cadzand bij de tramhalte, te Retranchement op den dijk van het uitwateringskanaal<br><i>Festuca elatior</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4428125346353595,
+          51.34384480923679
+        ]
+      },
+      "properties": {
+        "location": "S 1. 18. 22",
+        "taxa": [
+          "Ranunculus bulbosus: z.",
+          "Raphanus Raphanistrum: z.",
+          "Ceratophyllum submersum: z.",
+          "Conium maculatum: z.",
+          "Allium vineale"
+        ],
+        "label": "<b>S 1. 18. 22</b><br><i>Ranunculus bulbosus</i>: z.<br><i>Raphanus Raphanistrum</i>: z.<br><i>Ceratophyllum submersum</i>: z.<br><i>Conium maculatum</i>: z.<br><i>Allium vineale</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.42447774985743,
+          51.352902312345606
+        ]
+      },
+      "properties": {
+        "location": "R 1. 68. 43",
+        "taxa": [
+          "Ranunculus arvensis",
+          "Epilobium tetragonum: z.",
+          "Callitriche verna: L. z.",
+          "Centaurea Jacea decipiens",
+          "Veronica arvensis: z.",
+          "Samolus Valerandi: z.",
+          "Polygonum nodosum",
+          "Zanichellia pedicellata: z.",
+          "Allium vineale",
+          "Bromus secalinus"
+        ],
+        "label": "<b>R 1. 68. 43</b><br><i>Ranunculus arvensis</i><br><i>Epilobium tetragonum</i>: z.<br><i>Callitriche verna</i>: L. z.<br><i>Centaurea Jacea decipiens</i><br><i>Veronica arvensis</i>: z.<br><i>Samolus Valerandi</i>: z.<br><i>Polygonum nodosum</i><br><i>Zanichellia pedicellata</i>: z.<br><i>Allium vineale</i><br><i>Bromus secalinus</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4093838171279467,
+          51.28708706177146
+        ]
+      },
+      "properties": {
+        "location": "S 1. 28. 32",
+        "taxa": [
+          "Ranunculus arvensis",
+          "Sinapis orientalis",
+          "Epilobium tetragonum: z.",
+          "Sium latifolium: z.",
+          "Tragopogon porrifolius: één ex. op bouwl.",
+          "Sparganium ramosum: z.",
+          "Glyceria spectabilis"
+        ],
+        "label": "<b>S 1. 28. 32</b><br><i>Ranunculus arvensis</i><br><i>Sinapis orientalis</i><br><i>Epilobium tetragonum</i>: z.<br><i>Sium latifolium</i>: z.<br><i>Tragopogon porrifolius</i>: één ex. op bouwl.<br><i>Sparganium ramosum</i>: z.<br><i>Glyceria spectabilis</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5873861174036143,
+          51.318077270745356
+        ]
+      },
+      "properties": {
+        "location": "S 2. 12. 44",
+        "taxa": [
+          "Ranunculus arvensis",
+          "Viola odorata: z.",
+          "Galium tricorne: z.",
+          "Petasites officinalis: z.",
+          "Juncus effusus: v.z.",
+          "Juncus glaucus: met grasgroene, brooze halmen (bastaard met effusus?)"
+        ],
+        "label": "<b>S 2. 12. 44</b><br><i>Ranunculus arvensis</i><br><i>Viola odorata</i>: z.<br><i>Galium tricorne</i>: z.<br><i>Petasites officinalis</i>: z.<br><i>Juncus effusus</i>: v.z.<br><i>Juncus glaucus</i>: met grasgroene, brooze halmen (bastaard met effusus?)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.62250896265822,
+          51.33734628809892
+        ]
+      },
+      "properties": {
+        "location": "S 2. 13. 14",
+        "taxa": [
+          "Ranunculus arvensis",
+          "Centaurea Cyanus: voornamelijk bij St Kruis, Aardenburg en Heille, overigens zeldz.",
+          "Fraxinus excelsior: geen cult."
+        ],
+        "label": "<b>S 2. 13. 14</b><br><i>Ranunculus arvensis</i><br><i>Centaurea Cyanus</i>: voornamelijk bij St Kruis, Aardenburg en Heille, overigens zeldz.<br><i>Fraxinus excelsior</i>: geen cult."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6049438346529636,
+          51.32771308795246
+        ]
+      },
+      "properties": {
+        "location": "S 2. 13. 31",
+        "taxa": [
+          "Ranunculus arvensis",
+          "Nasturtium sylvestre: z.",
+          "Malachium aquaticum: z.",
+          "Galium tricorne: z.",
+          "Polygonum terrestre",
+          "Ulmus campestris: geen cultuur",
+          "Allium vineale"
+        ],
+        "label": "<b>S 2. 13. 31</b><br><i>Ranunculus arvensis</i><br><i>Nasturtium sylvestre</i>: z.<br><i>Malachium aquaticum</i>: z.<br><i>Galium tricorne</i>: z.<br><i>Polygonum terrestre</i><br><i>Ulmus campestris</i>: geen cultuur<br><i>Allium vineale</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.641156805807154,
+          51.31889768828612
+        ]
+      },
+      "properties": {
+        "location": "S 2. 13. 43",
+        "taxa": [
+          "Ranunculus arvensis",
+          "Viola arvensis",
+          "Galium tricorne: z.",
+          "Galium erectum",
+          "Chrysanthemum inodorum",
+          "Barkhausia taraxacifolia",
+          "Ligustrum vulgare: geen cult.",
+          "Fraxinus excelsior: geen cult.",
+          "Lycopus europaeus: z.",
+          "Polygonum terrestre",
+          "Ulmus campestris: geen cultuur",
+          "Populus canescens: geen cultuur",
+          "Glyceria spectabilis"
+        ],
+        "label": "<b>S 2. 13. 43</b><br><i>Ranunculus arvensis</i><br><i>Viola arvensis</i><br><i>Galium tricorne</i>: z.<br><i>Galium erectum</i><br><i>Chrysanthemum inodorum</i><br><i>Barkhausia taraxacifolia</i><br><i>Ligustrum vulgare</i>: geen cult.<br><i>Fraxinus excelsior</i>: geen cult.<br><i>Lycopus europaeus</i>: z.<br><i>Polygonum terrestre</i><br><i>Ulmus campestris</i>: geen cultuur<br><i>Populus canescens</i>: geen cultuur<br><i>Glyceria spectabilis</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4821952658178827,
+          51.26020753965469
+        ]
+      },
+      "properties": {
+        "location": "S 2. 31. 14",
+        "taxa": [
+          "Papaver Argemone: z.",
+          "Fumaria officinalis",
+          "Erysimum Cheiranthoïdes: z.",
+          "Raphanus Raphanistrum: z.",
+          "Lychnis vespertina: z. in enkele exempl.",
+          "Geranium pusillum: z.",
+          "Erodium pimpinellifolium",
+          "Oxalis stricta: z.",
+          "Sarothamnus vulgaris",
+          "Lotus uliginosus",
+          "Robinia Pseud-acacia",
+          "Ervum hirsutum: z.",
+          "Rosa tomentosa: z.",
+          "Callitriche verna: L. z.",
+          "Hydrocotyle vulgaris",
+          "Helosciadium nodiflorum: z.",
+          "Sium latifolium: z.",
+          "Oenanthe fistulosa: v.z.",
+          "Erigeron acris: z. aan dijken",
+          "Gnaphalium uliginosum: z.",
+          "Senecio sylvaticus: z.",
+          "Cirsium palustre: z.",
+          "Hieracium Pilosella",
+          "Lithospermum arvense: z.",
+          "Galeopsis Tetrahit",
+          "Galeopsis bifida: z.",
+          "Stachys sylvatica: z.",
+          "Stachys arvensis: z.",
+          "Verbena officinalis: aan dijken",
+          "Rumex Acetosella",
+          "Polygonum amphibium: z.",
+          "Quercus pedunculata: geen cultuur",
+          "Typha angustifolia: z.",
+          "Sparganium ramosum: z.",
+          "Juncus effusus: v.z.",
+          "Anthoxanthum odoratum"
+        ],
+        "label": "<b>S 2. 31. 14</b><br><i>Papaver Argemone</i>: z.<br><i>Fumaria officinalis</i><br><i>Erysimum Cheiranthoïdes</i>: z.<br><i>Raphanus Raphanistrum</i>: z.<br><i>Lychnis vespertina</i>: z. in enkele exempl.<br><i>Geranium pusillum</i>: z.<br><i>Erodium pimpinellifolium</i><br><i>Oxalis stricta</i>: z.<br><i>Sarothamnus vulgaris</i><br><i>Lotus uliginosus</i><br><i>Robinia Pseud-acacia</i><br><i>Ervum hirsutum</i>: z.<br><i>Rosa tomentosa</i>: z.<br><i>Callitriche verna</i>: L. z.<br><i>Hydrocotyle vulgaris</i><br><i>Helosciadium nodiflorum</i>: z.<br><i>Sium latifolium</i>: z.<br><i>Oenanthe fistulosa</i>: v.z.<br><i>Erigeron acris</i>: z. aan dijken<br><i>Gnaphalium uliginosum</i>: z.<br><i>Senecio sylvaticus</i>: z.<br><i>Cirsium palustre</i>: z.<br><i>Hieracium Pilosella</i><br><i>Lithospermum arvense</i>: z.<br><i>Galeopsis Tetrahit</i><br><i>Galeopsis bifida</i>: z.<br><i>Stachys sylvatica</i>: z.<br><i>Stachys arvensis</i>: z.<br><i>Verbena officinalis</i>: aan dijken<br><i>Rumex Acetosella</i><br><i>Polygonum amphibium</i>: z.<br><i>Quercus pedunculata</i>: geen cultuur<br><i>Typha angustifolia</i>: z.<br><i>Sparganium ramosum</i>: z.<br><i>Juncus effusus</i>: v.z.<br><i>Anthoxanthum odoratum</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.482585231193837,
+          51.25084844910597
+        ]
+      },
+      "properties": {
+        "location": "S 2. 31. 32",
+        "taxa": [
+          "Papaver Argemone: z.",
+          "Lotus uliginosus",
+          "Vicia angustifolia: v.z.",
+          "Potentilla procumbens: z.",
+          "Rhinanthus major",
+          "Euphrasia officinalis subspec. nemorosa",
+          "Iris Pseudacorus: z.",
+          "Carex glauca"
+        ],
+        "label": "<b>S 2. 31. 32</b><br><i>Papaver Argemone</i>: z.<br><i>Lotus uliginosus</i><br><i>Vicia angustifolia</i>: v.z.<br><i>Potentilla procumbens</i>: z.<br><i>Rhinanthus major</i><br><i>Euphrasia officinalis subspec. nemorosa</i><br><i>Iris Pseudacorus</i>: z.<br><i>Carex glauca</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5496554820556714,
+          51.364313288059165
+        ]
+      },
+      "properties": {
+        "location": "R 2. 62. 32",
+        "taxa": [
+          "Papaver globosum",
+          "Oenanthe fistulosa: v.z."
+        ],
+        "label": "<b>R 2. 62. 32</b><br><i>Papaver globosum</i><br><i>Oenanthe fistulosa</i>: v.z."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.67700515577992,
+          51.31943084245004
+        ]
+      },
+      "properties": {
+        "location": "S 2. 14. 33",
+        "taxa": [
+          "Papaver globosum",
+          "Prunus inermis",
+          "Rosa tomentosa: z.",
+          "Anthemis Cotula",
+          "Fraxinus excelsior: geen cult.",
+          "Lamium decipiens",
+          "Lysimachia fol. ternis",
+          "Lysimachia fol. quaternis",
+          "Ulmus suberosa: geen cultuur",
+          "Agrostis pan. colorata",
+          "Briza media: z.",
+          "Glyceria spectabilis",
+          "Glyceria distans"
+        ],
+        "label": "<b>S 2. 14. 33</b><br><i>Papaver globosum</i><br><i>Prunus inermis</i><br><i>Rosa tomentosa</i>: z.<br><i>Anthemis Cotula</i><br><i>Fraxinus excelsior</i>: geen cult.<br><i>Lamium decipiens</i><br><i>Lysimachia fol. ternis</i><br><i>Lysimachia fol. quaternis</i><br><i>Ulmus suberosa</i>: geen cultuur<br><i>Agrostis pan. colorata</i><br><i>Briza media</i>: z.<br><i>Glyceria spectabilis</i><br><i>Glyceria distans</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4989350460786914,
+          51.28857732247234
+        ]
+      },
+      "properties": {
+        "location": "S 2. 21. 41",
+        "taxa": [
+          "Papaver globosum",
+          "Viola arvensis",
+          "Lychnis vespertina: z. in enkele exempl.",
+          "Avena fatua"
+        ],
+        "label": "<b>S 2. 21. 41</b><br><i>Papaver globosum</i><br><i>Viola arvensis</i><br><i>Lychnis vespertina</i>: z. in enkele exempl.<br><i>Avena fatua</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.657661463347531,
+          51.356604827882705
+        ]
+      },
+      "properties": {
+        "location": "R 2. 63. 44",
+        "taxa": [
+          "Papaver ovale",
+          "Lamium decipiens",
+          "Polygonum vulgatum"
+        ],
+        "label": "<b>R 2. 63. 44</b><br><i>Papaver ovale</i><br><i>Lamium decipiens</i><br><i>Polygonum vulgatum</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.533997774556113,
+          51.307872739920874
+        ]
+      },
+      "properties": {
+        "location": "S 2. 22. 11",
+        "taxa": [
+          "Papaver ovale",
+          "Lythrum Salicaria: z.",
+          "Galeopsis Tetrahit"
+        ],
+        "label": "<b>S 2. 22. 11</b><br><i>Papaver ovale</i><br><i>Lythrum Salicaria</i>: z.<br><i>Galeopsis Tetrahit</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7121671079945906,
+          51.33867298856533
+        ]
+      },
+      "properties": {
+        "location": "S 2. 14. 23",
+        "taxa": [
+          "Papaver strigosum",
+          "Vicia angustifolia: v.z.",
+          "Sherardia arvensis: z.",
+          "Chenopodium ficifolium: z.",
+          "Polygonum vulgatum",
+          "Polygonum nodosum",
+          "Agrostis pan. colorata"
+        ],
+        "label": "<b>S 2. 14. 23</b><br><i>Papaver strigosum</i><br><i>Vicia angustifolia</i>: v.z.<br><i>Sherardia arvensis</i>: z.<br><i>Chenopodium ficifolium</i>: z.<br><i>Polygonum vulgatum</i><br><i>Polygonum nodosum</i><br><i>Agrostis pan. colorata</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.623232995637725,
+          51.31862697386576
+        ]
+      },
+      "properties": {
+        "location": "S 2. 13. 34",
+        "taxa": [
+          "Papaver strigosum",
+          "Ceratophyllum submersum: z.",
+          "Sherardia arvensis: z.",
+          "Galium tricorne: z.",
+          "Anthemis Cotula",
+          "Myosotis hispida flor. ros.",
+          "Lamium incisum",
+          "Verbena officinalis: aan dijken",
+          "Glyceria distans"
+        ],
+        "label": "<b>S 2. 13. 34</b><br><i>Papaver strigosum</i><br><i>Ceratophyllum submersum</i>: z.<br><i>Sherardia arvensis</i>: z.<br><i>Galium tricorne</i>: z.<br><i>Anthemis Cotula</i><br><i>Myosotis hispida flor. ros.</i><br><i>Lamium incisum</i><br><i>Verbena officinalis</i>: aan dijken<br><i>Glyceria distans</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5877552064377416,
+          51.308717752584954
+        ]
+      },
+      "properties": {
+        "location": "S 2. 22. 22",
+        "taxa": [
+          "Papaver strigosum",
+          "Viola arvensis",
+          "Erodium pimpinellifolium",
+          "Bryonia dioica: z.",
+          "Erigeron acris: z. aan dijken",
+          "Anthemis Cotula",
+          "Fraxinus excelsior: geen cult.",
+          "Lycopus europaeus: z.",
+          "Galeopsis Tetrahit",
+          "Polygonum terrestre",
+          "Polygonum vulgatum",
+          "Ulmus campestris: geen cultuur",
+          "Populus canescens: geen cultuur",
+          "Populus canadensis: geen cultuur",
+          "Agrostis pan. colorata"
+        ],
+        "label": "<b>S 2. 22. 22</b><br><i>Papaver strigosum</i><br><i>Viola arvensis</i><br><i>Erodium pimpinellifolium</i><br><i>Bryonia dioica</i>: z.<br><i>Erigeron acris</i>: z. aan dijken<br><i>Anthemis Cotula</i><br><i>Fraxinus excelsior</i>: geen cult.<br><i>Lycopus europaeus</i>: z.<br><i>Galeopsis Tetrahit</i><br><i>Polygonum terrestre</i><br><i>Polygonum vulgatum</i><br><i>Ulmus campestris</i>: geen cultuur<br><i>Populus canescens</i>: geen cultuur<br><i>Populus canadensis</i>: geen cultuur<br><i>Agrostis pan. colorata</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.534377676653498,
+          51.29851344270512
+        ]
+      },
+      "properties": {
+        "location": "S 2. 22. 13",
+        "taxa": [
+          "Papaver strigosum",
+          "Prunus Padus: in blad  ?",
+          "Epilobium tetragonum: z.",
+          "Avena fatua"
+        ],
+        "label": "<b>S 2. 22. 13</b><br><i>Papaver strigosum</i><br><i>Prunus Padus</i>: in blad  ?<br><i>Epilobium tetragonum</i>: z.<br><i>Avena fatua</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4110032697248815,
+          51.24965201261698
+        ]
+      },
+      "properties": {
+        "location": "S 1. 38. 32",
+        "taxa": [
+          "Papaver dubium: z.",
+          "Agrostemma Githago: z. op bouwl.",
+          "Sarothamnus vulgaris",
+          "Lotus uliginosus",
+          "Ervum hirsutum: z.",
+          "Callitriche verna: L. z.",
+          "Galium elongatum",
+          "Gnaphalium uliginosum: z.",
+          "Veronica arvensis: z.",
+          "Veronica hederaefolia",
+          "Galeopsis Tetrahit",
+          "Juncus effusus: v.z."
+        ],
+        "label": "<b>S 1. 38. 32</b><br><i>Papaver dubium</i>: z.<br><i>Agrostemma Githago</i>: z. op bouwl.<br><i>Sarothamnus vulgaris</i><br><i>Lotus uliginosus</i><br><i>Ervum hirsutum</i>: z.<br><i>Callitriche verna</i>: L. z.<br><i>Galium elongatum</i><br><i>Gnaphalium uliginosum</i>: z.<br><i>Veronica arvensis</i>: z.<br><i>Veronica hederaefolia</i><br><i>Galeopsis Tetrahit</i><br><i>Juncus effusus</i>: v.z."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.479460341001139,
+          51.325721025770456
+        ]
+      },
+      "properties": {
+        "location": "S 2. 11. 32",
+        "taxa": [
+          "Fumaria officinalis",
+          "Brassica nigra",
+          "Viola vulgaris",
+          "Lychnis vespertina: z. in enkele exempl.",
+          "Medicago maculata",
+          "Trifolium .....: langs de trambaan van Oostburg naar Zuidzande",
+          "Lathyrus tuberosus: z. op bouwl.",
+          "Cichorium Intibus",
+          "Crepis diffusa",
+          "Veronica Chamaedrys",
+          "Galeopsis Tetrahit",
+          "Polygonum amphibium: z.",
+          "Mercurialis annua: z.",
+          "Sparganium ramosum: z.",
+          "Juncus conglomeratus: z.",
+          "Carex muricata",
+          "Avena caryophyllea: z.",
+          "Festuca bromoïdes"
+        ],
+        "label": "<b>S 2. 11. 32</b><br><i>Fumaria officinalis</i><br><i>Brassica nigra</i><br><i>Viola vulgaris</i><br><i>Lychnis vespertina</i>: z. in enkele exempl.<br><i>Medicago maculata</i><br><i>Trifolium .....</i>: langs de trambaan van Oostburg naar Zuidzande<br><i>Lathyrus tuberosus</i>: z. op bouwl.<br><i>Cichorium Intibus</i><br><i>Crepis diffusa</i><br><i>Veronica Chamaedrys</i><br><i>Galeopsis Tetrahit</i><br><i>Polygonum amphibium</i>: z.<br><i>Mercurialis annua</i>: z.<br><i>Sparganium ramosum</i>: z.<br><i>Juncus conglomeratus</i>: z.<br><i>Carex muricata</i><br><i>Avena caryophyllea</i>: z.<br><i>Festuca bromoïdes</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4635079235649746,
+          51.27863048756986
+        ]
+      },
+      "properties": {
+        "location": "S 2. 21. 33",
+        "taxa": [
+          "Fumaria officinalis",
+          "Medicago maculata",
+          "Lathyrus tuberosus: z. op bouwl.",
+          "Callitriche verna: L. z.",
+          "Veronica arvensis: z.",
+          "Polygonum nodosum"
+        ],
+        "label": "<b>S 2. 21. 33</b><br><i>Fumaria officinalis</i><br><i>Medicago maculata</i><br><i>Lathyrus tuberosus</i>: z. op bouwl.<br><i>Callitriche verna</i>: L. z.<br><i>Veronica arvensis</i>: z.<br><i>Polygonum nodosum</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.409788967310281,
+          51.277728307468024
+        ]
+      },
+      "properties": {
+        "location": "S 1. 28. 34",
+        "taxa": [
+          "Nasturtium amphibium",
+          "Viola arvensis",
+          "Hippuris vulgaris: z.",
+          "Pimpinella magna: z.",
+          "Sium latifolium: z.",
+          "Oenanthe fistulosa: v.z.",
+          "Hedera Helix",
+          "Valeriana officinalis: z",
+          "Myosotis vulgaris",
+          "Myosotis intermedia: z.",
+          "Veronica arvensis: z.",
+          "Veronica hederaefolia",
+          "Stachys sylvatica: z.",
+          "Rumex palustris: z.",
+          "Hydrocharis Morsus ranae: z.",
+          "Heleocharis palustris: z.",
+          "Glyceria spectabilis"
+        ],
+        "label": "<b>S 1. 28. 34</b><br><i>Nasturtium amphibium</i><br><i>Viola arvensis</i><br><i>Hippuris vulgaris</i>: z.<br><i>Pimpinella magna</i>: z.<br><i>Sium latifolium</i>: z.<br><i>Oenanthe fistulosa</i>: v.z.<br><i>Hedera Helix</i><br><i>Valeriana officinalis</i>: z<br><i>Myosotis vulgaris</i><br><i>Myosotis intermedia</i>: z.<br><i>Veronica arvensis</i>: z.<br><i>Veronica hederaefolia</i><br><i>Stachys sylvatica</i>: z.<br><i>Rumex palustris</i>: z.<br><i>Hydrocharis Morsus ranae</i>: z.<br><i>Heleocharis palustris</i>: z.<br><i>Glyceria spectabilis</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5133891067729097,
+          51.37309993346493
+        ]
+      },
+      "properties": {
+        "location": "R 2. 61. 24",
+        "taxa": [
+          "Nasturtium sylvestre: z.",
+          "Plantago media: z.",
+          "Polygonum amphibium: z.",
+          "Poa compressa",
+          "Asplenium Ruta muraria: z."
+        ],
+        "label": "<b>R 2. 61. 24</b><br><i>Nasturtium sylvestre</i>: z.<br><i>Plantago media</i>: z.<br><i>Polygonum amphibium</i>: z.<br><i>Poa compressa</i><br><i>Asplenium Ruta muraria</i>: z."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.550409922733105,
+          51.34559460509585
+        ]
+      },
+      "properties": {
+        "location": "S 2. 12. 12",
+        "taxa": [
+          "Nasturtium sylvestre: z.",
+          "Melilotus arvensis",
+          "Epilobium montanum: z.",
+          "Epilobium tetragonum: z.",
+          "Centaurea Cyanus: voornamelijk bij St Kruis, Aardenburg en Heille, overigens zeldz.",
+          "Equisetum polystachyum"
+        ],
+        "label": "<b>S 2. 12. 12</b><br><i>Nasturtium sylvestre</i>: z.<br><i>Melilotus arvensis</i><br><i>Epilobium montanum</i>: z.<br><i>Epilobium tetragonum</i>: z.<br><i>Centaurea Cyanus</i>: voornamelijk bij St Kruis, Aardenburg en Heille, overigens zeldz.<br><i>Equisetum polystachyum</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.568343734989223,
+          51.34587657819633
+        ]
+      },
+      "properties": {
+        "location": "S 2. 12. 21",
+        "taxa": [
+          "Nasturtium sylvestre: z.",
+          "Ligustrum vulgare: geen cult."
+        ],
+        "label": "<b>S 2. 12. 21</b><br><i>Nasturtium sylvestre</i>: z.<br><i>Ligustrum vulgare</i>: geen cult."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.587016853699632,
+          51.327436783318454
+        ]
+      },
+      "properties": {
+        "location": "S 2. 12. 42",
+        "taxa": [
+          "Nasturtium sylvestre: z.",
+          "Viola odorata: z.",
+          "Oenanthe fistulosa: v.z."
+        ],
+        "label": "<b>S 2. 12. 42</b><br><i>Nasturtium sylvestre</i>: z.<br><i>Viola odorata</i>: z.<br><i>Oenanthe fistulosa</i>: v.z."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.463113746774492,
+          51.28798948357257
+        ]
+      },
+      "properties": {
+        "location": "S 2. 21. 31",
+        "taxa": [
+          "Nasturtium sylvestre: z.",
+          "Polygonum nodosum",
+          "Iris Pseudacorus: z.",
+          "Agrostis pan. colorata"
+        ],
+        "label": "<b>S 2. 21. 31</b><br><i>Nasturtium sylvestre</i>: z.<br><i>Polygonum nodosum</i><br><i>Iris Pseudacorus</i>: z.<br><i>Agrostis pan. colorata</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5000950785351357,
+          51.26049984651162
+        ]
+      },
+      "properties": {
+        "location": "S 2. 31. 23",
+        "taxa": [
+          "Cardamine pratensis",
+          "Lychnis vespertina: z. in enkele exempl.",
+          "Spergula arvensis",
+          "Sarothamnus vulgaris",
+          "Trifolium arvense",
+          "Lotus uliginosus",
+          "Ornithopus perpusillus: z.",
+          "Scleranthus annuus",
+          "Hydrocotyle vulgaris",
+          "Helosciadium nodiflorum: z.",
+          "Oenanthe fistulosa: v.z.",
+          "Senecio sylvaticus: z.",
+          "Hieracium Pilosella",
+          "Hieracium umbellatum: in de duinen v. en bij St. Kruis",
+          "Jasione montana: z.",
+          "Orobanche Rapum: z.",
+          "Teucrium Scorodonia: z.",
+          "Rumex Acetosella",
+          "Quercus pedunculata: geen cultuur",
+          "Triglochin palustre: zilte gronden binnendijks",
+          "Typha angustifolia: z.",
+          "Juncus effusus: v.z.",
+          "Heleocharis palustris: z.",
+          "Anthoxanthum odoratum",
+          "Avena caryophyllea: z.",
+          "Avena praecox: z.",
+          "Polypodium vulgare: z."
+        ],
+        "label": "<b>S 2. 31. 23</b><br><i>Cardamine pratensis</i><br><i>Lychnis vespertina</i>: z. in enkele exempl.<br><i>Spergula arvensis</i><br><i>Sarothamnus vulgaris</i><br><i>Trifolium arvense</i><br><i>Lotus uliginosus</i><br><i>Ornithopus perpusillus</i>: z.<br><i>Scleranthus annuus</i><br><i>Hydrocotyle vulgaris</i><br><i>Helosciadium nodiflorum</i>: z.<br><i>Oenanthe fistulosa</i>: v.z.<br><i>Senecio sylvaticus</i>: z.<br><i>Hieracium Pilosella</i><br><i>Hieracium umbellatum</i>: in de duinen v. en bij St. Kruis<br><i>Jasione montana</i>: z.<br><i>Orobanche Rapum</i>: z.<br><i>Teucrium Scorodonia</i>: z.<br><i>Rumex Acetosella</i><br><i>Quercus pedunculata</i>: geen cultuur<br><i>Triglochin palustre</i>: zilte gronden binnendijks<br><i>Typha angustifolia</i>: z.<br><i>Juncus effusus</i>: v.z.<br><i>Heleocharis palustris</i>: z.<br><i>Anthoxanthum odoratum</i><br><i>Avena caryophyllea</i>: z.<br><i>Avena praecox</i>: z.<br><i>Polypodium vulgare</i>: z."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.390656193765432,
+          51.30549807230927
+        ]
+      },
+      "properties": {
+        "location": "S 1. 28. 11",
+        "taxa": [
+          "Sisymbrium Alliaria",
+          "Sagina humilis: op oude muren",
+          "Oxalis stricta: z.",
+          "Medicago maculata",
+          "Saxifraga tridactylites: op een ouden muur te Sluis",
+          "Pimpinella magna: z.",
+          "Heracleum Sphondylium: z.",
+          "Sambucus nigra",
+          "Sambucus laciniata",
+          "Linaria minor: z.",
+          "Lamium amplexicaule",
+          "Amaranthus Blitum: in tuinen te Sluis",
+          "Chenopodium murale: in straten te Sluis",
+          "Polygonum mite: z.",
+          "Mercurialis annua: z.",
+          "Allium vineale",
+          "Poa compressa",
+          "Festuca elatior",
+          "Asplenium Ruta muraria: z."
+        ],
+        "label": "<b>S 1. 28. 11</b><br><i>Sisymbrium Alliaria</i><br><i>Sagina humilis</i>: op oude muren<br><i>Oxalis stricta</i>: z.<br><i>Medicago maculata</i><br><i>Saxifraga tridactylites</i>: op een ouden muur te Sluis<br><i>Pimpinella magna</i>: z.<br><i>Heracleum Sphondylium</i>: z.<br><i>Sambucus nigra</i><br><i>Sambucus laciniata</i><br><i>Linaria minor</i>: z.<br><i>Lamium amplexicaule</i><br><i>Amaranthus Blitum</i>: in tuinen te Sluis<br><i>Chenopodium murale</i>: in straten te Sluis<br><i>Polygonum mite</i>: z.<br><i>Mercurialis annua</i>: z.<br><i>Allium vineale</i><br><i>Poa compressa</i><br><i>Festuca elatior</i><br><i>Asplenium Ruta muraria</i>: z."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.497773367130053,
+          51.3166547501146
+        ]
+      },
+      "properties": {
+        "location": "S 2. 11. 43",
+        "taxa": [
+          "Sisymbrium Alliaria",
+          "Melilotus altissimus",
+          "Chrysanthemum inodorum",
+          "Rumex palustris: z.",
+          "Mercurialis annua: z.",
+          "Salix Caprea",
+          "Triglochin maritimum: op schorren en ook op zilte gronden binnendijks",
+          "Allium vineale",
+          "Juncus conglomeratus: z.",
+          "Poa compressa",
+          "Festuca elatior",
+          "Asplenium Ruta muraria: z."
+        ],
+        "label": "<b>S 2. 11. 43</b><br><i>Sisymbrium Alliaria</i><br><i>Melilotus altissimus</i><br><i>Chrysanthemum inodorum</i><br><i>Rumex palustris</i>: z.<br><i>Mercurialis annua</i>: z.<br><i>Salix Caprea</i><br><i>Triglochin maritimum</i>: op schorren en ook op zilte gronden binnendijks<br><i>Allium vineale</i><br><i>Juncus conglomeratus</i>: z.<br><i>Poa compressa</i><br><i>Festuca elatior</i><br><i>Asplenium Ruta muraria</i>: z."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5664746657013793,
+          51.39267361667751
+        ]
+      },
+      "properties": {
+        "location": "R 2. 52. 43",
+        "taxa": [
+          "Brassica nigra",
+          "Armoracia",
+          "Viola vulgaris",
+          "Reseda lutea: z.",
+          "Halianthus peploïdes: langs het strand",
+          "Erodium Cicutarium",
+          "Erodium pimpinellifolium",
+          "Melilotus altissimus",
+          "Melilotus albus",
+          "Eryngium maritimum",
+          "Galium Mollugo: z.",
+          "Artemisia Absinthium: z.",
+          "Chrysanthemum inodorum",
+          "Marrubium vulgare: z.",
+          "Plantago Coronopus",
+          "Salsola Kali: langs de zeekust",
+          "Triticum junceum",
+          "Hordeum maritimum"
+        ],
+        "label": "<b>R 2. 52. 43</b><br><i>Brassica nigra</i><br><i>Armoracia</i><br><i>Viola vulgaris</i><br><i>Reseda lutea</i>: z.<br><i>Halianthus peploïdes</i>: langs het strand<br><i>Erodium Cicutarium</i><br><i>Erodium pimpinellifolium</i><br><i>Melilotus altissimus</i><br><i>Melilotus albus</i><br><i>Eryngium maritimum</i><br><i>Galium Mollugo</i>: z.<br><i>Artemisia Absinthium</i>: z.<br><i>Chrysanthemum inodorum</i><br><i>Marrubium vulgare</i>: z.<br><i>Plantago Coronopus</i><br><i>Salsola Kali</i>: langs de zeekust<br><i>Triticum junceum</i><br><i>Hordeum maritimum</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4611400642602184,
+          51.33478437959465
+        ]
+      },
+      "properties": {
+        "location": "S 2. 11. 13",
+        "taxa": [
+          "Brassica nigra",
+          "Diplotaxis tenuifolia: z.",
+          "Spergula arvensis",
+          "Polygonum nodosum"
+        ],
+        "label": "<b>S 2. 11. 13</b><br><i>Brassica nigra</i><br><i>Diplotaxis tenuifolia</i>: z.<br><i>Spergula arvensis</i><br><i>Polygonum nodosum</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.410193926048463,
+          51.26836954775789
+        ]
+      },
+      "properties": {
+        "location": "S 1. 38. 12",
+        "taxa": [
+          "Sinapis orientalis",
+          "Callitriche verna: L. z.",
+          "Galium elongatum",
+          "Crepis diffusa",
+          "Myosotis intermedia: z.",
+          "Veronica hederaefolia",
+          "Clinopodium vulgare: z.",
+          "Rumex crispus: met bloedroode inflor.",
+          "Polygonum terrestre",
+          "Euphorbia exigua: de vorm met breede involucraal bladen en 2 tot 5 stralige hoofdschermen",
+          "Salix Caprea",
+          "Carex muricata",
+          "Festuca elatior"
+        ],
+        "label": "<b>S 1. 38. 12</b><br><i>Sinapis orientalis</i><br><i>Callitriche verna</i>: L. z.<br><i>Galium elongatum</i><br><i>Crepis diffusa</i><br><i>Myosotis intermedia</i>: z.<br><i>Veronica hederaefolia</i><br><i>Clinopodium vulgare</i>: z.<br><i>Rumex crispus</i>: met bloedroode inflor.<br><i>Polygonum terrestre</i><br><i>Euphorbia exigua</i>: de vorm met breede involucraal bladen en 2 tot 5 stralige hoofdschermen<br><i>Salix Caprea</i><br><i>Carex muricata</i><br><i>Festuca elatior</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4798515990731933,
+          51.31636197302667
+        ]
+      },
+      "properties": {
+        "location": "S 2. 11. 34",
+        "taxa": [
+          "Sinapis orientalis",
+          "Raphanus Raphanistrum: z.",
+          "Sherardia arvensis: z.",
+          "Lamium decipiens",
+          "Rumex palustris: z.",
+          "Polygonum amphibium: z.",
+          "Glyceria spectabilis",
+          "Festuca elatior"
+        ],
+        "label": "<b>S 2. 11. 34</b><br><i>Sinapis orientalis</i><br><i>Raphanus Raphanistrum</i>: z.<br><i>Sherardia arvensis</i>: z.<br><i>Lamium decipiens</i><br><i>Rumex palustris</i>: z.<br><i>Polygonum amphibium</i>: z.<br><i>Glyceria spectabilis</i><br><i>Festuca elatior</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.568717018041426,
+          51.336517152025465
+        ]
+      },
+      "properties": {
+        "location": "S 2. 12. 23",
+        "taxa": [
+          "Sinapis orientalis",
+          "Bidens tripartita: z.",
+          "Galeopsis Tetrahit",
+          "Typha angustifolia: z.",
+          "Agrostis pan. colorata"
+        ],
+        "label": "<b>S 2. 12. 23</b><br><i>Sinapis orientalis</i><br><i>Bidens tripartita</i>: z.<br><i>Galeopsis Tetrahit</i><br><i>Typha angustifolia</i>: z.<br><i>Agrostis pan. colorata</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.64008150452253,
+          51.346976868853204
+        ]
+      },
+      "properties": {
+        "location": "S 2. 13. 21",
+        "taxa": [
+          "Sinapis orientalis",
+          "Silene noctiflora: z. op bouwl.",
+          "Vicia angustifolia: v.z.",
+          "Sherardia arvensis: z.",
+          "Fraxinus excelsior: geen cult.",
+          "Lamium amplexicaule"
+        ],
+        "label": "<b>S 2. 13. 21</b><br><i>Sinapis orientalis</i><br><i>Silene noctiflora</i>: z. op bouwl.<br><i>Vicia angustifolia</i>: v.z.<br><i>Sherardia arvensis</i>: z.<br><i>Fraxinus excelsior</i>: geen cult.<br><i>Lamium amplexicaule</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3894274487676133,
+          51.33357401994501
+        ]
+      },
+      "properties": {
+        "location": "S 1. 18. 13",
+        "taxa": [
+          "Armoracia",
+          "Eryngium campestre: z.",
+          "Lycopsis arvensis: z.",
+          "Lycopus europaeus: z.",
+          "Mercurialis annua: z.",
+          "Carex glauca",
+          "Agrostis vulgaris"
+        ],
+        "label": "<b>S 1. 18. 13</b><br><i>Armoracia</i><br><i>Eryngium campestre</i>: z.<br><i>Lycopsis arvensis</i>: z.<br><i>Lycopus europaeus</i>: z.<br><i>Mercurialis annua</i>: z.<br><i>Carex glauca</i><br><i>Agrostis vulgaris</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5176123144779723,
+          51.27014864161998
+        ]
+      },
+      "properties": {
+        "location": "S 2. 31. 22",
+        "taxa": [
+          "Raphanus Raphanistrum: z.",
+          "Spergula arvensis",
+          "Stellaria graminea: z.",
+          "Sarothamnus vulgaris",
+          "Trifolium arvense",
+          "Lotus uliginosus",
+          "Ornithopus perpusillus: z.",
+          "Vicia angustifolia: v.z.",
+          "Potentilla procumbens: z.",
+          "Potentilla Tormentilla: z.",
+          "Lythrum Salicaria: z.",
+          "Scleranthus annuus",
+          "Lonicera Periclymenum: z.",
+          "Sherardia arvensis: z.",
+          "Bidens tripartita: z.",
+          "Cirsium palustre: z.",
+          "Arnoseris pusilla: z.",
+          "Jasione montana: z.",
+          "Lycopsis arvensis: z.",
+          "Linaria vulgaris: z.",
+          "Lycopus europaeus: z.",
+          "Galeopsis Tetrahit",
+          "Lysimachia vulgaris: z.",
+          "Plantago Coronopus",
+          "Rumex Acetosella",
+          "Polygonum mite: z.",
+          "Anthoxanthum odoratum",
+          "Avena caryophyllea: z.",
+          "Avena praecox: z.",
+          "Polystichum Filix mas: z.",
+          "Asplenium Filix femina: z."
+        ],
+        "label": "<b>S 2. 31. 22</b><br><i>Raphanus Raphanistrum</i>: z.<br><i>Spergula arvensis</i><br><i>Stellaria graminea</i>: z.<br><i>Sarothamnus vulgaris</i><br><i>Trifolium arvense</i><br><i>Lotus uliginosus</i><br><i>Ornithopus perpusillus</i>: z.<br><i>Vicia angustifolia</i>: v.z.<br><i>Potentilla procumbens</i>: z.<br><i>Potentilla Tormentilla</i>: z.<br><i>Lythrum Salicaria</i>: z.<br><i>Scleranthus annuus</i><br><i>Lonicera Periclymenum</i>: z.<br><i>Sherardia arvensis</i>: z.<br><i>Bidens tripartita</i>: z.<br><i>Cirsium palustre</i>: z.<br><i>Arnoseris pusilla</i>: z.<br><i>Jasione montana</i>: z.<br><i>Lycopsis arvensis</i>: z.<br><i>Linaria vulgaris</i>: z.<br><i>Lycopus europaeus</i>: z.<br><i>Galeopsis Tetrahit</i><br><i>Lysimachia vulgaris</i>: z.<br><i>Plantago Coronopus</i><br><i>Rumex Acetosella</i><br><i>Polygonum mite</i>: z.<br><i>Anthoxanthum odoratum</i><br><i>Avena caryophyllea</i>: z.<br><i>Avena praecox</i>: z.<br><i>Polystichum Filix mas</i>: z.<br><i>Asplenium Filix femina</i>: z."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.500481390727199,
+          51.251140677702935
+        ]
+      },
+      "properties": {
+        "location": "S 2. 31. 41",
+        "taxa": [
+          "Raphanus Raphanistrum: z.",
+          "Lotus uliginosus",
+          "Ervum hirsutum: z.",
+          "Rosa rubiginosa: z.",
+          "Oenanthe fistulosa: v.z.",
+          "Galium elongatum",
+          "Valerianella dentata: z.",
+          "Rhinanthus major",
+          "Lamium amplexicaule",
+          "Prunella cor. alba",
+          "Salix viminalis: geen cultuur",
+          "Alnus glutinosa: geen cultuur",
+          "Juncus effusus: v.z.",
+          "Carex muricata",
+          "Carex riparia",
+          "Glyceria distans"
+        ],
+        "label": "<b>S 2. 31. 41</b><br><i>Raphanus Raphanistrum</i>: z.<br><i>Lotus uliginosus</i><br><i>Ervum hirsutum</i>: z.<br><i>Rosa rubiginosa</i>: z.<br><i>Oenanthe fistulosa</i>: v.z.<br><i>Galium elongatum</i><br><i>Valerianella dentata</i>: z.<br><i>Rhinanthus major</i><br><i>Lamium amplexicaule</i><br><i>Prunella cor. alba</i><br><i>Salix viminalis</i>: geen cultuur<br><i>Alnus glutinosa</i>: geen cultuur<br><i>Juncus effusus</i>: v.z.<br><i>Carex muricata</i><br><i>Carex riparia</i><br><i>Glyceria distans</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5183778129670285,
+          51.251430153917525
+        ]
+      },
+      "properties": {
+        "location": "S 2. 31. 42",
+        "taxa": [
+          "Raphanus Raphanistrum: z.",
+          "Spergula arvensis",
+          "Sarothamnus vulgaris",
+          "Lotus uliginosus",
+          "Vicia angustifolia: v.z.",
+          "Ervum hirsutum: z.",
+          "Potentilla procumbens: z.",
+          "Linaria vulgaris: z.",
+          "Rhinanthus major",
+          "Galeopsis Tetrahit",
+          "Lysimachia vulgaris: z.",
+          "Juncus effusus: v.z."
+        ],
+        "label": "<b>S 2. 31. 42</b><br><i>Raphanus Raphanistrum</i>: z.<br><i>Spergula arvensis</i><br><i>Sarothamnus vulgaris</i><br><i>Lotus uliginosus</i><br><i>Vicia angustifolia</i>: v.z.<br><i>Ervum hirsutum</i>: z.<br><i>Potentilla procumbens</i>: z.<br><i>Linaria vulgaris</i>: z.<br><i>Rhinanthus major</i><br><i>Galeopsis Tetrahit</i><br><i>Lysimachia vulgaris</i>: z.<br><i>Juncus effusus</i>: v.z."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.389017479325849,
+          51.342932656944086
+        ]
+      },
+      "properties": {
+        "location": "S 1. 18. 11",
+        "taxa": [
+          "Viola arvensis",
+          "Geranium pusillum: z.",
+          "Erodium Cicutarium",
+          "Trifolium arvense",
+          "Hydrocotyle vulgaris",
+          "Eryngium campestre: z.",
+          "Artemisia Absinthium: z.",
+          "Onopordon Acanthium: z.",
+          "Sonchus laciniatus",
+          "Crepis diffusa",
+          "Lycopsis arvensis: z.",
+          "Myosotis palustris: z.",
+          "Rhinanthus major",
+          "Lamium incisum",
+          "Rumex obtusifolius X crispus",
+          "Rumex Acetosella",
+          "Mercurialis annua: z.",
+          "Setavia viridis: z.",
+          "Phleum nodosum",
+          "Agrostis vulgaris",
+          "Elymus arenarius: in de duinen, te Retranchement op den dijk van het uitwateringskanaal"
+        ],
+        "label": "<b>S 1. 18. 11</b><br><i>Viola arvensis</i><br><i>Geranium pusillum</i>: z.<br><i>Erodium Cicutarium</i><br><i>Trifolium arvense</i><br><i>Hydrocotyle vulgaris</i><br><i>Eryngium campestre</i>: z.<br><i>Artemisia Absinthium</i>: z.<br><i>Onopordon Acanthium</i>: z.<br><i>Sonchus laciniatus</i><br><i>Crepis diffusa</i><br><i>Lycopsis arvensis</i>: z.<br><i>Myosotis palustris</i>: z.<br><i>Rhinanthus major</i><br><i>Lamium incisum</i><br><i>Rumex obtusifolius X crispus</i><br><i>Rumex Acetosella</i><br><i>Mercurialis annua</i>: z.<br><i>Setavia viridis</i>: z.<br><i>Phleum nodosum</i><br><i>Agrostis vulgaris</i><br><i>Elymus arenarius</i>: in de duinen, te Retranchement op den dijk van het uitwateringskanaal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4105986934756523,
+          51.25901078276589
+        ]
+      },
+      "properties": {
+        "location": "S 1. 38. 14",
+        "taxa": [
+          "Viola arvensis",
+          "Lychnis vespertina: z. in enkele exempl.",
+          "Agrostemma Githago: z. op bouwl.",
+          "Spergula arvensis",
+          "Moehringia trinervia: z.",
+          "Lotus uliginosus",
+          "Vicia angustifolia: v.z.",
+          "Ervum hirsutum: z.",
+          "Callitriche verna: L. z.",
+          "Gnaphalium uliginosum: z.",
+          "Senecio sylvaticus: z.",
+          "Scrophularia Balbisii: z.",
+          "Scrophularia auriculata",
+          "Galeopsis Tetrahit",
+          "Galeopsis Tetrahit flor. alb.",
+          "Rumex Acetosella",
+          "Polygonum terrestre",
+          "Polygonum vulgatum",
+          "Polygonum mite: z.",
+          "Juncus effusus: v.z.",
+          "Holcus mollis: z.",
+          "Avena caryophyllea: z."
+        ],
+        "label": "<b>S 1. 38. 14</b><br><i>Viola arvensis</i><br><i>Lychnis vespertina</i>: z. in enkele exempl.<br><i>Agrostemma Githago</i>: z. op bouwl.<br><i>Spergula arvensis</i><br><i>Moehringia trinervia</i>: z.<br><i>Lotus uliginosus</i><br><i>Vicia angustifolia</i>: v.z.<br><i>Ervum hirsutum</i>: z.<br><i>Callitriche verna</i>: L. z.<br><i>Gnaphalium uliginosum</i>: z.<br><i>Senecio sylvaticus</i>: z.<br><i>Scrophularia Balbisii</i>: z.<br><i>Scrophularia auriculata</i><br><i>Galeopsis Tetrahit</i><br><i>Galeopsis Tetrahit flor. alb.</i><br><i>Rumex Acetosella</i><br><i>Polygonum terrestre</i><br><i>Polygonum vulgatum</i><br><i>Polygonum mite</i>: z.<br><i>Juncus effusus</i>: v.z.<br><i>Holcus mollis</i>: z.<br><i>Avena caryophyllea</i>: z."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.481414782081145,
+          51.27892570554842
+        ]
+      },
+      "properties": {
+        "location": "S 2. 21. 34",
+        "taxa": [
+          "Viola arvensis",
+          "Callitriche verna: L. z.",
+          "Polygonum terrestre"
+        ],
+        "label": "<b>S 2. 21. 34</b><br><i>Viola arvensis</i><br><i>Callitriche verna</i>: L. z.<br><i>Polygonum terrestre</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.551916663014485,
+          51.30815716789248
+        ]
+      },
+      "properties": {
+        "location": "S 2. 22. 12",
+        "taxa": [
+          "Viola arvensis",
+          "Epilobium tetragonum: z.",
+          "Callitriche verna: L. z.",
+          "Samolus Valerandi: z.",
+          "Glyceria distans"
+        ],
+        "label": "<b>S 2. 22. 12</b><br><i>Viola arvensis</i><br><i>Epilobium tetragonum</i>: z.<br><i>Callitriche verna</i>: L. z.<br><i>Samolus Valerandi</i>: z.<br><i>Glyceria distans</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7300994502263127,
+          51.338930049005256
+        ]
+      },
+      "properties": {
+        "location": "S 2. 14. 24",
+        "taxa": [
+          "Sagina nodosa: langs de kuststreek",
+          "Vicia angustifolia: v.z.",
+          "Erigeron acris: z. aan dijken",
+          "Erythraea pulchella: z.",
+          "Verbena officinalis: aan dijken",
+          "Statice Limonium: op de schorren",
+          "Plantago maritima",
+          "Schoberia maritima: schorren en zilte gronden binnendijks",
+          "Salicornia herbacea: schorren en zilte gronden binnendijks",
+          "Salix alba: geen cultuur",
+          "Spartina stricta"
+        ],
+        "label": "<b>S 2. 14. 24</b><br><i>Sagina nodosa</i>: langs de kuststreek<br><i>Vicia angustifolia</i>: v.z.<br><i>Erigeron acris</i>: z. aan dijken<br><i>Erythraea pulchella</i>: z.<br><i>Verbena officinalis</i>: aan dijken<br><i>Statice Limonium</i>: op de schorren<br><i>Plantago maritima</i><br><i>Schoberia maritima</i>: schorren en zilte gronden binnendijks<br><i>Salicornia herbacea</i>: schorren en zilte gronden binnendijks<br><i>Salix alba</i>: geen cultuur<br><i>Spartina stricta</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.46390191408755,
+          51.26927148625903
+        ]
+      },
+      "properties": {
+        "location": "S 2. 31. 11",
+        "taxa": [
+          "Spergula arvensis",
+          "Callitriche verna: L. z.",
+          "Bidens tripartita: z.",
+          "Anthemis Cotula",
+          "Carduus crisp.: z."
+        ],
+        "label": "<b>S 2. 31. 11</b><br><i>Spergula arvensis</i><br><i>Callitriche verna</i>: L. z.<br><i>Bidens tripartita</i>: z.<br><i>Anthemis Cotula</i><br><i>Carduus crisp.</i>: z."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.464295718471782,
+          51.25991247976486
+        ]
+      },
+      "properties": {
+        "location": "S 2. 31. 13",
+        "taxa": [
+          "Spergula arvensis",
+          "Cerastium glomeratum",
+          "Erodium Cicutarium",
+          "Lotus uliginosus",
+          "Ervum hirsutum: z.",
+          "Oenanthe fistulosa: v.z.",
+          "Galium palustre: met licht paarse kroon",
+          "Gnaphalium uliginosum: z.",
+          "Carduus crisp.: z.",
+          "Myosotis palustris: z.",
+          "Rhinanthus major",
+          "Lycopus europaeus: z.",
+          "Lamium incisum",
+          "Galeopsis Tetrahit",
+          "Stachys sylvatica: z.",
+          "Stachys arvensis: z.",
+          "Rumex Acetosella",
+          "Butomus umbellatus: z.",
+          "Juncus effusus: v.z.",
+          "Panicum Crus galli: z.",
+          "Anthoxanthum odoratum",
+          "Avena caryophyllea: z.",
+          "Glyceria distans"
+        ],
+        "label": "<b>S 2. 31. 13</b><br><i>Spergula arvensis</i><br><i>Cerastium glomeratum</i><br><i>Erodium Cicutarium</i><br><i>Lotus uliginosus</i><br><i>Ervum hirsutum</i>: z.<br><i>Oenanthe fistulosa</i>: v.z.<br><i>Galium palustre</i>: met licht paarse kroon<br><i>Gnaphalium uliginosum</i>: z.<br><i>Carduus crisp.</i>: z.<br><i>Myosotis palustris</i>: z.<br><i>Rhinanthus major</i><br><i>Lycopus europaeus</i>: z.<br><i>Lamium incisum</i><br><i>Galeopsis Tetrahit</i><br><i>Stachys sylvatica</i>: z.<br><i>Stachys arvensis</i>: z.<br><i>Rumex Acetosella</i><br><i>Butomus umbellatus</i>: z.<br><i>Juncus effusus</i>: v.z.<br><i>Panicum Crus galli</i>: z.<br><i>Anthoxanthum odoratum</i><br><i>Avena caryophyllea</i>: z.<br><i>Glyceria distans</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.370672517055514,
+          51.351981635274456
+        ]
+      },
+      "properties": {
+        "location": "R 1. 67. 44",
+        "taxa": [
+          "Halianthus peploïdes: langs het strand",
+          "Armeria maritima: langs het Zwin",
+          "Statice Limonium: op de schorren",
+          "Plantago maritima",
+          "Plantago Coronopus",
+          "Schoberia maritima: schorren en zilte gronden binnendijks",
+          "Glyceria maritima"
+        ],
+        "label": "<b>R 1. 67. 44</b><br><i>Halianthus peploïdes</i>: langs het strand<br><i>Armeria maritima</i>: langs het Zwin<br><i>Statice Limonium</i>: op de schorren<br><i>Plantago maritima</i><br><i>Plantago Coronopus</i><br><i>Schoberia maritima</i>: schorren en zilte gronden binnendijks<br><i>Glyceria maritima</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3886073157708942,
+          51.35229128762854
+        ]
+      },
+      "properties": {
+        "location": "R 1. 68. 33",
+        "taxa": [
+          "Halianthus peploïdes: langs het strand",
+          "Trifolium arvense",
+          "Eryngium campestre: z.",
+          "Chrysanthemum inodorum",
+          "Crepis diffusa",
+          "Hieracium Pilosella",
+          "Calamintha Acinos: z.",
+          "Carex arenaria: in de duinen a., te Retranchement ook langs den dijk van het uitwateringskanaal"
+        ],
+        "label": "<b>R 1. 68. 33</b><br><i>Halianthus peploïdes</i>: langs het strand<br><i>Trifolium arvense</i><br><i>Eryngium campestre</i>: z.<br><i>Chrysanthemum inodorum</i><br><i>Crepis diffusa</i><br><i>Hieracium Pilosella</i><br><i>Calamintha Acinos</i>: z.<br><i>Carex arenaria</i>: in de duinen a., te Retranchement ook langs den dijk van het uitwateringskanaal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5126188851428113,
+          51.391818271051356
+        ]
+      },
+      "properties": {
+        "location": "R 2. 51. 44",
+        "taxa": [
+          "Halianthus peploïdes: langs het strand",
+          "Medicago maculata",
+          "Eryngium maritimum",
+          "Torilis nodosa",
+          "Juncus maritimus: binnenkant der duinen"
+        ],
+        "label": "<b>R 2. 51. 44</b><br><i>Halianthus peploïdes</i>: langs het strand<br><i>Medicago maculata</i><br><i>Eryngium maritimum</i><br><i>Torilis nodosa</i><br><i>Juncus maritimus</i>: binnenkant der duinen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5301888472425462,
+          51.40146538596486
+        ]
+      },
+      "properties": {
+        "location": "R 2. 52. 31",
+        "taxa": [
+          "Halianthus peploïdes: langs het strand",
+          "Erodium pimpinellifolium",
+          "Anthyllis vulneraria maritima",
+          "Medicago maculata",
+          "Eryngium maritimum",
+          "Torilis nodosa",
+          "Galium Mollugo: z.",
+          "Centaurea Calcitrapa: z.",
+          "Rhinanthus minor",
+          "Marrubium vulgare: z.",
+          "Statice Limonium: op de schorren",
+          "Plantago maritima",
+          "Salsola Kali: langs de zeekust",
+          "Salicornia herbacea: schorren en zilte gronden binnendijks",
+          "Triglochin maritimum: op schorren en ook op zilte gronden binnendijks",
+          "Glyceria distans",
+          "Lepturus filiformis"
+        ],
+        "label": "<b>R 2. 52. 31</b><br><i>Halianthus peploïdes</i>: langs het strand<br><i>Erodium pimpinellifolium</i><br><i>Anthyllis vulneraria maritima</i><br><i>Medicago maculata</i><br><i>Eryngium maritimum</i><br><i>Torilis nodosa</i><br><i>Galium Mollugo</i>: z.<br><i>Centaurea Calcitrapa</i>: z.<br><i>Rhinanthus minor</i><br><i>Marrubium vulgare</i>: z.<br><i>Statice Limonium</i>: op de schorren<br><i>Plantago maritima</i><br><i>Salsola Kali</i>: langs de zeekust<br><i>Salicornia herbacea</i>: schorren en zilte gronden binnendijks<br><i>Triglochin maritimum</i>: op schorren en ook op zilte gronden binnendijks<br><i>Glyceria distans</i><br><i>Lepturus filiformis</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.658726262756741,
+          51.32852544886473
+        ]
+      },
+      "properties": {
+        "location": "S 2. 13. 42",
+        "taxa": [
+          "Linum catarcticum: z.",
+          "Lycopus europaeus: z.",
+          "Lysimachia vulgaris: z.",
+          "Glyceria distans"
+        ],
+        "label": "<b>S 2. 13. 42</b><br><i>Linum catarcticum</i>: z.<br><i>Lycopus europaeus</i>: z.<br><i>Lysimachia vulgaris</i>: z.<br><i>Glyceria distans</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.549277993647121,
+          51.373672620194725
+        ]
+      },
+      "properties": {
+        "location": "R 2. 62. 14",
+        "taxa": [
+          "Geranium pusillum: z."
+        ],
+        "label": "<b>R 2. 62. 14</b><br><i>Geranium pusillum</i>: z."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3910653881054813,
+          51.29613941130088
+        ]
+      },
+      "properties": {
+        "location": "S 1. 28. 13",
+        "taxa": [
+          "Geranium pusillum: z.",
+          "Epilobium tetragonum: z.",
+          "Oenanthe fistulosa: v.z.",
+          "Galium elongatum",
+          "Centaurea Calcitrapa: z.",
+          "Fraxinus excelsior: geen cult.",
+          "Lithospermum arvense: z.",
+          "Rumex palustris: z.",
+          "Rumex maritimus: z.",
+          "Polygonum terrestre",
+          "Mercurialis annua: z.",
+          "Juncus effusus: v.z.",
+          "Glyceria spectabilis",
+          "Asplenium Ruta muraria: z."
+        ],
+        "label": "<b>S 1. 28. 13</b><br><i>Geranium pusillum</i>: z.<br><i>Epilobium tetragonum</i>: z.<br><i>Oenanthe fistulosa</i>: v.z.<br><i>Galium elongatum</i><br><i>Centaurea Calcitrapa</i>: z.<br><i>Fraxinus excelsior</i>: geen cult.<br><i>Lithospermum arvense</i>: z.<br><i>Rumex palustris</i>: z.<br><i>Rumex maritimus</i>: z.<br><i>Polygonum terrestre</i><br><i>Mercurialis annua</i>: z.<br><i>Juncus effusus</i>: v.z.<br><i>Glyceria spectabilis</i><br><i>Asplenium Ruta muraria</i>: z."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6945824275694816,
+          51.32905322785522
+        ]
+      },
+      "properties": {
+        "location": "S 2. 14. 32",
+        "taxa": [
+          "Geranium pusillum: z.",
+          "Torilis nodosa",
+          "Verbena officinalis: aan dijken",
+          "Schoberia maritima: schorren en zilte gronden binnendijks",
+          "Mercurialis annua: z.",
+          "Triglochin maritimum: op schorren en ook op zilte gronden binnendijks",
+          "Glyceria distans",
+          "Glyceria maritima",
+          "Triticum glaucum montruositeit",
+          "Asplenium Ruta muraria: z."
+        ],
+        "label": "<b>S 2. 14. 32</b><br><i>Geranium pusillum</i>: z.<br><i>Torilis nodosa</i><br><i>Verbena officinalis</i>: aan dijken<br><i>Schoberia maritima</i>: schorren en zilte gronden binnendijks<br><i>Mercurialis annua</i>: z.<br><i>Triglochin maritimum</i>: op schorren en ook op zilte gronden binnendijks<br><i>Glyceria distans</i><br><i>Glyceria maritima</i><br><i>Triticum glaucum montruositeit</i><br><i>Asplenium Ruta muraria</i>: z."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4997085837810835,
+          51.269859010325945
+        ]
+      },
+      "properties": {
+        "location": "S 2. 31. 21",
+        "taxa": [
+          "Geranium pusillum: z.",
+          "Erodium pimpinellifolium",
+          "Vicia angustifolia: v.z.",
+          "Datura Stramonium nana",
+          "Polygonum minus: z.",
+          "Mercurialis annua: z.",
+          "Typha angustifolia: z.",
+          "Poa compressa"
+        ],
+        "label": "<b>S 2. 31. 21</b><br><i>Geranium pusillum</i>: z.<br><i>Erodium pimpinellifolium</i><br><i>Vicia angustifolia</i>: v.z.<br><i>Datura Stramonium nana</i><br><i>Polygonum minus</i>: z.<br><i>Mercurialis annua</i>: z.<br><i>Typha angustifolia</i>: z.<br><i>Poa compressa</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4950563605319442,
+          51.382168541116116
+        ]
+      },
+      "properties": {
+        "location": "R 2. 61. 21",
+        "taxa": [
+          "Erodium pimpinellifolium",
+          "Galium Mollugo: z.",
+          "Lithospermum arvense: z.",
+          "Plantago media: z."
+        ],
+        "label": "<b>R 2. 61. 21</b><br><i>Erodium pimpinellifolium</i><br><i>Galium Mollugo</i>: z.<br><i>Lithospermum arvense</i>: z.<br><i>Plantago media</i>: z."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5179951541416385,
+          51.26078940025012
+        ]
+      },
+      "properties": {
+        "location": "S 2. 31. 24",
+        "taxa": [
+          "Sarothamnus vulgaris",
+          "Trifolium incarnatum",
+          "Ornithopus perpusillus: z.",
+          "Linaria vulgaris: z.",
+          "Lamium incisum",
+          "Stachys sylvatica: z.",
+          "Lysimachia vulgaris: z.",
+          "Quercus pedunculata: geen cultuur",
+          "Asplenium Filix femina: z."
+        ],
+        "label": "<b>S 2. 31. 24</b><br><i>Sarothamnus vulgaris</i><br><i>Trifolium incarnatum</i><br><i>Ornithopus perpusillus</i>: z.<br><i>Linaria vulgaris</i>: z.<br><i>Lamium incisum</i><br><i>Stachys sylvatica</i>: z.<br><i>Lysimachia vulgaris</i>: z.<br><i>Quercus pedunculata</i>: geen cultuur<br><i>Asplenium Filix femina</i>: z."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3710863499403074,
+          51.34262308760348
+        ]
+      },
+      "properties": {
+        "location": "S 1. 17. 22",
+        "taxa": [
+          "Anthyllis vulneraria maritima",
+          "Trifolium arvense",
+          "Calamintha Acinos: z.",
+          "Phleum arenarium: in de duinen, te Cadzand bij de tramhalte, te Retranchement op den dijk van het uitwateringskanaal",
+          "Elymus arenarius: in de duinen, te Retranchement op den dijk van het uitwateringskanaal"
+        ],
+        "label": "<b>S 1. 17. 22</b><br><i>Anthyllis vulneraria maritima</i><br><i>Trifolium arvense</i><br><i>Calamintha Acinos</i>: z.<br><i>Phleum arenarium</i>: in de duinen, te Cadzand bij de tramhalte, te Retranchement op den dijk van het uitwateringskanaal<br><i>Elymus arenarius</i>: in de duinen, te Retranchement op den dijk van het uitwateringskanaal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5153114718360627,
+          51.326303978634556
+        ]
+      },
+      "properties": {
+        "location": "S 2. 11. 42",
+        "taxa": [
+          "Melilotus albus",
+          "Anthoxanthum odoratum",
+          "Equisetum polystachyum"
+        ],
+        "label": "<b>S 2. 11. 42</b><br><i>Melilotus albus</i><br><i>Anthoxanthum odoratum</i><br><i>Equisetum polystachyum</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5328569893297903,
+          51.33595059773846
+        ]
+      },
+      "properties": {
+        "location": "S 2. 12. 13",
+        "taxa": [
+          "Melilotus albus",
+          "Lamium amplexicaule",
+          "Polygonum terrestre"
+        ],
+        "label": "<b>S 2. 12. 13</b><br><i>Melilotus albus</i><br><i>Lamium amplexicaule</i><br><i>Polygonum terrestre</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.406135707660097,
+          51.36195688656899
+        ]
+      },
+      "properties": {
+        "location": "R 1. 68. 32",
+        "taxa": [
+          "Trifolium expansum: z.",
+          "Epilobium tetragonum: z.",
+          "Verbena officinalis: aan dijken",
+          "Juncus effusus: v.z.",
+          "Juncus glaucus: met grasgroene, brooze halmen (bastaard met effusus?)"
+        ],
+        "label": "<b>R 1. 68. 32</b><br><i>Trifolium expansum</i>: z.<br><i>Epilobium tetragonum</i>: z.<br><i>Verbena officinalis</i>: aan dijken<br><i>Juncus effusus</i>: v.z.<br><i>Juncus glaucus</i>: met grasgroene, brooze halmen (bastaard met effusus?)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.730439539277221,
+          51.329569970159945
+        ]
+      },
+      "properties": {
+        "location": "S 2. 14. 42",
+        "taxa": [
+          "Trifolium expansum: z.",
+          "Bupleurum tenuissimum: op den zeedijk",
+          "Erythraea pulchella: z.",
+          "Verbena officinalis: aan dijken",
+          "Statice Limonium: op de schorren",
+          "Plantago maritima",
+          "Plantago Coronopus",
+          "Schoberia maritima: schorren en zilte gronden binnendijks",
+          "Salicornia herbacea: schorren en zilte gronden binnendijks",
+          "Spartina stricta",
+          "Glyceria maritima"
+        ],
+        "label": "<b>S 2. 14. 42</b><br><i>Trifolium expansum</i>: z.<br><i>Bupleurum tenuissimum</i>: op den zeedijk<br><i>Erythraea pulchella</i>: z.<br><i>Verbena officinalis</i>: aan dijken<br><i>Statice Limonium</i>: op de schorren<br><i>Plantago maritima</i><br><i>Plantago Coronopus</i><br><i>Schoberia maritima</i>: schorren en zilte gronden binnendijks<br><i>Salicornia herbacea</i>: schorren en zilte gronden binnendijks<br><i>Spartina stricta</i><br><i>Glyceria maritima</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4969979980797956,
+          51.33537300670207
+        ]
+      },
+      "properties": {
+        "location": "S 2. 11. 23",
+        "taxa": [
+          "Trifolium spica prolifera",
+          "Trifolium major",
+          "Aethusa Cynapium: (abnormal form, see p. 23)",
+          "Centaurea Cyanus: voornamelijk bij St Kruis, Aardenburg en Heille, overigens zeldz.",
+          "Sonchus laciniatus",
+          "Barkhausia taraxacifolia",
+          "Prunella cor. alba",
+          "Polygonum vulgatum",
+          "Carex muricata"
+        ],
+        "label": "<b>S 2. 11. 23</b><br><i>Trifolium spica prolifera</i><br><i>Trifolium major</i><br><i>Aethusa Cynapium</i>: (abnormal form, see p. 23)<br><i>Centaurea Cyanus</i>: voornamelijk bij St Kruis, Aardenburg en Heille, overigens zeldz.<br><i>Sonchus laciniatus</i><br><i>Barkhausia taraxacifolia</i><br><i>Prunella cor. alba</i><br><i>Polygonum vulgatum</i><br><i>Carex muricata</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5145430718634296,
+          51.34502237894821
+        ]
+      },
+      "properties": {
+        "location": "S 2. 11. 22",
+        "taxa": [
+          "Trifolium incarnatum",
+          "Ligustrum vulgare: geen cult.",
+          "Lamium incisum",
+          "Plantago media: z."
+        ],
+        "label": "<b>S 2. 11. 22</b><br><i>Trifolium incarnatum</i><br><i>Ligustrum vulgare</i>: geen cult.<br><i>Lamium incisum</i><br><i>Plantago media</i>: z."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4966100382460277,
+          51.344732126069204
+        ]
+      },
+      "properties": {
+        "location": "S 2. 11. 21",
+        "taxa": [
+          "Trifolium minor",
+          "Centaurea Cyanus: voornamelijk bij St Kruis, Aardenburg en Heille, overigens zeldz.",
+          "Veronica hederaefolia",
+          "Prunella cor. rosea",
+          "Prunella cor. alba",
+          "Glyceria spectabilis"
+        ],
+        "label": "<b>S 2. 11. 21</b><br><i>Trifolium minor</i><br><i>Centaurea Cyanus</i>: voornamelijk bij St Kruis, Aardenburg en Heille, overigens zeldz.<br><i>Veronica hederaefolia</i><br><i>Prunella cor. rosea</i><br><i>Prunella cor. alba</i><br><i>Glyceria spectabilis</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.551540245267584,
+          51.31751653579115
+        ]
+      },
+      "properties": {
+        "location": "S 2. 12. 34",
+        "taxa": [
+          "Robinia Pseud-acacia",
+          "Vicia angustifolia: v.z.",
+          "Barkhausia taraxacifolia",
+          "Verbena officinalis: aan dijken"
+        ],
+        "label": "<b>S 2. 12. 34</b><br><i>Robinia Pseud-acacia</i><br><i>Vicia angustifolia</i>: v.z.<br><i>Barkhausia taraxacifolia</i><br><i>Verbena officinalis</i>: aan dijken"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6935396516873924,
+          51.35713303160179
+        ]
+      },
+      "properties": {
+        "location": "R 2. 64. 34",
+        "taxa": [
+          "Vicia angustifolia: v.z.",
+          "Sonchus integrifolius",
+          "Lamium incisum",
+          "Statice Limonium: op de schorren",
+          "Salicornia herbacea: schorren en zilte gronden binnendijks",
+          "Glyceria maritima"
+        ],
+        "label": "<b>R 2. 64. 34</b><br><i>Vicia angustifolia</i>: v.z.<br><i>Sonchus integrifolius</i><br><i>Lamium incisum</i><br><i>Statice Limonium</i>: op de schorren<br><i>Salicornia herbacea</i>: schorren en zilte gronden binnendijks<br><i>Glyceria maritima</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5694630543265746,
+          51.31779828220666
+        ]
+      },
+      "properties": {
+        "location": "S 2. 12. 43",
+        "taxa": [
+          "Vicia angustifolia: v.z.",
+          "Crepis diffusa",
+          "Lamium incisum",
+          "Ulmus campestris: geen cultuur",
+          "Juncus effusus: v.z."
+        ],
+        "label": "<b>S 2. 12. 43</b><br><i>Vicia angustifolia</i>: v.z.<br><i>Crepis diffusa</i><br><i>Lamium incisum</i><br><i>Ulmus campestris</i>: geen cultuur<br><i>Juncus effusus</i>: v.z."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.694929690594238,
+          51.3196932820371
+        ]
+      },
+      "properties": {
+        "location": "S 2. 14. 34",
+        "taxa": [
+          "Vicia angustifolia: v.z.",
+          "Anthemis Cotula",
+          "Barkhausia taraxacifolia",
+          "Lamium amplexicaule",
+          "Chenopodium ficifolium: z."
+        ],
+        "label": "<b>S 2. 14. 34</b><br><i>Vicia angustifolia</i>: v.z.<br><i>Anthemis Cotula</i><br><i>Barkhausia taraxacifolia</i><br><i>Lamium amplexicaule</i><br><i>Chenopodium ficifolium</i>: z."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7125108663098496,
+          51.329312978631535
+        ]
+      },
+      "properties": {
+        "location": "S 2. 14. 41",
+        "taxa": [
+          "Vicia angustifolia: v.z.",
+          "Verbena officinalis: aan dijken"
+        ],
+        "label": "<b>S 2. 14. 41</b><br><i>Vicia angustifolia</i>: v.z.<br><i>Verbena officinalis</i>: aan dijken"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5141585989777124,
+          51.35438157003909
+        ]
+      },
+      "properties": {
+        "location": "R 2. 61. 44",
+        "taxa": [
+          "Lathyrus tuberosus: z. op bouwl.",
+          "Sedum purpurascens: z.",
+          "Polygonum amphibium: z.",
+          "Agrostis vulgaris",
+          "Glyceria spectabilis"
+        ],
+        "label": "<b>R 2. 61. 44</b><br><i>Lathyrus tuberosus</i>: z. op bouwl.<br><i>Sedum purpurascens</i>: z.<br><i>Polygonum amphibium</i>: z.<br><i>Agrostis vulgaris</i><br><i>Glyceria spectabilis</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4416145041628377,
+          51.37192141597028
+        ]
+      },
+      "properties": {
+        "location": "R 1. 68. 24",
+        "taxa": [
+          "Prunus inermis",
+          "Helosciadium nodiflorum: z.",
+          "Cichorium Intibus",
+          "Veronica hederaefolia",
+          "Allium vineale"
+        ],
+        "label": "<b>R 1. 68. 24</b><br><i>Prunus inermis</i><br><i>Helosciadium nodiflorum</i>: z.<br><i>Cichorium Intibus</i><br><i>Veronica hederaefolia</i><br><i>Allium vineale</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.605309432005233,
+          51.3183535013254
+        ]
+      },
+      "properties": {
+        "location": "S 2. 13. 33",
+        "taxa": [
+          "Prunus inermis",
+          "Erigeron acris: z. aan dijken",
+          "Anthemis Cotula",
+          "Fraxinus excelsior: geen cult.",
+          "Polygonum terrestre",
+          "Polygonum vulgatum",
+          "Agrostis pan. colorata",
+          "Equisetum polystachyum"
+        ],
+        "label": "<b>S 2. 13. 33</b><br><i>Prunus inermis</i><br><i>Erigeron acris</i>: z. aan dijken<br><i>Anthemis Cotula</i><br><i>Fraxinus excelsior</i>: geen cult.<br><i>Polygonum terrestre</i><br><i>Polygonum vulgatum</i><br><i>Agrostis pan. colorata</i><br><i>Equisetum polystachyum</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3881969579673887,
+          51.361649911873485
+        ]
+      },
+      "properties": {
+        "location": "R 1. 68. 31",
+        "taxa": [
+          "Rosa tomentosa: z.",
+          "Oenanthe Lachenalii: z.",
+          "Barkhausia taraxacifolia",
+          "Rhinanthus major",
+          "Prunella cor. rosea",
+          "Statice Limonium: op de schorren",
+          "Plantago maritima",
+          "Schoberia maritima: schorren en zilte gronden binnendijks",
+          "Salicornia herbacea: schorren en zilte gronden binnendijks",
+          "Triglochin maritimum: op schorren en ook op zilte gronden binnendijks",
+          "Triglochin palustre: zilte gronden binnendijks",
+          "Juncus maritimus: binnenkant der duinen",
+          "Carex glauca",
+          "Glyceria distans",
+          "Glyceria maritima"
+        ],
+        "label": "<b>R 1. 68. 31</b><br><i>Rosa tomentosa</i>: z.<br><i>Oenanthe Lachenalii</i>: z.<br><i>Barkhausia taraxacifolia</i><br><i>Rhinanthus major</i><br><i>Prunella cor. rosea</i><br><i>Statice Limonium</i>: op de schorren<br><i>Plantago maritima</i><br><i>Schoberia maritima</i>: schorren en zilte gronden binnendijks<br><i>Salicornia herbacea</i>: schorren en zilte gronden binnendijks<br><i>Triglochin maritimum</i>: op schorren en ook op zilte gronden binnendijks<br><i>Triglochin palustre</i>: zilte gronden binnendijks<br><i>Juncus maritimus</i>: binnenkant der duinen<br><i>Carex glauca</i><br><i>Glyceria distans</i><br><i>Glyceria maritima</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.676654225552919,
+          51.328790717907275
+        ]
+      },
+      "properties": {
+        "location": "S 2. 14. 31",
+        "taxa": [
+          "Rosa tomentosa: z.",
+          "Anthemis Cotula",
+          "Euphrasia officinalis subspec. nemorosa",
+          "Verbena officinalis: aan dijken",
+          "Salicornia herbacea: schorren en zilte gronden binnendijks",
+          "Ulmus campestris: geen cultuur",
+          "Agrostis pan. colorata",
+          "Avena fatua"
+        ],
+        "label": "<b>S 2. 14. 31</b><br><i>Rosa tomentosa</i>: z.<br><i>Anthemis Cotula</i><br><i>Euphrasia officinalis subspec. nemorosa</i><br><i>Verbena officinalis</i>: aan dijken<br><i>Salicornia herbacea</i>: schorren en zilte gronden binnendijks<br><i>Ulmus campestris</i>: geen cultuur<br><i>Agrostis pan. colorata</i><br><i>Avena fatua</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.391474389007239,
+          51.286780744602524
+        ]
+      },
+      "properties": {
+        "location": "S 1. 28. 31",
+        "taxa": [
+          "Epilobium tetragonum: z.",
+          "Crepis diffusa",
+          "Veronica hederaefolia",
+          "Polygonum terrestre",
+          "Sparganium ramosum: z."
+        ],
+        "label": "<b>S 1. 28. 31</b><br><i>Epilobium tetragonum</i>: z.<br><i>Crepis diffusa</i><br><i>Veronica hederaefolia</i><br><i>Polygonum terrestre</i><br><i>Sparganium ramosum</i>: z."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4778934555636782,
+          51.3631571764984
+        ]
+      },
+      "properties": {
+        "location": "R 2. 61. 32",
+        "taxa": [
+          "Callitriche verna: L. z.",
+          "Galium elongatum",
+          "Cichorium Intibus",
+          "Crepis diffusa",
+          "Allium vineale",
+          "Heleocharis palustris: z.",
+          "Glyceria spectabilis"
+        ],
+        "label": "<b>R 2. 61. 32</b><br><i>Callitriche verna</i>: L. z.<br><i>Galium elongatum</i><br><i>Cichorium Intibus</i><br><i>Crepis diffusa</i><br><i>Allium vineale</i><br><i>Heleocharis palustris</i>: z.<br><i>Glyceria spectabilis</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4280963165505822,
+          51.26867294746179
+        ]
+      },
+      "properties": {
+        "location": "S 1. 38. 21",
+        "taxa": [
+          "Callitriche verna: L. z.",
+          "Helosciadium nodiflorum: z.",
+          "Sium latifolium: z.",
+          "Galium elongatum",
+          "Glyceria spectabilis"
+        ],
+        "label": "<b>S 1. 38. 21</b><br><i>Callitriche verna</i>: L. z.<br><i>Helosciadium nodiflorum</i>: z.<br><i>Sium latifolium</i>: z.<br><i>Galium elongatum</i><br><i>Glyceria spectabilis</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5698358078055294,
+          51.308438838808044
+        ]
+      },
+      "properties": {
+        "location": "S 2. 22. 21",
+        "taxa": [
+          "Callitriche verna: L. z.",
+          "Anthemis Cotula",
+          "Fraxinus excelsior: geen cult.",
+          "Euphorbia exigua: de vorm met breede involucraal bladen en 2 tot 5 stralige hoofdschermen",
+          "Ulmus campestris: geen cultuur"
+        ],
+        "label": "<b>S 2. 22. 21</b><br><i>Callitriche verna</i>: L. z.<br><i>Anthemis Cotula</i><br><i>Fraxinus excelsior</i>: geen cult.<br><i>Euphorbia exigua</i>: de vorm met breede involucraal bladen en 2 tot 5 stralige hoofdschermen<br><i>Ulmus campestris</i>: geen cultuur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.514927362773948,
+          51.33566318177183
+        ]
+      },
+      "properties": {
+        "location": "S 2. 11. 24",
+        "taxa": [
+          "Ceratophyllum submersum: z.",
+          "Lamium incisum",
+          "Rumex palustris: z."
+        ],
+        "label": "<b>S 2. 11. 24</b><br><i>Ceratophyllum submersum</i>: z.<br><i>Lamium incisum</i><br><i>Rumex palustris</i>: z."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.459953611218239,
+          51.36286124552118
+        ]
+      },
+      "properties": {
+        "location": "R 2. 61. 31",
+        "taxa": [
+          "Helosciadium nodiflorum: z.",
+          "Helosciadium nodiflorum: met gesteelde schermen en schermpjes",
+          "Chrysanthemum Parthenium: opslag?",
+          "Veronica hederaefolia"
+        ],
+        "label": "<b>R 2. 61. 31</b><br><i>Helosciadium nodiflorum</i>: z.<br><i>Helosciadium nodiflorum</i>: met gesteelde schermen en schermpjes<br><i>Chrysanthemum Parthenium</i>: opslag?<br><i>Veronica hederaefolia</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.56909012444619,
+          51.32715771998737
+        ]
+      },
+      "properties": {
+        "location": "S 2. 12. 41",
+        "taxa": [
+          "Oenanthe fistulosa: v.z.",
+          "Sonchus laciniatus",
+          "Ulmus campestris: geen cultuur"
+        ],
+        "label": "<b>S 2. 12. 41</b><br><i>Oenanthe fistulosa</i>: v.z.<br><i>Sonchus laciniatus</i><br><i>Ulmus campestris</i>: geen cultuur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.53361769271988,
+          51.31723203158151
+        ]
+      },
+      "properties": {
+        "location": "S 2. 12. 33",
+        "taxa": [
+          "Aethusa Cynapium: (abnormal form, see p. 23)",
+          "Conium maculatum: z.",
+          "Barkhausia taraxacifolia",
+          "Triticum glaucum breve aristatum  ?"
+        ],
+        "label": "<b>S 2. 12. 33</b><br><i>Aethusa Cynapium</i>: (abnormal form, see p. 23)<br><i>Conium maculatum</i>: z.<br><i>Barkhausia taraxacifolia</i><br><i>Triticum glaucum breve aristatum  ?</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.622871064810746,
+          51.32798663380824
+        ]
+      },
+      "properties": {
+        "location": "S 2. 13. 32",
+        "taxa": [
+          "Heracleum Sphondylium: z.",
+          "Anthemis Cotula",
+          "Centaurea Cyanus: voornamelijk bij St Kruis, Aardenburg en Heille, overigens zeldz.",
+          "Barkhausia taraxacifolia",
+          "Lamium incisum",
+          "Rumex sanguineus: z.",
+          "Polygonum nodosum",
+          "Ulmus campestris: geen cultuur"
+        ],
+        "label": "<b>S 2. 13. 32</b><br><i>Heracleum Sphondylium</i>: z.<br><i>Anthemis Cotula</i><br><i>Centaurea Cyanus</i>: voornamelijk bij St Kruis, Aardenburg en Heille, overigens zeldz.<br><i>Barkhausia taraxacifolia</i><br><i>Lamium incisum</i><br><i>Rumex sanguineus</i>: z.<br><i>Polygonum nodosum</i><br><i>Ulmus campestris</i>: geen cultuur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.675248842233355,
+          51.366230162853576
+        ]
+      },
+      "properties": {
+        "location": "R 2. 64. 31",
+        "taxa": [
+          "Torilis helvetica: op den zeedijk",
+          "Verbena officinalis: aan dijken",
+          "Polygonum vulgatum"
+        ],
+        "label": "<b>R 2. 64. 31</b><br><i>Torilis helvetica</i>: op den zeedijk<br><i>Verbena officinalis</i>: aan dijken<br><i>Polygonum vulgatum</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6931917304083335,
+          51.366492954532966
+        ]
+      },
+      "properties": {
+        "location": "R 2. 64. 32",
+        "taxa": [
+          "Torilis helvetica: op den zeedijk"
+        ],
+        "label": "<b>R 2. 64. 32</b><br><i>Torilis helvetica</i>: op den zeedijk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4432115001260026,
+          51.33448592772987
+        ]
+      },
+      "properties": {
+        "location": "S 1. 18. 24",
+        "taxa": [
+          "Conium maculatum: z."
+        ],
+        "label": "<b>S 1. 18. 24</b><br><i>Conium maculatum</i>: z."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.497385774331842,
+          51.326013881342234
+        ]
+      },
+      "properties": {
+        "location": "S 2. 11. 41",
+        "taxa": [
+          "Hedera Helix"
+        ],
+        "label": "<b>S 2. 11. 41</b><br><i>Hedera Helix</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6590808600193507,
+          51.31916564450711
+        ]
+      },
+      "properties": {
+        "location": "S 2. 13. 44",
+        "taxa": [
+          "Sambucus nigra",
+          "Anthemis Cotula",
+          "Myosotis caespitosa: z.",
+          "Polygonum terrestre",
+          "Polygonum: overgangsvorm natans-terrestre",
+          "Polygonum natans",
+          "Agrostis pan. colorata",
+          "Lolium spica composita forma ramosa",
+          "Equisetum polystachyum"
+        ],
+        "label": "<b>S 2. 13. 44</b><br><i>Sambucus nigra</i><br><i>Anthemis Cotula</i><br><i>Myosotis caespitosa</i>: z.<br><i>Polygonum terrestre</i><br><i>Polygonum</i>: overgangsvorm natans-terrestre<br><i>Polygonum natans</i><br><i>Agrostis pan. colorata</i><br><i>Lolium spica composita forma ramosa</i><br><i>Equisetum polystachyum</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.481024263463742,
+          51.28828478064383
+        ]
+      },
+      "properties": {
+        "location": "S 2. 21. 32",
+        "taxa": [
+          "Sambucus laciniata",
+          "Myosotis intermedia: z.",
+          "Lamium incisum",
+          "Ulmus campestris: geen cultuur",
+          "Equisetum polystachyum"
+        ],
+        "label": "<b>S 2. 21. 32</b><br><i>Sambucus laciniata</i><br><i>Myosotis intermedia</i>: z.<br><i>Lamium incisum</i><br><i>Ulmus campestris</i>: geen cultuur<br><i>Equisetum polystachyum</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.406948888234376,
+          51.3432394670564
+        ]
+      },
+      "properties": {
+        "location": "S 1. 18. 12",
+        "taxa": [
+          "Galium elongatum",
+          "Valeriana officinalis: z"
+        ],
+        "label": "<b>S 1. 18. 12</b><br><i>Galium elongatum</i><br><i>Valeriana officinalis</i>: z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.424880574169698,
+          51.34354351785043
+        ]
+      },
+      "properties": {
+        "location": "S 1. 18. 21",
+        "taxa": [
+          "Galium elongatum",
+          "Valeriana officinalis: z"
+        ],
+        "label": "<b>S 1. 18. 21</b><br><i>Galium elongatum</i><br><i>Valeriana officinalis</i>: z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6580165645379177,
+          51.3472450406771
+        ]
+      },
+      "properties": {
+        "location": "S 2. 13. 22",
+        "taxa": [
+          "Anthemis Cotula",
+          "Ulmus campestris: geen cultuur",
+          "Zanichellia pedicellata: z.",
+          "Agrostis pan. colorata"
+        ],
+        "label": "<b>S 2. 13. 22</b><br><i>Anthemis Cotula</i><br><i>Ulmus campestris</i>: geen cultuur<br><i>Zanichellia pedicellata</i>: z.<br><i>Agrostis pan. colorata</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4985480028758924,
+          51.29793647055485
+        ]
+      },
+      "properties": {
+        "location": "S 2. 21. 23",
+        "taxa": [
+          "Anthemis Cotula"
+        ],
+        "label": "<b>S 2. 21. 23</b><br><i>Anthemis Cotula</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.478285455153846,
+          51.35379814810308
+        ]
+      },
+      "properties": {
+        "location": "R 2. 61. 34",
+        "taxa": [
+          "Cichorium Intibus",
+          "Sonchus runcinatus",
+          "Barkhausia taraxacifolia"
+        ],
+        "label": "<b>R 2. 61. 34</b><br><i>Cichorium Intibus</i><br><i>Sonchus runcinatus</i><br><i>Barkhausia taraxacifolia</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7128544619674635,
+          51.31995296319127
+        ]
+      },
+      "properties": {
+        "location": "S 2. 14. 43",
+        "taxa": [
+          "Sonchus laciniatus",
+          "Myosotis intermedia: z.",
+          "Lamium incisum",
+          "Agrostis pan. colorata"
+        ],
+        "label": "<b>S 2. 14. 43</b><br><i>Sonchus laciniatus</i><br><i>Myosotis intermedia</i>: z.<br><i>Lamium incisum</i><br><i>Agrostis pan. colorata</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5500327917094614,
+          51.3549539496513
+        ]
+      },
+      "properties": {
+        "location": "R 2. 62. 34",
+        "taxa": [
+          "Sonchus laciniatus",
+          "Lamium incisum",
+          "Glyceria spectabilis"
+        ],
+        "label": "<b>R 2. 62. 34</b><br><i>Sonchus laciniatus</i><br><i>Lamium incisum</i><br><i>Glyceria spectabilis</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.49622189470254,
+          51.35409123931898
+        ]
+      },
+      "properties": {
+        "location": "R 2. 61. 43",
+        "taxa": [
+          "Barkhausia taraxacifolia",
+          "Crepis diffusa"
+        ],
+        "label": "<b>R 2. 61. 43</b><br><i>Barkhausia taraxacifolia</i><br><i>Crepis diffusa</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6942350001531863,
+          51.3384131681384
+        ]
+      },
+      "properties": {
+        "location": "S 2. 14. 14",
+        "taxa": [
+          "Fraxinus excelsior: geen cult.",
+          "Ulmus campestris: geen cultuur"
+        ],
+        "label": "<b>S 2. 14. 14</b><br><i>Fraxinus excelsior</i>: geen cult.<br><i>Ulmus campestris</i>: geen cultuur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4981607766021883,
+          51.30729561314388
+        ]
+      },
+      "properties": {
+        "location": "S 2. 21. 21",
+        "taxa": [
+          "Fraxinus excelsior: geen cult.",
+          "Lamium incisum"
+        ],
+        "label": "<b>S 2. 21. 21</b><br><i>Fraxinus excelsior</i>: geen cult.<br><i>Lamium incisum</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5160791449216737,
+          51.307585554976576
+        ]
+      },
+      "properties": {
+        "location": "S 2. 21. 22",
+        "taxa": [
+          "Fraxinus excelsior: geen cult."
+        ],
+        "label": "<b>S 2. 21. 22</b><br><i>Fraxinus excelsior</i>: geen cult."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.51646270919817,
+          51.298226334705355
+        ]
+      },
+      "properties": {
+        "location": "S 2. 21. 24",
+        "taxa": [
+          "Fraxinus excelsior: geen cult.",
+          "Veronica Buxbaumii: met kleine bladen en rosé bloemen",
+          "Galeopsis Tetrahit",
+          "Euphorbia exigua: de vorm met breede involucraal bladen en 2 tot 5 stralige hoofdschermen",
+          "Lolium spica composita forma glomerata"
+        ],
+        "label": "<b>S 2. 21. 24</b><br><i>Fraxinus excelsior</i>: geen cult.<br><i>Veronica Buxbaumii</i>: met kleine bladen en rosé bloemen<br><i>Galeopsis Tetrahit</i><br><i>Euphorbia exigua</i>: de vorm met breede involucraal bladen en 2 tot 5 stralige hoofdschermen<br><i>Lolium spica composita forma glomerata</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4615351743379477,
+          51.32542541200515
+        ]
+      },
+      "properties": {
+        "location": "S 2. 11. 31",
+        "taxa": [
+          "Lithospermum arvense: z.",
+          "Lamium decipiens",
+          "Euphorbia exigua: de vorm met breede involucraal bladen en 2 tot 5 stralige hoofdschermen",
+          "Carex muricata"
+        ],
+        "label": "<b>S 2. 11. 31</b><br><i>Lithospermum arvense</i>: z.<br><i>Lamium decipiens</i><br><i>Euphorbia exigua</i>: de vorm met breede involucraal bladen en 2 tot 5 stralige hoofdschermen<br><i>Carex muricata</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4459989800579014,
+          51.268973593658174
+        ]
+      },
+      "properties": {
+        "location": "S 1. 38. 22",
+        "taxa": [
+          "Linaria vulgaris: z.",
+          "Glyceria spectabilis",
+          "Asplenium Ruta muraria: z."
+        ],
+        "label": "<b>S 1. 38. 22</b><br><i>Linaria vulgaris</i>: z.<br><i>Glyceria spectabilis</i><br><i>Asplenium Ruta muraria</i>: z."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5489003263590813,
+          51.38303194593331
+        ]
+      },
+      "properties": {
+        "location": "R 2. 62. 12",
+        "taxa": [
+          "Lamium amplexicaule"
+        ],
+        "label": "<b>R 2. 62. 12</b><br><i>Lamium amplexicaule</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4790688977433097,
+          51.33508007261433
+        ]
+      },
+      "properties": {
+        "location": "S 2. 11. 14",
+        "taxa": [
+          "Galeopsis Tetrahit flor. alb.",
+          "Salix alba: geen cultuur",
+          "Carex muricata",
+          "Lolium spica bifurcata"
+        ],
+        "label": "<b>S 2. 11. 14</b><br><i>Galeopsis Tetrahit flor. alb.</i><br><i>Salix alba</i>: geen cultuur<br><i>Carex muricata</i><br><i>Lolium spica bifurcata</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7114791029373655,
+          51.35739299141544
+        ]
+      },
+      "properties": {
+        "location": "R 2. 64. 43",
+        "taxa": [
+          "Statice Limonium: op de schorren",
+          "Plantago maritima",
+          "Schoberia maritima: schorren en zilte gronden binnendijks",
+          "Salicornia herbacea: schorren en zilte gronden binnendijks",
+          "Glyceria maritima",
+          "Polystichum Filix mas: z."
+        ],
+        "label": "<b>R 2. 64. 43</b><br><i>Statice Limonium</i>: op de schorren<br><i>Plantago maritima</i><br><i>Schoberia maritima</i>: schorren en zilte gronden binnendijks<br><i>Salicornia herbacea</i>: schorren en zilte gronden binnendijks<br><i>Glyceria maritima</i><br><i>Polystichum Filix mas</i>: z."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7118231869082674,
+          51.34803299286818
+        ]
+      },
+      "properties": {
+        "location": "S 2. 14. 21",
+        "taxa": [
+          "Plantago maritima"
+        ],
+        "label": "<b>S 2. 14. 21</b><br><i>Plantago maritima</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.423671528762752,
+          51.371619882093526
+        ]
+      },
+      "properties": {
+        "location": "R 1. 68. 23",
+        "taxa": [
+          "Plantago Coronopus",
+          "Allium vineale"
+        ],
+        "label": "<b>R 1. 68. 23</b><br><i>Plantago Coronopus</i><br><i>Allium vineale</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4073551898848535,
+          51.33388074781622
+        ]
+      },
+      "properties": {
+        "location": "S 1. 18. 14",
+        "taxa": [
+          "Ulmus campestris: geen cultuur",
+          "Allium vineale"
+        ],
+        "label": "<b>S 1. 18. 14</b><br><i>Ulmus campestris</i>: geen cultuur<br><i>Allium vineale</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.513773943989883,
+          51.363740754919526
+        ]
+      },
+      "properties": {
+        "location": "R 2. 61. 42",
+        "taxa": [
+          "Allium vineale"
+        ],
+        "label": "<b>R 2. 61. 42</b><br><i>Allium vineale</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4053217564930818,
+          51.38067427995856
+        ]
+      },
+      "properties": {
+        "location": "R 1. 68. 12",
+        "taxa": [
+          "Allium compactum"
+        ],
+        "label": "<b>R 1. 68. 12</b><br><i>Allium compactum</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.423268131714081,
+          51.380978657096534
+        ]
+      },
+      "properties": {
+        "location": "R 1. 68. 21",
+        "taxa": [
+          "Allium compactum"
+        ],
+        "label": "<b>R 1. 68. 21</b><br><i>Allium compactum</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.428497429819391,
+          51.2593141012329
+        ]
+      },
+      "properties": {
+        "location": "S 1. 38. 23",
+        "taxa": [
+          "Juncus effusus: v.z."
+        ],
+        "label": "<b>S 1. 38. 23</b><br><i>Juncus effusus</i>: v.z."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5195247056703423,
+          51.22335238639091
+        ]
+      },
+      "properties": {
+        "location": "S 2. 41. 24",
+        "taxa": [
+          "Carex distans"
+        ],
+        "label": "<b>S 2. 41. 24</b><br><i>Carex distans</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6404401079551785,
+          51.337617147702716
+        ]
+      },
+      "properties": {
+        "location": "S 2. 13. 23",
+        "taxa": [
+          "Carex hirta"
+        ],
+        "label": "<b>S 2. 13. 23</b><br><i>Carex hirta</i>"
+      }
+    }
+  ]
+}
