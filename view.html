@@ -73,7 +73,15 @@
             maxZoom: 19,
             attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
           }),
+          'Militaire Stafkaart (1850)': L.tileLayer.wms('https://geoserver-bigdata.nieuwland.nl/RCE/wms?', {
+            maxZoom: 15,
+            attribution: '<a href="https://www.atlasleefomgeving.nl/topografische-militaire-kaart-1850">Alterra, Rijksdienst voor het Cultureel Erfgoed</a>',
+            format: 'image/png',
+            transparent: true,
+            layers: 'rce_tmk1850_pyramide'
+          }),
           'Bonnebladen (1900)': L.tileLayer.wms('https://geoserver-bigdata.nieuwland.nl/RCE/wms?', {
+            maxZoom: 15,
             attribution: '<a href="https://www.atlasleefomgeving.nl/topografische-kaart-1900-bonnebladen">WUR, Rijksdienst voor het Cultureel Erfgoed</a>',
             format: 'image/png',
             transparent: true,
