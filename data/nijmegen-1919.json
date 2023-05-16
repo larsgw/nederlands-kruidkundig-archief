@@ -114,11 +114,11 @@
           "Solanum Dulcamara",
           "Sonchus arvensis",
           "Sonchus oleraceus",
-          "P6, 52, 24",
+          "Trifolium fragiferum",
           "Veronica Anagallis: aquatica",
           "Viburnum"
         ],
-        "label": "<b>P 6. 53. 34</b><br><i>Aethusa</i><br><i>Batrachium divaricatum</i><br><i>Carex hirta</i><br><i>Carex riparia</i><br><i>Carex vesicaria</i><br><i>Cirsium lanceolatum</i><br><i>Cornus sanguineus</i><br><i>Euphorbia palustris</i><br><i>Festuca arundinacea</i><br><i>Geum urbanum</i><br><i>Hipputis</i><br><i>Hordeum secalinum</i><br><i>Hottonia</i><br><i>Malva silvestris</i><br><i>Malva vulgaris</i><br><i>Melilotus arvensis</i><br><i>Pimpinella magna</i><br><i>Pimpinella Saxifraga</i><br><i>Polypodium</i><br><i>Potamogeton crispus</i><br><i>Potamogeton densus</i><br><i>Rhamnus catarctica</i><br><i>Rhinanthus major</i><br><i>Rosa dumetorum</i><br><i>Scrophularia nodosa</i><br><i>Solanum Dulcamara</i><br><i>Sonchus arvensis</i><br><i>Sonchus oleraceus</i><br><i>P6, 52, 24</i><br><i>Veronica Anagallis</i>: aquatica<br><i>Viburnum</i>"
+        "label": "<b>P 6. 53. 34</b><br><i>Aethusa</i><br><i>Batrachium divaricatum</i><br><i>Carex hirta</i><br><i>Carex riparia</i><br><i>Carex vesicaria</i><br><i>Cirsium lanceolatum</i><br><i>Cornus sanguineus</i><br><i>Euphorbia palustris</i><br><i>Festuca arundinacea</i><br><i>Geum urbanum</i><br><i>Hipputis</i><br><i>Hordeum secalinum</i><br><i>Hottonia</i><br><i>Malva silvestris</i><br><i>Malva vulgaris</i><br><i>Melilotus arvensis</i><br><i>Pimpinella magna</i><br><i>Pimpinella Saxifraga</i><br><i>Polypodium</i><br><i>Potamogeton crispus</i><br><i>Potamogeton densus</i><br><i>Rhamnus catarctica</i><br><i>Rhinanthus major</i><br><i>Rosa dumetorum</i><br><i>Scrophularia nodosa</i><br><i>Solanum Dulcamara</i><br><i>Sonchus arvensis</i><br><i>Sonchus oleraceus</i><br><i>Trifolium fragiferum</i><br><i>Veronica Anagallis</i>: aquatica<br><i>Viburnum</i>"
       }
     },
     {
@@ -1096,9 +1096,10 @@
           "Scabiosa",
           "Solanum Dulcamara",
           "Sonchus asper",
-          "Sonchus oleraceus"
+          "Sonchus oleraceus",
+          "Trifolium fragiferum"
         ],
-        "label": "<b>P 6. 52. 24</b><br><i>Artemisa campestris</i><br><i>Atriplex latifolia</i><br><i>Avena sativa</i><br><i>Brassica nigra</i><br><i>Briza</i><br><i>Carduus nutans</i><br><i>Clematis Vitalba</i><br><i>Cornus sanguineus</i><br><i>Cuscuta europaea</i><br><i>Diplotaxis tenuifolius</i><br><i>Erucastrum Pollichii</i><br><i>Eryngium campestre</i><br><i>Euphorbia Cyparissias</i><br><i>Euphorbia Esula</i><br><i>Galium cruciatum</i><br><i>Knautia</i><br><i>Lamium maculatum</i><br><i>Limosella</i><br><i>Linaria minor</i><br><i>Lychnis vespertina</i><br><i>Matricaria</i><br><i>Medicago falcata</i><br><i>Melilotus albus</i><br><i>Melilotus officinalis</i><br><i>Potamogeton pectinatus</i><br><i>Potamogeton perfoliatus</i><br><i>Reseda lutea</i><br><i>Rhamnus catarctica</i><br><i>Rumex obtusifolius X Hydrolapathum</i><br><i>Salvia silvestris</i><br><i>Saponaria</i><br><i>Scabiosa</i><br><i>Solanum Dulcamara</i><br><i>Sonchus asper</i><br><i>Sonchus oleraceus</i>"
+        "label": "<b>P 6. 52. 24</b><br><i>Artemisa campestris</i><br><i>Atriplex latifolia</i><br><i>Avena sativa</i><br><i>Brassica nigra</i><br><i>Briza</i><br><i>Carduus nutans</i><br><i>Clematis Vitalba</i><br><i>Cornus sanguineus</i><br><i>Cuscuta europaea</i><br><i>Diplotaxis tenuifolius</i><br><i>Erucastrum Pollichii</i><br><i>Eryngium campestre</i><br><i>Euphorbia Cyparissias</i><br><i>Euphorbia Esula</i><br><i>Galium cruciatum</i><br><i>Knautia</i><br><i>Lamium maculatum</i><br><i>Limosella</i><br><i>Linaria minor</i><br><i>Lychnis vespertina</i><br><i>Matricaria</i><br><i>Medicago falcata</i><br><i>Melilotus albus</i><br><i>Melilotus officinalis</i><br><i>Potamogeton pectinatus</i><br><i>Potamogeton perfoliatus</i><br><i>Reseda lutea</i><br><i>Rhamnus catarctica</i><br><i>Rumex obtusifolius X Hydrolapathum</i><br><i>Salvia silvestris</i><br><i>Saponaria</i><br><i>Scabiosa</i><br><i>Solanum Dulcamara</i><br><i>Sonchus asper</i><br><i>Sonchus oleraceus</i><br><i>Trifolium fragiferum</i>"
       }
     },
     {
@@ -1220,13 +1221,13 @@
           "Solanum Dulcamara",
           "Sonchus oleraceus",
           "Thalictrum flavum",
-          "P6, 52, 24",
+          "Trifolium fragiferum",
           "Tussilago",
           "Typha angustifolia",
           "Valeriana dioica",
           "Veronica Buxbaumii"
         ],
-        "label": "<b>P 6. 53. 13</b><br><i>Carex acuta</i><br><i>Cuscuta europaea</i><br><i>Diplotaxis tenuifolius</i><br><i>Equisetum palustre</i><br><i>Erucastrum Pollichii</i><br><i>Euphorbia Esula</i><br><i>Hordeum secalinum</i><br><i>Humulus</i><br><i>Juncus compressus</i><br><i>Juncus lamprocarpus</i><br><i>Lamium maculatum</i>: ook met witte bloemen en allerlei overgangen<br><i>Linaria minor</i><br><i>Malva vulgaris</i><br><i>Medicago falcata</i><br><i>Medicago sativa</i><br><i>Reseda lutea</i><br><i>Rumex Hydrolapathum</i><br><i>Scirpus maritimus</i><br><i>Solanum Dulcamara</i><br><i>Sonchus oleraceus</i><br><i>Thalictrum flavum</i><br><i>P6, 52, 24</i><br><i>Tussilago</i><br><i>Typha angustifolia</i><br><i>Valeriana dioica</i><br><i>Veronica Buxbaumii</i>"
+        "label": "<b>P 6. 53. 13</b><br><i>Carex acuta</i><br><i>Cuscuta europaea</i><br><i>Diplotaxis tenuifolius</i><br><i>Equisetum palustre</i><br><i>Erucastrum Pollichii</i><br><i>Euphorbia Esula</i><br><i>Hordeum secalinum</i><br><i>Humulus</i><br><i>Juncus compressus</i><br><i>Juncus lamprocarpus</i><br><i>Lamium maculatum</i>: ook met witte bloemen en allerlei overgangen<br><i>Linaria minor</i><br><i>Malva vulgaris</i><br><i>Medicago falcata</i><br><i>Medicago sativa</i><br><i>Reseda lutea</i><br><i>Rumex Hydrolapathum</i><br><i>Scirpus maritimus</i><br><i>Solanum Dulcamara</i><br><i>Sonchus oleraceus</i><br><i>Thalictrum flavum</i><br><i>Trifolium fragiferum</i><br><i>Tussilago</i><br><i>Typha angustifolia</i><br><i>Valeriana dioica</i><br><i>Veronica Buxbaumii</i>"
       }
     },
     {
