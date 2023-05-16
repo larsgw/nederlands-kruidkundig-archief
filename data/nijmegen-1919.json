@@ -571,7 +571,6 @@
           "Epilobium angustifolium",
           "Festuca rubra",
           "Filago minima",
-          "Hypericum Elodes",
           "Juncus lamprocarpus",
           "Linum catarcticum",
           "Lycopsis",
@@ -605,7 +604,7 @@
           "Vicia villosa",
           "Viola palustris"
         ],
-        "label": "<b>Q 6. 23. 44</b><br><i>Alisma natans</i><br><i>Briza</i><br><i>Bromus secalinus</i><br><i>Carex echinata</i><br><i>Carex flava Oederi</i><br><i>Carex panicea</i><br><i>Carex rostrate</i><br><i>Drosera intermedia</i><br><i>Drosera rotundifolia</i><br><i>Epilobium angustifolium</i><br><i>Festuca rubra</i><br><i>Filago minima</i><br><i>Hypericum Elodes</i><br><i>Juncus lamprocarpus</i><br><i>Linum catarcticum</i><br><i>Lycopsis</i><br><i>Lycopus</i><br><i>Majanthemum</i><br><i>Menyanthes</i><br><i>Molinia</i><br><i>Myrica</i><br><i>Nasturtium palustre</i><br><i>Orchis incarnata</i><br><i>Pedicularis palustris</i><br><i>Polygala depressa</i><br><i>Polygonum tataricum</i><br><i>Potamogeton natans</i><br><i>Rhynchospora alba</i><br><i>Rhynchospora fusca</i><br><i>Sagina procumbens</i><br><i>Scirpus caespitosus</i><br><i>Scirpus fluitans</i><br><i>Sonchus arvensis</i><br><i>Sonchus asper</i><br><i>Sparganium minimum</i><br><i>Spergula arvensis</i><br><i>Succisa</i><br><i>Thysselinum</i><br><i>Trifolium hybridum</i><br><i>Vaccinium Oxycoccus</i><br><i>Veronica arvensis</i><br><i>Veronica officinalis</i><br><i>Vicia sativa</i><br><i>Vicia villosa</i><br><i>Viola palustris</i>"
+        "label": "<b>Q 6. 23. 44</b><br><i>Alisma natans</i><br><i>Briza</i><br><i>Bromus secalinus</i><br><i>Carex echinata</i><br><i>Carex flava Oederi</i><br><i>Carex panicea</i><br><i>Carex rostrate</i><br><i>Drosera intermedia</i><br><i>Drosera rotundifolia</i><br><i>Epilobium angustifolium</i><br><i>Festuca rubra</i><br><i>Filago minima</i><br><i>Juncus lamprocarpus</i><br><i>Linum catarcticum</i><br><i>Lycopsis</i><br><i>Lycopus</i><br><i>Majanthemum</i><br><i>Menyanthes</i><br><i>Molinia</i><br><i>Myrica</i><br><i>Nasturtium palustre</i><br><i>Orchis incarnata</i><br><i>Pedicularis palustris</i><br><i>Polygala depressa</i><br><i>Polygonum tataricum</i><br><i>Potamogeton natans</i><br><i>Rhynchospora alba</i><br><i>Rhynchospora fusca</i><br><i>Sagina procumbens</i><br><i>Scirpus caespitosus</i><br><i>Scirpus fluitans</i><br><i>Sonchus arvensis</i><br><i>Sonchus asper</i><br><i>Sparganium minimum</i><br><i>Spergula arvensis</i><br><i>Succisa</i><br><i>Thysselinum</i><br><i>Trifolium hybridum</i><br><i>Vaccinium Oxycoccus</i><br><i>Veronica arvensis</i><br><i>Veronica officinalis</i><br><i>Vicia sativa</i><br><i>Vicia villosa</i><br><i>Viola palustris</i>"
       }
     },
     {
@@ -1275,6 +1274,23 @@
           "Veronica Chamaedrys"
         ],
         "label": "<b>P 6. 53. 14</b><br><i>Eryngium campestre</i><br><i>Limnanthemum</i><br><i>Lycopus</i><br><i>Salix alba</i><br><i>Salvia silvestris</i><br><i>Solanum Dulcamara</i><br><i>Veronica Chamaedrys</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.980262829765911,
+          53.31531563916013
+        ]
+      },
+      "properties": {
+        "location": "H 6. 23. 44",
+        "taxa": [
+          "Hypericum Elodes"
+        ],
+        "label": "<b>H 6. 23. 44</b><br><i>Hypericum Elodes</i>"
       }
     },
     {
