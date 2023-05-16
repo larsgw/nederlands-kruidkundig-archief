@@ -1,0 +1,1386 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.852176284123865,
+          51.85546362340897
+        ]
+      },
+      "properties": {
+        "location": "P 6. 52. 34",
+        "taxa": [
+          "Aethusa",
+          "Arenaria serpyllifolia",
+          "Artemisa Absinthium",
+          "Artemisa campestris",
+          "Atriplex patula",
+          "Avena flavescens",
+          "Ballota",
+          "Bromus arvensis",
+          "Carduus nutans",
+          "Chrysanthemum inodorum",
+          "Chenopodium segetum",
+          "Cichorium Intybus",
+          "Cirsium lanceolatum",
+          "Cochlearia Armoracia",
+          "Crepis biennis",
+          "Diplotaxis tenuifolius",
+          "Erigeron canadense",
+          "Festuca elatior",
+          "Fumaria officinalis",
+          "Galeopsis Ladanum",
+          "Herniaria glabra",
+          "Hyoscyamus",
+          "Lactuca Scariola",
+          "Lepidium densiflorum",
+          "Lepidium ruderale",
+          "Linaria minor",
+          "Lychnis vespertina",
+          "Malachium",
+          "Malva rotundifolia",
+          "Matricaria",
+          "Melilotus albus",
+          "Melilotus arvensis",
+          "Melilotus officinalis",
+          "Potamogeton perfoliatus",
+          "Reseda lutea",
+          "Reseda luteola",
+          "Sagina procumbens",
+          "Sanguisorba minor",
+          "Senecio viscosum",
+          "Silene dichotoma",
+          "Silene inflata",
+          "Silene noctiflora",
+          "Sisymbrium Alliaria",
+          "Sisymbrium Columnae",
+          "Sisymbrium pannonicum",
+          "Sisymbrium Sophia",
+          "Solanum Dulcamara",
+          "Stachys annuus",
+          "Trifolium arvense",
+          "Trifolium hybridum",
+          "Trifolium procumbens",
+          "Tussilago",
+          "Verbascum nigrum",
+          "Verbena",
+          "Veronica arvensis",
+          "Vicia hirsuta",
+          "Vicia villosa"
+        ],
+        "label": "<b>P 6. 52. 34</b><br><i>Aethusa</i><br><i>Arenaria serpyllifolia</i><br><i>Artemisa Absinthium</i><br><i>Artemisa campestris</i><br><i>Atriplex patula</i><br><i>Avena flavescens</i><br><i>Ballota</i><br><i>Bromus arvensis</i><br><i>Carduus nutans</i><br><i>Chrysanthemum inodorum</i><br><i>Chenopodium segetum</i><br><i>Cichorium Intybus</i><br><i>Cirsium lanceolatum</i><br><i>Cochlearia Armoracia</i><br><i>Crepis biennis</i><br><i>Diplotaxis tenuifolius</i><br><i>Erigeron canadense</i><br><i>Festuca elatior</i><br><i>Fumaria officinalis</i><br><i>Galeopsis Ladanum</i><br><i>Herniaria glabra</i><br><i>Hyoscyamus</i><br><i>Lactuca Scariola</i><br><i>Lepidium densiflorum</i><br><i>Lepidium ruderale</i><br><i>Linaria minor</i><br><i>Lychnis vespertina</i><br><i>Malachium</i><br><i>Malva rotundifolia</i><br><i>Matricaria</i><br><i>Melilotus albus</i><br><i>Melilotus arvensis</i><br><i>Melilotus officinalis</i><br><i>Potamogeton perfoliatus</i><br><i>Reseda lutea</i><br><i>Reseda luteola</i><br><i>Sagina procumbens</i><br><i>Sanguisorba minor</i><br><i>Senecio viscosum</i><br><i>Silene dichotoma</i><br><i>Silene inflata</i><br><i>Silene noctiflora</i><br><i>Sisymbrium Alliaria</i><br><i>Sisymbrium Columnae</i><br><i>Sisymbrium pannonicum</i><br><i>Sisymbrium Sophia</i><br><i>Solanum Dulcamara</i><br><i>Stachys annuus</i><br><i>Trifolium arvense</i><br><i>Trifolium hybridum</i><br><i>Trifolium procumbens</i><br><i>Tussilago</i><br><i>Verbascum nigrum</i><br><i>Verbena</i><br><i>Veronica arvensis</i><br><i>Vicia hirsuta</i><br><i>Vicia villosa</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.924749810992478,
+          51.855155840027884
+        ]
+      },
+      "properties": {
+        "location": "P 6. 53. 34",
+        "taxa": [
+          "Aethusa",
+          "Batrachium divaricatum",
+          "Carex hirta",
+          "Carex riparia",
+          "Carex vesicaria",
+          "Cirsium lanceolatum",
+          "Cornus sanguineus",
+          "Euphorbia palustris",
+          "Festuca arundinacea",
+          "Geum urbanum",
+          "Hipputis",
+          "Hordeum secalinum",
+          "Hottonia",
+          "Malva silvestris",
+          "Malva vulgaris",
+          "Melilotus arvensis",
+          "Pimpinella magna",
+          "Pimpinella Saxifraga",
+          "Polypodium",
+          "Potamogeton crispus",
+          "Potamogeton densus",
+          "Rhamnus catarctica",
+          "Rhinanthus major",
+          "Rosa dumetorum",
+          "Scrophularia nodosa",
+          "Solanum Dulcamara",
+          "Sonchus arvensis",
+          "Sonchus oleraceus",
+          "P6, 52, 24",
+          "Veronica Anagallis: aquatica",
+          "Viburnum"
+        ],
+        "label": "<b>P 6. 53. 34</b><br><i>Aethusa</i><br><i>Batrachium divaricatum</i><br><i>Carex hirta</i><br><i>Carex riparia</i><br><i>Carex vesicaria</i><br><i>Cirsium lanceolatum</i><br><i>Cornus sanguineus</i><br><i>Euphorbia palustris</i><br><i>Festuca arundinacea</i><br><i>Geum urbanum</i><br><i>Hipputis</i><br><i>Hordeum secalinum</i><br><i>Hottonia</i><br><i>Malva silvestris</i><br><i>Malva vulgaris</i><br><i>Melilotus arvensis</i><br><i>Pimpinella magna</i><br><i>Pimpinella Saxifraga</i><br><i>Polypodium</i><br><i>Potamogeton crispus</i><br><i>Potamogeton densus</i><br><i>Rhamnus catarctica</i><br><i>Rhinanthus major</i><br><i>Rosa dumetorum</i><br><i>Scrophularia nodosa</i><br><i>Solanum Dulcamara</i><br><i>Sonchus arvensis</i><br><i>Sonchus oleraceus</i><br><i>P6, 52, 24</i><br><i>Veronica Anagallis</i>: aquatica<br><i>Viburnum</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.906499241500068,
+          51.845874455555254
+        ]
+      },
+      "properties": {
+        "location": "P 6. 63. 11",
+        "taxa": [
+          "Aethusa",
+          "Atriplex latifolia",
+          "Ballota",
+          "Batrachium divaricatum",
+          "Bryonia",
+          "Crepis biennis",
+          "Festuca elatior",
+          "Hipputis",
+          "Lampsana",
+          "Lemna trisulca",
+          "Malva silvestris",
+          "Pimpinella Saxifraga",
+          "Potamogeton natans",
+          "Rumex Hydrolapathum",
+          "Scirpus maritimus",
+          "Sinapis alba",
+          "Sisymbrium Alliaria",
+          "Sonchus asper",
+          "Sonchus oleraceus",
+          "Stellaria glauca",
+          "Thalictrum flavum"
+        ],
+        "label": "<b>P 6. 63. 11</b><br><i>Aethusa</i><br><i>Atriplex latifolia</i><br><i>Ballota</i><br><i>Batrachium divaricatum</i><br><i>Bryonia</i><br><i>Crepis biennis</i><br><i>Festuca elatior</i><br><i>Hipputis</i><br><i>Lampsana</i><br><i>Lemna trisulca</i><br><i>Malva silvestris</i><br><i>Pimpinella Saxifraga</i><br><i>Potamogeton natans</i><br><i>Rumex Hydrolapathum</i><br><i>Scirpus maritimus</i><br><i>Sinapis alba</i><br><i>Sisymbrium Alliaria</i><br><i>Sonchus asper</i><br><i>Sonchus oleraceus</i><br><i>Stellaria glauca</i><br><i>Thalictrum flavum</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.924638742720374,
+          51.845793326098956
+        ]
+      },
+      "properties": {
+        "location": "P 6. 63. 12",
+        "taxa": [
+          "Aethusa",
+          "Asplenium Ruta muraria",
+          "Ballota",
+          "Bryonia",
+          "Carex echinata",
+          "Eryngium campestre",
+          "Galium cruciatum",
+          "Geum urbanum",
+          "Lappa minor",
+          "Lychnis vespertina",
+          "Malva silvestris",
+          "Pimpinella Saxifraga",
+          "Poa serotina",
+          "Rhamnus catarctica",
+          "Saponaria",
+          "Sonchus asper",
+          "Sonchus oleraceus",
+          "Stellaria glauca",
+          "Veronica Chamaedrys",
+          "Viburnum"
+        ],
+        "label": "<b>P 6. 63. 12</b><br><i>Aethusa</i><br><i>Asplenium Ruta muraria</i><br><i>Ballota</i><br><i>Bryonia</i><br><i>Carex echinata</i><br><i>Eryngium campestre</i><br><i>Galium cruciatum</i><br><i>Geum urbanum</i><br><i>Lappa minor</i><br><i>Lychnis vespertina</i><br><i>Malva silvestris</i><br><i>Pimpinella Saxifraga</i><br><i>Poa serotina</i><br><i>Rhamnus catarctica</i><br><i>Saponaria</i><br><i>Sonchus asper</i><br><i>Sonchus oleraceus</i><br><i>Stellaria glauca</i><br><i>Veronica Chamaedrys</i><br><i>Viburnum</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.796984917926555,
+          51.77140077356996
+        ]
+      },
+      "properties": {
+        "location": "Q 6. 21. 21",
+        "taxa": [
+          "Aethusa",
+          "Anagallis arvensis",
+          "Atriplex latifolia",
+          "Atriplex patula",
+          "Chenopodium segetum",
+          "Cirsium lanceolatum",
+          "Elodea",
+          "Festuca elatior",
+          "Hottonia",
+          "Lamium purpureum",
+          "Lampsana",
+          "Lycopus",
+          "Matricaria discoidea",
+          "Rumex sanguineus",
+          "Salix alba",
+          "Stachys silvaticus "
+        ],
+        "label": "<b>Q 6. 21. 21</b><br><i>Aethusa</i><br><i>Anagallis arvensis</i><br><i>Atriplex latifolia</i><br><i>Atriplex patula</i><br><i>Chenopodium segetum</i><br><i>Cirsium lanceolatum</i><br><i>Elodea</i><br><i>Festuca elatior</i><br><i>Hottonia</i><br><i>Lamium purpureum</i><br><i>Lampsana</i><br><i>Lycopus</i><br><i>Matricaria discoidea</i><br><i>Rumex sanguineus</i><br><i>Salix alba</i><br><i>Stachys silvaticus </i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.833296300605598,
+          51.7806323316149
+        ]
+      },
+      "properties": {
+        "location": "Q 6. 12. 33",
+        "taxa": [
+          "Agrostis canina",
+          "Aira flexuosa",
+          "Alchemilla arvensis",
+          "Arenaria serpyllifolia",
+          "Avena caryophyllea",
+          "Calamagrostis lanceolata",
+          "Carex acutiformis",
+          "Carex hirta",
+          "Carex leporina",
+          "Carex pilulifera",
+          "Chenopodium segetum",
+          "Corrigiola",
+          "Cuscuta epithymum",
+          "Drosera rotundifolia",
+          "Echium",
+          "Equisetum palustre",
+          "Euphrasia officinalis (nemorosa)",
+          "Festuca ovina",
+          "Festuca rubra",
+          "Filago minima",
+          "Fumaria officinalis",
+          "Galeopsis ochroleucum",
+          "Genista anglica",
+          "Hieracium tridentatum",
+          "Hypericum humifusum",
+          "Juncus conglomeratus",
+          "Juncus squarrosus",
+          "Lampsana",
+          "Lonicera",
+          "Malva vulgaris",
+          "Melampyrum pratense",
+          "Molinia",
+          "Panicum lineate",
+          "Populus tremula",
+          "Pteris",
+          "Rubus suberectus",
+          "Rubus ulmifolius",
+          "Sagina procumbens",
+          "Salix aurita",
+          "Salix caprea",
+          "Scirpus silvaticus",
+          "Scleranthus perennis",
+          "Scrophularia nodosa",
+          "Senecio aquatica",
+          "Senecio Fuchsii",
+          "Setaria glauca",
+          "Setaria viridis",
+          "Sonchus oleraceus",
+          "Sorbus",
+          "Stachys silvaticus fl. albis",
+          "Succisa",
+          "Thysselinum",
+          "Trifolium arvense",
+          "Trifolium procumbens",
+          "Veronica arvensis",
+          "Veronica Chamaedrys",
+          "Veronica officinalis",
+          "Veronica serpyllifolia",
+          "Viola silvatica"
+        ],
+        "label": "<b>Q 6. 12. 33</b><br><i>Agrostis canina</i><br><i>Aira flexuosa</i><br><i>Alchemilla arvensis</i><br><i>Arenaria serpyllifolia</i><br><i>Avena caryophyllea</i><br><i>Calamagrostis lanceolata</i><br><i>Carex acutiformis</i><br><i>Carex hirta</i><br><i>Carex leporina</i><br><i>Carex pilulifera</i><br><i>Chenopodium segetum</i><br><i>Corrigiola</i><br><i>Cuscuta epithymum</i><br><i>Drosera rotundifolia</i><br><i>Echium</i><br><i>Equisetum palustre</i><br><i>Euphrasia officinalis (nemorosa)</i><br><i>Festuca ovina</i><br><i>Festuca rubra</i><br><i>Filago minima</i><br><i>Fumaria officinalis</i><br><i>Galeopsis ochroleucum</i><br><i>Genista anglica</i><br><i>Hieracium tridentatum</i><br><i>Hypericum humifusum</i><br><i>Juncus conglomeratus</i><br><i>Juncus squarrosus</i><br><i>Lampsana</i><br><i>Lonicera</i><br><i>Malva vulgaris</i><br><i>Melampyrum pratense</i><br><i>Molinia</i><br><i>Panicum lineate</i><br><i>Populus tremula</i><br><i>Pteris</i><br><i>Rubus suberectus</i><br><i>Rubus ulmifolius</i><br><i>Sagina procumbens</i><br><i>Salix aurita</i><br><i>Salix caprea</i><br><i>Scirpus silvaticus</i><br><i>Scleranthus perennis</i><br><i>Scrophularia nodosa</i><br><i>Senecio aquatica</i><br><i>Senecio Fuchsii</i><br><i>Setaria glauca</i><br><i>Setaria viridis</i><br><i>Sonchus oleraceus</i><br><i>Sorbus</i><br><i>Stachys silvaticus fl. albis</i><br><i>Succisa</i><br><i>Thysselinum</i><br><i>Trifolium arvense</i><br><i>Trifolium procumbens</i><br><i>Veronica arvensis</i><br><i>Veronica Chamaedrys</i><br><i>Veronica officinalis</i><br><i>Veronica serpyllifolia</i><br><i>Viola silvatica</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.833112633759696,
+          51.76190692124797
+        ]
+      },
+      "properties": {
+        "location": "Q 6. 22. 13",
+        "taxa": [
+          "Agrostis canina",
+          "Anagallis arvensis",
+          "Antirrhinum Orontium var. fl. albis",
+          "Arenaria serpyllifolia",
+          "Batrachium hederaceum",
+          "Campanula rapunculus",
+          "Carex acutiformis",
+          "Carex disticha",
+          "Carex hirta",
+          "Chrysanthemum inodorum",
+          "Chenopodium segetum",
+          "Corylus Avellana",
+          "Euphorbia Esula",
+          "Heleocharis acicularis",
+          "Helosciadium inundatum",
+          "Lampsana",
+          "Melampyrum pratense",
+          "Myriophyllum spicatum",
+          "Oenothera biennis",
+          "Pimpinella Saxifraga",
+          "Polystichum Filix ma",
+          "Rumex Hydrolapathum",
+          "Sanguisorba minor",
+          "Stachys silvaticus ",
+          "Trifolium arvense",
+          "Trifolium procumbens"
+        ],
+        "label": "<b>Q 6. 22. 13</b><br><i>Agrostis canina</i><br><i>Anagallis arvensis</i><br><i>Antirrhinum Orontium var. fl. albis</i><br><i>Arenaria serpyllifolia</i><br><i>Batrachium hederaceum</i><br><i>Campanula rapunculus</i><br><i>Carex acutiformis</i><br><i>Carex disticha</i><br><i>Carex hirta</i><br><i>Chrysanthemum inodorum</i><br><i>Chenopodium segetum</i><br><i>Corylus Avellana</i><br><i>Euphorbia Esula</i><br><i>Heleocharis acicularis</i><br><i>Helosciadium inundatum</i><br><i>Lampsana</i><br><i>Melampyrum pratense</i><br><i>Myriophyllum spicatum</i><br><i>Oenothera biennis</i><br><i>Pimpinella Saxifraga</i><br><i>Polystichum Filix ma</i><br><i>Rumex Hydrolapathum</i><br><i>Sanguisorba minor</i><br><i>Stachys silvaticus </i><br><i>Trifolium arvense</i><br><i>Trifolium procumbens</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9234204978109055,
+          51.74280497476801
+        ]
+      },
+      "properties": {
+        "location": "Q 6. 23. 34",
+        "taxa": [
+          "Agrostis canina",
+          "Aira flexuosa",
+          "Ajuga reptans",
+          "Alchemilla arvensis",
+          "Alisma natans",
+          "Anagallis arvensis",
+          "Anemone nemorosa",
+          "Athyrium filix femina",
+          "Avena caryophyllea",
+          "Avena fatua",
+          "Blechnum",
+          "Bromus secalinus",
+          "Callitriche spec.",
+          "Campanula rapunculus",
+          "Carex disticha",
+          "Carex flava lepidocarpa",
+          "Carex hirta",
+          "Carex panicea",
+          "Carex paniculata",
+          "Carex remota",
+          "Carex remota X paniculata: (= C. Bönninghausiana)",
+          "Carex rostrate",
+          "Castanea",
+          "Cerastium semidecandrum",
+          "Chenopodium segetum",
+          "Comarum",
+          "Corylus Avellana",
+          "Drosera intermedia",
+          "Drosera rotundifolia",
+          "Elodea",
+          "Equisetum maximum",
+          "Equisetum palustre",
+          "Erigeron canadense",
+          "Eriophorum angustifolium",
+          "Eupatorium",
+          "Euphrasia stricta",
+          "Euphrasia Odontites",
+          "Fatsetia",
+          "Festuca elatior",
+          "Festuca rubra",
+          "Festuca sciuroides",
+          "Filago minima",
+          "Fumaria officinalis",
+          "Galeopsis ochroleucum",
+          "Galium sylvaticum",
+          "Geranium Robertianum",
+          "Glyceria plicata",
+          "Hedera",
+          "Hieracium tridentatum",
+          "Hottonia",
+          "Hypericum pulchrum",
+          "Hypericum quadrangulum",
+          "Hypericum tetrapterum",
+          "Juncus conglomeratus",
+          "Lactuca muralis",
+          "Lappa minor",
+          "Lathyrus montanus",
+          "Lepidium campestre",
+          "Lonicera",
+          "Luzula pilosa",
+          "Malva vulgaris",
+          "Melampyrum pratense",
+          "Menyanthes",
+          "Mespilus",
+          "Milium effiusum",
+          "Molinia",
+          "Myrica",
+          "Myriophyllum spicatum",
+          "Panicum Crus Galli",
+          "Papaver Argemone",
+          "Pimpinella Saxifraga",
+          "Poa nemoralis",
+          "Polygonum lapathifolium var. somphocarpum",
+          "Polygonum tataricum",
+          "Polystichum Filix ma",
+          "Populus tremula",
+          "Potamogeton crispus",
+          "Potamogeton natans",
+          "Pteris",
+          "Rhynchospora alba",
+          "Rhynchospora fusca",
+          "Rubus idaeus",
+          "Salix aurita",
+          "Sambucus nigra",
+          "Scirpus silvaticus",
+          "Scleranthus perennis",
+          "Scrophularia nodosa",
+          "Scutellaria minor",
+          "Senecio viscosum",
+          "Setaria viridis",
+          "Silene gallica",
+          "Sonchus arvensis",
+          "Sorbus",
+          "Sparganium minimum",
+          "Spergula arvensis",
+          "Stellaria Holostea",
+          "Stellaria uliginosa",
+          "Succisa",
+          "Thrincia",
+          "Thysselinum",
+          "Trifolium hybridum",
+          "Vaccinium Myrtillus",
+          "Valeriana dioica",
+          "Verbascum thapsiforme",
+          "Veronica arvensis",
+          "Vicia hirsuta",
+          "Viola palustris",
+          "Viola silvatica"
+        ],
+        "label": "<b>Q 6. 23. 34</b><br><i>Agrostis canina</i><br><i>Aira flexuosa</i><br><i>Ajuga reptans</i><br><i>Alchemilla arvensis</i><br><i>Alisma natans</i><br><i>Anagallis arvensis</i><br><i>Anemone nemorosa</i><br><i>Athyrium filix femina</i><br><i>Avena caryophyllea</i><br><i>Avena fatua</i><br><i>Blechnum</i><br><i>Bromus secalinus</i><br><i>Callitriche spec.</i><br><i>Campanula rapunculus</i><br><i>Carex disticha</i><br><i>Carex flava lepidocarpa</i><br><i>Carex hirta</i><br><i>Carex panicea</i><br><i>Carex paniculata</i><br><i>Carex remota</i><br><i>Carex remota X paniculata</i>: (= C. Bönninghausiana)<br><i>Carex rostrate</i><br><i>Castanea</i><br><i>Cerastium semidecandrum</i><br><i>Chenopodium segetum</i><br><i>Comarum</i><br><i>Corylus Avellana</i><br><i>Drosera intermedia</i><br><i>Drosera rotundifolia</i><br><i>Elodea</i><br><i>Equisetum maximum</i><br><i>Equisetum palustre</i><br><i>Erigeron canadense</i><br><i>Eriophorum angustifolium</i><br><i>Eupatorium</i><br><i>Euphrasia stricta</i><br><i>Euphrasia Odontites</i><br><i>Fatsetia</i><br><i>Festuca elatior</i><br><i>Festuca rubra</i><br><i>Festuca sciuroides</i><br><i>Filago minima</i><br><i>Fumaria officinalis</i><br><i>Galeopsis ochroleucum</i><br><i>Galium sylvaticum</i><br><i>Geranium Robertianum</i><br><i>Glyceria plicata</i><br><i>Hedera</i><br><i>Hieracium tridentatum</i><br><i>Hottonia</i><br><i>Hypericum pulchrum</i><br><i>Hypericum quadrangulum</i><br><i>Hypericum tetrapterum</i><br><i>Juncus conglomeratus</i><br><i>Lactuca muralis</i><br><i>Lappa minor</i><br><i>Lathyrus montanus</i><br><i>Lepidium campestre</i><br><i>Lonicera</i><br><i>Luzula pilosa</i><br><i>Malva vulgaris</i><br><i>Melampyrum pratense</i><br><i>Menyanthes</i><br><i>Mespilus</i><br><i>Milium effiusum</i><br><i>Molinia</i><br><i>Myrica</i><br><i>Myriophyllum spicatum</i><br><i>Panicum Crus Galli</i><br><i>Papaver Argemone</i><br><i>Pimpinella Saxifraga</i><br><i>Poa nemoralis</i><br><i>Polygonum lapathifolium var. somphocarpum</i><br><i>Polygonum tataricum</i><br><i>Polystichum Filix ma</i><br><i>Populus tremula</i><br><i>Potamogeton crispus</i><br><i>Potamogeton natans</i><br><i>Pteris</i><br><i>Rhynchospora alba</i><br><i>Rhynchospora fusca</i><br><i>Rubus idaeus</i><br><i>Salix aurita</i><br><i>Sambucus nigra</i><br><i>Scirpus silvaticus</i><br><i>Scleranthus perennis</i><br><i>Scrophularia nodosa</i><br><i>Scutellaria minor</i><br><i>Senecio viscosum</i><br><i>Setaria viridis</i><br><i>Silene gallica</i><br><i>Sonchus arvensis</i><br><i>Sorbus</i><br><i>Sparganium minimum</i><br><i>Spergula arvensis</i><br><i>Stellaria Holostea</i><br><i>Stellaria uliginosa</i><br><i>Succisa</i><br><i>Thrincia</i><br><i>Thysselinum</i><br><i>Trifolium hybridum</i><br><i>Vaccinium Myrtillus</i><br><i>Valeriana dioica</i><br><i>Verbascum thapsiforme</i><br><i>Veronica arvensis</i><br><i>Vicia hirsuta</i><br><i>Viola palustris</i><br><i>Viola silvatica</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.797069257828307,
+          51.78076350921468
+        ]
+      },
+      "properties": {
+        "location": "Q 6. 11. 43",
+        "taxa": [
+          "Aira flexuosa",
+          "Avena caryophyllea",
+          "Avena praecox",
+          "Ballota",
+          "Chenopodium segetum",
+          "Cuscuta epithymum",
+          "Drosera rotundifolia",
+          "Elodea",
+          "Festuca ovina",
+          "Filago minima",
+          "Galeopsis ochroleucum",
+          "Genista anglica",
+          "Genista pilosa",
+          "Lonicera",
+          "Luzula campestris",
+          "Lycopus",
+          "Matricaria",
+          "Melampyrum pratense",
+          "Mentha spec.",
+          "Ornithopus",
+          "Panicum lineate",
+          "Pimpinella Saxifraga",
+          "Robinia",
+          "Rumex Hydrolapathum",
+          "Setaria viridis",
+          "Sorbus",
+          "Stellaria glauca",
+          "Thrincia",
+          "Thysselinum",
+          "Trifolium arvense",
+          "Verbascum thapsiforme"
+        ],
+        "label": "<b>Q 6. 11. 43</b><br><i>Aira flexuosa</i><br><i>Avena caryophyllea</i><br><i>Avena praecox</i><br><i>Ballota</i><br><i>Chenopodium segetum</i><br><i>Cuscuta epithymum</i><br><i>Drosera rotundifolia</i><br><i>Elodea</i><br><i>Festuca ovina</i><br><i>Filago minima</i><br><i>Galeopsis ochroleucum</i><br><i>Genista anglica</i><br><i>Genista pilosa</i><br><i>Lonicera</i><br><i>Luzula campestris</i><br><i>Lycopus</i><br><i>Matricaria</i><br><i>Melampyrum pratense</i><br><i>Mentha spec.</i><br><i>Ornithopus</i><br><i>Panicum lineate</i><br><i>Pimpinella Saxifraga</i><br><i>Robinia</i><br><i>Rumex Hydrolapathum</i><br><i>Setaria viridis</i><br><i>Sorbus</i><br><i>Stellaria glauca</i><br><i>Thrincia</i><br><i>Thysselinum</i><br><i>Trifolium arvense</i><br><i>Verbascum thapsiforme</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.815182809595242,
+          51.78069931928715
+        ]
+      },
+      "properties": {
+        "location": "Q 6. 11. 44",
+        "taxa": [
+          "Aira flexuosa",
+          "Avena caryophyllea",
+          "Avena praecox",
+          "Cuscuta epithymum",
+          "Euphrasia officinalis (nemorosa)",
+          "Galium saxatile",
+          "Hieracium tridentatum",
+          "Illecebrum",
+          "Juncus squarrosus",
+          "Malva vulgaris",
+          "Melampyrum pratense",
+          "Molinia",
+          "Poa serotina",
+          "Setaria glauca",
+          "Sorbus",
+          "Spergula Morisonii",
+          "Veronica officinalis"
+        ],
+        "label": "<b>Q 6. 11. 44</b><br><i>Aira flexuosa</i><br><i>Avena caryophyllea</i><br><i>Avena praecox</i><br><i>Cuscuta epithymum</i><br><i>Euphrasia officinalis (nemorosa)</i><br><i>Galium saxatile</i><br><i>Hieracium tridentatum</i><br><i>Illecebrum</i><br><i>Juncus squarrosus</i><br><i>Malva vulgaris</i><br><i>Melampyrum pratense</i><br><i>Molinia</i><br><i>Poa serotina</i><br><i>Setaria glauca</i><br><i>Sorbus</i><br><i>Spergula Morisonii</i><br><i>Veronica officinalis</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.959616525377867,
+          51.74263481374768
+        ]
+      },
+      "properties": {
+        "location": "Q 6. 23. 44",
+        "taxa": [
+          "Alisma natans",
+          "Briza",
+          "Bromus secalinus",
+          "Carex echinata",
+          "Carex flava Oederi",
+          "Carex panicea",
+          "Carex rostrate",
+          "Drosera intermedia",
+          "Drosera rotundifolia",
+          "Epilobium angustifolium",
+          "Festuca rubra",
+          "Filago minima",
+          "Hypericum Elodes",
+          "Juncus lamprocarpus",
+          "Linum catarcticum",
+          "Lycopsis",
+          "Lycopus",
+          "Majanthemum",
+          "Menyanthes",
+          "Molinia",
+          "Myrica",
+          "Nasturtium palustre",
+          "Orchis incarnata",
+          "Pedicularis palustris",
+          "Polygala depressa",
+          "Polygonum tataricum",
+          "Potamogeton natans",
+          "Rhynchospora alba",
+          "Rhynchospora fusca",
+          "Sagina procumbens",
+          "Scirpus caespitosus",
+          "Scirpus fluitans",
+          "Sonchus arvensis",
+          "Sonchus asper",
+          "Sparganium minimum",
+          "Spergula arvensis",
+          "Succisa",
+          "Thysselinum",
+          "Trifolium hybridum",
+          "Vaccinium Oxycoccus",
+          "Veronica arvensis",
+          "Veronica officinalis",
+          "Vicia sativa",
+          "Vicia villosa",
+          "Viola palustris"
+        ],
+        "label": "<b>Q 6. 23. 44</b><br><i>Alisma natans</i><br><i>Briza</i><br><i>Bromus secalinus</i><br><i>Carex echinata</i><br><i>Carex flava Oederi</i><br><i>Carex panicea</i><br><i>Carex rostrate</i><br><i>Drosera intermedia</i><br><i>Drosera rotundifolia</i><br><i>Epilobium angustifolium</i><br><i>Festuca rubra</i><br><i>Filago minima</i><br><i>Hypericum Elodes</i><br><i>Juncus lamprocarpus</i><br><i>Linum catarcticum</i><br><i>Lycopsis</i><br><i>Lycopus</i><br><i>Majanthemum</i><br><i>Menyanthes</i><br><i>Molinia</i><br><i>Myrica</i><br><i>Nasturtium palustre</i><br><i>Orchis incarnata</i><br><i>Pedicularis palustris</i><br><i>Polygala depressa</i><br><i>Polygonum tataricum</i><br><i>Potamogeton natans</i><br><i>Rhynchospora alba</i><br><i>Rhynchospora fusca</i><br><i>Sagina procumbens</i><br><i>Scirpus caespitosus</i><br><i>Scirpus fluitans</i><br><i>Sonchus arvensis</i><br><i>Sonchus asper</i><br><i>Sparganium minimum</i><br><i>Spergula arvensis</i><br><i>Succisa</i><br><i>Thysselinum</i><br><i>Trifolium hybridum</i><br><i>Vaccinium Oxycoccus</i><br><i>Veronica arvensis</i><br><i>Veronica officinalis</i><br><i>Vicia sativa</i><br><i>Vicia villosa</i><br><i>Viola palustris</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.941404368900504,
+          51.73335867648936
+        ]
+      },
+      "properties": {
+        "location": "Q 6. 33. 21",
+        "taxa": [
+          "Alisma natans",
+          "Alisma ranunculoides",
+          "Anagallis arvensis",
+          "Anthoxanthum Puelii",
+          "Arenaria serpyllifolia",
+          "Athyrium filix femina",
+          "Avena caryophyllea",
+          "Avena praecox",
+          "Betula pubescens",
+          "Bromus secalinus",
+          "Bryonia",
+          "Campanula rapunculus",
+          "Carex flava lepidocarpa",
+          "Carex panicea",
+          "Carex rostrate",
+          "Carex stricta",
+          "Centunculus",
+          "Cerastium glomeratum",
+          "Chenopodium segetum",
+          "Comarum",
+          "Equisetum palustre",
+          "Eupatorium",
+          "Euphrasia stricta",
+          "Festuca elatior",
+          "Filago minima",
+          "Fumaria officinalis",
+          "Galium cruciatum",
+          "Hedera",
+          "Hieracium tridentatum",
+          "Hieracium umbellatum",
+          "Hottonia",
+          "Humulus",
+          "Hypericum quadrangulum",
+          "Juncus conglomeratus",
+          "Juncus lamprocarpus",
+          "Lepidium virginicum",
+          "Linum catarcticum",
+          "Lonicera",
+          "Lycopsis",
+          "Lycopus",
+          "Medicago falcata",
+          "Melilotus arvensis",
+          "Myosotis versicolor",
+          "Myrica",
+          "Ornithopus",
+          "Panicum lineate",
+          "Pimpinella Saxifraga",
+          "Polygonum tataricum",
+          "Rubus idaeus",
+          "Sagina procumbens",
+          "Salix aurita",
+          "Scirpus fluitans",
+          "Scirpus setaceus",
+          "Scrophularia nodosa",
+          "Sedum reflexum",
+          "Setaria viridis",
+          "Sherardia",
+          "Silene gallica",
+          "Sonchus arvensis",
+          "Sonchus asper",
+          "Spergula arvensis",
+          "Succisa",
+          "Thysselinum",
+          "Trifolium hybridum",
+          "Trifolium procumbens",
+          "Triglochin palustre",
+          "Valeriana dioica",
+          "Valerianella dentata",
+          "Veronica officinalis",
+          "Veronica scutellata",
+          "Viburnum",
+          "Vicia hirsuta",
+          "Vicia sativa",
+          "Vicia villosa",
+          "Viola canina"
+        ],
+        "label": "<b>Q 6. 33. 21</b><br><i>Alisma natans</i><br><i>Alisma ranunculoides</i><br><i>Anagallis arvensis</i><br><i>Anthoxanthum Puelii</i><br><i>Arenaria serpyllifolia</i><br><i>Athyrium filix femina</i><br><i>Avena caryophyllea</i><br><i>Avena praecox</i><br><i>Betula pubescens</i><br><i>Bromus secalinus</i><br><i>Bryonia</i><br><i>Campanula rapunculus</i><br><i>Carex flava lepidocarpa</i><br><i>Carex panicea</i><br><i>Carex rostrate</i><br><i>Carex stricta</i><br><i>Centunculus</i><br><i>Cerastium glomeratum</i><br><i>Chenopodium segetum</i><br><i>Comarum</i><br><i>Equisetum palustre</i><br><i>Eupatorium</i><br><i>Euphrasia stricta</i><br><i>Festuca elatior</i><br><i>Filago minima</i><br><i>Fumaria officinalis</i><br><i>Galium cruciatum</i><br><i>Hedera</i><br><i>Hieracium tridentatum</i><br><i>Hieracium umbellatum</i><br><i>Hottonia</i><br><i>Humulus</i><br><i>Hypericum quadrangulum</i><br><i>Juncus conglomeratus</i><br><i>Juncus lamprocarpus</i><br><i>Lepidium virginicum</i><br><i>Linum catarcticum</i><br><i>Lonicera</i><br><i>Lycopsis</i><br><i>Lycopus</i><br><i>Medicago falcata</i><br><i>Melilotus arvensis</i><br><i>Myosotis versicolor</i><br><i>Myrica</i><br><i>Ornithopus</i><br><i>Panicum lineate</i><br><i>Pimpinella Saxifraga</i><br><i>Polygonum tataricum</i><br><i>Rubus idaeus</i><br><i>Sagina procumbens</i><br><i>Salix aurita</i><br><i>Scirpus fluitans</i><br><i>Scirpus setaceus</i><br><i>Scrophularia nodosa</i><br><i>Sedum reflexum</i><br><i>Setaria viridis</i><br><i>Sherardia</i><br><i>Silene gallica</i><br><i>Sonchus arvensis</i><br><i>Sonchus asper</i><br><i>Spergula arvensis</i><br><i>Succisa</i><br><i>Thysselinum</i><br><i>Trifolium hybridum</i><br><i>Trifolium procumbens</i><br><i>Triglochin palustre</i><br><i>Valeriana dioica</i><br><i>Valerianella dentata</i><br><i>Veronica officinalis</i><br><i>Veronica scutellata</i><br><i>Viburnum</i><br><i>Vicia hirsuta</i><br><i>Vicia sativa</i><br><i>Vicia villosa</i><br><i>Viola canina</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.924860932549754,
+          51.86451834284381
+        ]
+      },
+      "properties": {
+        "location": "P 6. 53. 32",
+        "taxa": [
+          "Alopecurus agrestis",
+          "Arenaria serpyllifolia",
+          "Asplenium Ruta muraria",
+          "Carex disticha",
+          "Carex vulpina",
+          "Cerastium tetrandrum",
+          "Chenopodium polyspermum",
+          "Clematis Vitalba",
+          "Cornus sanguineus",
+          "Crepis biennis",
+          "Cuscuta europaea",
+          "Dipsacus",
+          "Eryngium campestre",
+          "Euphorbia Peplis",
+          "Festuca arundinacea",
+          "Festuca ovina",
+          "Fumaria officinalis",
+          "Galium elongatum",
+          "Hipputis",
+          "Humulus",
+          "Juncus compressus",
+          "Lamium purpureum",
+          "Lampsana",
+          "Limnanthemum",
+          "Linaria minor",
+          "Malva rotundifolia",
+          "Melilotus arvensis",
+          "Poa compressa",
+          "Rosa dumetorum",
+          "Rumex Hydrolapathum",
+          "Sagina apetala",
+          "Salix alba",
+          "Sambucus nigra",
+          "Scrophularia aquatica",
+          "Scrophularia nodosa",
+          "Sedum acre",
+          "Sonchus arvensis",
+          "Sonchus asper",
+          "Sonchus oleraceus",
+          "Thalictrum flavum",
+          "Veronica Buxbaumii"
+        ],
+        "label": "<b>P 6. 53. 32</b><br><i>Alopecurus agrestis</i><br><i>Arenaria serpyllifolia</i><br><i>Asplenium Ruta muraria</i><br><i>Carex disticha</i><br><i>Carex vulpina</i><br><i>Cerastium tetrandrum</i><br><i>Chenopodium polyspermum</i><br><i>Clematis Vitalba</i><br><i>Cornus sanguineus</i><br><i>Crepis biennis</i><br><i>Cuscuta europaea</i><br><i>Dipsacus</i><br><i>Eryngium campestre</i><br><i>Euphorbia Peplis</i><br><i>Festuca arundinacea</i><br><i>Festuca ovina</i><br><i>Fumaria officinalis</i><br><i>Galium elongatum</i><br><i>Hipputis</i><br><i>Humulus</i><br><i>Juncus compressus</i><br><i>Lamium purpureum</i><br><i>Lampsana</i><br><i>Limnanthemum</i><br><i>Linaria minor</i><br><i>Malva rotundifolia</i><br><i>Melilotus arvensis</i><br><i>Poa compressa</i><br><i>Rosa dumetorum</i><br><i>Rumex Hydrolapathum</i><br><i>Sagina apetala</i><br><i>Salix alba</i><br><i>Sambucus nigra</i><br><i>Scrophularia aquatica</i><br><i>Scrophularia nodosa</i><br><i>Sedum acre</i><br><i>Sonchus arvensis</i><br><i>Sonchus asper</i><br><i>Sonchus oleraceus</i><br><i>Thalictrum flavum</i><br><i>Veronica Buxbaumii</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9245277276958115,
+          51.83643080118058
+        ]
+      },
+      "properties": {
+        "location": "P 6. 63. 14",
+        "taxa": [
+          "Alopecurus agrestis",
+          "Alopecurus pratensis",
+          "Atriplex latifolia",
+          "Batrachium divaricatum",
+          "Carex disticha",
+          "Elodea",
+          "Festuca elatior",
+          "Lamium maculatum",
+          "Lemna polyrrhiza",
+          "Lemna trisulca",
+          "Nasturtium palustre",
+          "Oxalis stricta",
+          "Panicum Crus Galli",
+          "Ranunculus sceleratus",
+          "Senecio aquatica",
+          "Sisymbrium Alliaria",
+          "Sorbus",
+          "Thalictrum flavum"
+        ],
+        "label": "<b>P 6. 63. 14</b><br><i>Alopecurus agrestis</i><br><i>Alopecurus pratensis</i><br><i>Atriplex latifolia</i><br><i>Batrachium divaricatum</i><br><i>Carex disticha</i><br><i>Elodea</i><br><i>Festuca elatior</i><br><i>Lamium maculatum</i><br><i>Lemna polyrrhiza</i><br><i>Lemna trisulca</i><br><i>Nasturtium palustre</i><br><i>Oxalis stricta</i><br><i>Panicum Crus Galli</i><br><i>Ranunculus sceleratus</i><br><i>Senecio aquatica</i><br><i>Sisymbrium Alliaria</i><br><i>Sorbus</i><br><i>Thalictrum flavum</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.888566764661,
+          51.8646778851163
+        ]
+      },
+      "properties": {
+        "location": "P 6. 52. 42",
+        "taxa": [
+          "Alopecurus geniculatus",
+          "Anagallis arvensis",
+          "Bromus inermis",
+          "Calamagrostis Epigeios",
+          "Carex hirta",
+          "Chenopodium glaucum",
+          "Chenopodium polyspermum",
+          "Chrysanthemum inodorum",
+          "Cichorium Intybus",
+          "Cochlearia Armoracia",
+          "Diplotaxis tenuifolius",
+          "Erigeron canadense",
+          "Erucastrum Pollichii",
+          "Euphorbia Esula",
+          "Festuca arundinacea",
+          "Herniaria glabra",
+          "Inula brittanica",
+          "Juncus compressus",
+          "Lamium purpureum",
+          "Lemna polyrrhiza",
+          "Limnanthemum",
+          "Limosella",
+          "Linaria minor",
+          "Lychnis vespertina",
+          "Lycopus",
+          "Malachium",
+          "Medicago falcata",
+          "Melilotus albus",
+          "Melilotus officinalis",
+          "Poa serotina",
+          "Poa trivialis",
+          "Potamogeton pectinatus",
+          "Potamogeton perfoliatus",
+          "Potamogeton pusillus",
+          "Ranunculus sceleratus",
+          "Reseda luteola",
+          "Rumex palustris",
+          "Rumex sanguineus",
+          "Rumex obtusifolius X Hydrolapathum",
+          "Rumex crispus X obtusifolius: ?",
+          "Salix amygdalina",
+          "Salix viminalis",
+          "Salsola: var. ienuifolia",
+          "Saponaria",
+          "Scirpus setaceus",
+          "Silene inflata",
+          "Sinapis arvensis",
+          "Tragopogon orientalis",
+          "Verbascum thapsiforme",
+          "Veronica Anagallis",
+          "Veronica Buxbaumii",
+          "Veronica polita"
+        ],
+        "label": "<b>P 6. 52. 42</b><br><i>Alopecurus geniculatus</i><br><i>Anagallis arvensis</i><br><i>Bromus inermis</i><br><i>Calamagrostis Epigeios</i><br><i>Carex hirta</i><br><i>Chenopodium glaucum</i><br><i>Chenopodium polyspermum</i><br><i>Chrysanthemum inodorum</i><br><i>Cichorium Intybus</i><br><i>Cochlearia Armoracia</i><br><i>Diplotaxis tenuifolius</i><br><i>Erigeron canadense</i><br><i>Erucastrum Pollichii</i><br><i>Euphorbia Esula</i><br><i>Festuca arundinacea</i><br><i>Herniaria glabra</i><br><i>Inula brittanica</i><br><i>Juncus compressus</i><br><i>Lamium purpureum</i><br><i>Lemna polyrrhiza</i><br><i>Limnanthemum</i><br><i>Limosella</i><br><i>Linaria minor</i><br><i>Lychnis vespertina</i><br><i>Lycopus</i><br><i>Malachium</i><br><i>Medicago falcata</i><br><i>Melilotus albus</i><br><i>Melilotus officinalis</i><br><i>Poa serotina</i><br><i>Poa trivialis</i><br><i>Potamogeton pectinatus</i><br><i>Potamogeton perfoliatus</i><br><i>Potamogeton pusillus</i><br><i>Ranunculus sceleratus</i><br><i>Reseda luteola</i><br><i>Rumex palustris</i><br><i>Rumex sanguineus</i><br><i>Rumex obtusifolius X Hydrolapathum</i><br><i>Rumex crispus X obtusifolius</i>: ?<br><i>Salix amygdalina</i><br><i>Salix viminalis</i><br><i>Salsola</i>: var. ienuifolia<br><i>Saponaria</i><br><i>Scirpus setaceus</i><br><i>Silene inflata</i><br><i>Sinapis arvensis</i><br><i>Tragopogon orientalis</i><br><i>Verbascum thapsiforme</i><br><i>Veronica Anagallis</i><br><i>Veronica Buxbaumii</i><br><i>Veronica polita</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8150066564100324,
+          51.76197387273184
+        ]
+      },
+      "properties": {
+        "location": "Q 6. 21. 24",
+        "taxa": [
+          "Alopecurus geniculatus",
+          "Arum maculatum",
+          "Batrachium hederaceum",
+          "Campanula rapunculus",
+          "Carex leporina",
+          "Carlina",
+          "Cirsium lanceolatum",
+          "Eryngium campestre",
+          "Euphorbia Esula",
+          "Festuca ovina",
+          "Helosciadium inundatum",
+          "Juncus conglomeratus",
+          "Juncus squarrosus",
+          "Lampsana",
+          "Matricaria",
+          "Nasturtium palustre",
+          "Panicum Crus Galli",
+          "Peplis",
+          "Pimpinella Saxifraga",
+          "Polygonum Hydropiper",
+          "Polygonum mite",
+          "Polygonum tataricum",
+          "Polystichum Filix ma",
+          "Potamogeton natans",
+          "Pulegium",
+          "Rosa dumetorum",
+          "Scirpus fluitans",
+          "Spergula arvensis",
+          "Stachys silvaticus "
+        ],
+        "label": "<b>Q 6. 21. 24</b><br><i>Alopecurus geniculatus</i><br><i>Arum maculatum</i><br><i>Batrachium hederaceum</i><br><i>Campanula rapunculus</i><br><i>Carex leporina</i><br><i>Carlina</i><br><i>Cirsium lanceolatum</i><br><i>Eryngium campestre</i><br><i>Euphorbia Esula</i><br><i>Festuca ovina</i><br><i>Helosciadium inundatum</i><br><i>Juncus conglomeratus</i><br><i>Juncus squarrosus</i><br><i>Lampsana</i><br><i>Matricaria</i><br><i>Nasturtium palustre</i><br><i>Panicum Crus Galli</i><br><i>Peplis</i><br><i>Pimpinella Saxifraga</i><br><i>Polygonum Hydropiper</i><br><i>Polygonum mite</i><br><i>Polygonum tataricum</i><br><i>Polystichum Filix ma</i><br><i>Potamogeton natans</i><br><i>Pulegium</i><br><i>Rosa dumetorum</i><br><i>Scirpus fluitans</i><br><i>Spergula arvensis</i><br><i>Stachys silvaticus </i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8884631905999925,
+          51.8553153391453
+        ]
+      },
+      "properties": {
+        "location": "P 6. 52. 44",
+        "taxa": [
+          "Alopecurus pratensis",
+          "Anagallis arvensis",
+          "Aster parviflorus",
+          "Atriplex latifolia",
+          "Berula",
+          "Bromus arvensis",
+          "Calamagrostis Epigeios",
+          "Ceratophyllum demersum",
+          "Chrysanthemum inodorum",
+          "Cichorium Intybus",
+          "Crepis biennis",
+          "Diplotaxis tenuifolius",
+          "Erucastrum Pollichii",
+          "Festuca arundinacea",
+          "Fumaria officinalis",
+          "Lamium amplexicaule",
+          "Lamium purpureum",
+          "Lappa minor",
+          "Lemna polyrrhiza",
+          "Lepidium Draba",
+          "Lepidium ruderale",
+          "Matricaria",
+          "Medicago falcata",
+          "Onopordon",
+          "Panicum Crus Galli",
+          "Phalaris canadensis",
+          "Poa serotina",
+          "Polygonum mite",
+          "Rumex palustris",
+          "Salix alba",
+          "Saponaria",
+          "Sedum acre",
+          "Senecio viscosum",
+          "Sinapis arvensis",
+          "Sisymbrium Alliaria",
+          "Sisymbrium Columnae",
+          "Solanum Dulcamara",
+          "Sonchus arvensis",
+          "Stratiotes",
+          "Thalictrum flavum",
+          "Thrincia",
+          "Trifolium hybridum",
+          "Typha angustifolia",
+          "Vicia hirsuta"
+        ],
+        "label": "<b>P 6. 52. 44</b><br><i>Alopecurus pratensis</i><br><i>Anagallis arvensis</i><br><i>Aster parviflorus</i><br><i>Atriplex latifolia</i><br><i>Berula</i><br><i>Bromus arvensis</i><br><i>Calamagrostis Epigeios</i><br><i>Ceratophyllum demersum</i><br><i>Chrysanthemum inodorum</i><br><i>Cichorium Intybus</i><br><i>Crepis biennis</i><br><i>Diplotaxis tenuifolius</i><br><i>Erucastrum Pollichii</i><br><i>Festuca arundinacea</i><br><i>Fumaria officinalis</i><br><i>Lamium amplexicaule</i><br><i>Lamium purpureum</i><br><i>Lappa minor</i><br><i>Lemna polyrrhiza</i><br><i>Lepidium Draba</i><br><i>Lepidium ruderale</i><br><i>Matricaria</i><br><i>Medicago falcata</i><br><i>Onopordon</i><br><i>Panicum Crus Galli</i><br><i>Phalaris canadensis</i><br><i>Poa serotina</i><br><i>Polygonum mite</i><br><i>Rumex palustris</i><br><i>Salix alba</i><br><i>Saponaria</i><br><i>Sedum acre</i><br><i>Senecio viscosum</i><br><i>Sinapis arvensis</i><br><i>Sisymbrium Alliaria</i><br><i>Sisymbrium Columnae</i><br><i>Solanum Dulcamara</i><br><i>Sonchus arvensis</i><br><i>Stratiotes</i><br><i>Thalictrum flavum</i><br><i>Thrincia</i><br><i>Trifolium hybridum</i><br><i>Typha angustifolia</i><br><i>Vicia hirsuta</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.797153638123135,
+          51.79012623479202
+        ]
+      },
+      "properties": {
+        "location": "Q 6. 11. 41",
+        "taxa": [
+          "Amarantus retroflexus",
+          "Andromeda",
+          "Carex pilulifera",
+          "Carex vulgaris",
+          "Cuscuta epithymum",
+          "Drosera intermedia",
+          "Drosera rotundifolia",
+          "Eriophorum angustifolium",
+          "Euphrasia officinalis (nemorosa)",
+          "Festuca ovina",
+          "Festuca rubra",
+          "Galeopsis ochroleucum",
+          "Genista pilosa",
+          "Juncus lamprocarpus",
+          "Juncus squarrosus",
+          "Juncus supinus",
+          "Lycopodium inundatum",
+          "Narthecium",
+          "Rhynchospora alba",
+          "Rhynchospora fusca",
+          "Scirpus caespitosus",
+          "Vicia villosa"
+        ],
+        "label": "<b>Q 6. 11. 41</b><br><i>Amarantus retroflexus</i><br><i>Andromeda</i><br><i>Carex pilulifera</i><br><i>Carex vulgaris</i><br><i>Cuscuta epithymum</i><br><i>Drosera intermedia</i><br><i>Drosera rotundifolia</i><br><i>Eriophorum angustifolium</i><br><i>Euphrasia officinalis (nemorosa)</i><br><i>Festuca ovina</i><br><i>Festuca rubra</i><br><i>Galeopsis ochroleucum</i><br><i>Genista pilosa</i><br><i>Juncus lamprocarpus</i><br><i>Juncus squarrosus</i><br><i>Juncus supinus</i><br><i>Lycopodium inundatum</i><br><i>Narthecium</i><br><i>Rhynchospora alba</i><br><i>Rhynchospora fusca</i><br><i>Scirpus caespitosus</i><br><i>Vicia villosa</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.941290241464417,
+          51.723996051921524
+        ]
+      },
+      "properties": {
+        "location": "Q 6. 33. 23",
+        "taxa": [
+          "Anagallis arvensis",
+          "Bromus secalinus",
+          "Bryonia",
+          "Calamagrostis lanceolata",
+          "Echium",
+          "Erigeron canadense",
+          "Eupatorium",
+          "Fatsetia",
+          "Galeopsis ochroleucum",
+          "Humulus",
+          "Juncus conglomeratus",
+          "Lycopsis",
+          "Lycopus",
+          "Melilotus arvensis",
+          "Molinia",
+          "Myrica",
+          "Panicum Crus Galli",
+          "Polygonum tataricum",
+          "Populus tremula",
+          "Pteris",
+          "Rosa dumetorum",
+          "Sagina procumbens",
+          "Scleranthus perennis",
+          "Sedum purpurascens",
+          "Sedum reflexum",
+          "Setaria viridis",
+          "Sorbus",
+          "Spergula arvensis",
+          "Stachys silvaticus ",
+          "Succisa",
+          "Trifolium arvense",
+          "Viburnum",
+          "Vicia hirsuta"
+        ],
+        "label": "<b>Q 6. 33. 23</b><br><i>Anagallis arvensis</i><br><i>Bromus secalinus</i><br><i>Bryonia</i><br><i>Calamagrostis lanceolata</i><br><i>Echium</i><br><i>Erigeron canadense</i><br><i>Eupatorium</i><br><i>Fatsetia</i><br><i>Galeopsis ochroleucum</i><br><i>Humulus</i><br><i>Juncus conglomeratus</i><br><i>Lycopsis</i><br><i>Lycopus</i><br><i>Melilotus arvensis</i><br><i>Molinia</i><br><i>Myrica</i><br><i>Panicum Crus Galli</i><br><i>Polygonum tataricum</i><br><i>Populus tremula</i><br><i>Pteris</i><br><i>Rosa dumetorum</i><br><i>Sagina procumbens</i><br><i>Scleranthus perennis</i><br><i>Sedum purpurascens</i><br><i>Sedum reflexum</i><br><i>Setaria viridis</i><br><i>Sorbus</i><br><i>Spergula arvensis</i><br><i>Stachys silvaticus </i><br><i>Succisa</i><br><i>Trifolium arvense</i><br><i>Viburnum</i><br><i>Vicia hirsuta</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.888670388424431,
+          51.87404041986857
+        ]
+      },
+      "properties": {
+        "location": "P 6. 52. 24",
+        "taxa": [
+          "Artemisa campestris",
+          "Atriplex latifolia",
+          "Avena sativa",
+          "Brassica nigra",
+          "Briza",
+          "Carduus nutans",
+          "Clematis Vitalba",
+          "Cornus sanguineus",
+          "Cuscuta europaea",
+          "Diplotaxis tenuifolius",
+          "Erucastrum Pollichii",
+          "Eryngium campestre",
+          "Euphorbia Cyparissias",
+          "Euphorbia Esula",
+          "Galium cruciatum",
+          "Knautia",
+          "Lamium maculatum",
+          "Limosella",
+          "Linaria minor",
+          "Lychnis vespertina",
+          "Matricaria",
+          "Medicago falcata",
+          "Melilotus albus",
+          "Melilotus officinalis",
+          "Potamogeton pectinatus",
+          "Potamogeton perfoliatus",
+          "Reseda lutea",
+          "Rhamnus catarctica",
+          "Rumex obtusifolius X Hydrolapathum",
+          "Salvia silvestris",
+          "Saponaria",
+          "Scabiosa",
+          "Solanum Dulcamara",
+          "Sonchus asper",
+          "Sonchus oleraceus"
+        ],
+        "label": "<b>P 6. 52. 24</b><br><i>Artemisa campestris</i><br><i>Atriplex latifolia</i><br><i>Avena sativa</i><br><i>Brassica nigra</i><br><i>Briza</i><br><i>Carduus nutans</i><br><i>Clematis Vitalba</i><br><i>Cornus sanguineus</i><br><i>Cuscuta europaea</i><br><i>Diplotaxis tenuifolius</i><br><i>Erucastrum Pollichii</i><br><i>Eryngium campestre</i><br><i>Euphorbia Cyparissias</i><br><i>Euphorbia Esula</i><br><i>Galium cruciatum</i><br><i>Knautia</i><br><i>Lamium maculatum</i><br><i>Limosella</i><br><i>Linaria minor</i><br><i>Lychnis vespertina</i><br><i>Matricaria</i><br><i>Medicago falcata</i><br><i>Melilotus albus</i><br><i>Melilotus officinalis</i><br><i>Potamogeton pectinatus</i><br><i>Potamogeton perfoliatus</i><br><i>Reseda lutea</i><br><i>Rhamnus catarctica</i><br><i>Rumex obtusifolius X Hydrolapathum</i><br><i>Salvia silvestris</i><br><i>Saponaria</i><br><i>Scabiosa</i><br><i>Solanum Dulcamara</i><br><i>Sonchus asper</i><br><i>Sonchus oleraceus</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.851409728268885,
+          51.78056254621793
+        ]
+      },
+      "properties": {
+        "location": "Q 6. 12. 34",
+        "taxa": [
+          "Athyrium filix femina",
+          "Ballota",
+          "Batrachium hederaceum",
+          "Carex echinata",
+          "Carex flava lepidocarpa",
+          "Carex glauca",
+          "Carex panicea",
+          "Carex rostrate",
+          "Comarum",
+          "Drosera rotundifolia",
+          "Epilobium palustre",
+          "Eriophorum angustifolium",
+          "Festuca elatior",
+          "Genista anglica",
+          "Geum urbanum",
+          "Hottonia",
+          "Juncus conglomeratus",
+          "Juncus lamprocarpus",
+          "Juncus supinus",
+          "Lampsana",
+          "Luzula campestris",
+          "Lycopus",
+          "Lysimachia thyrsiflora",
+          "Matricaria",
+          "Menyanthes",
+          "Montia minor",
+          "Nasturtium officinale",
+          "Panicum Crus Galli",
+          "Pedicularis silvatica",
+          "Peplis",
+          "Pilularia",
+          "Potamogeton natans",
+          "Ranunculus sceleratus",
+          "Rubus ulmifolius",
+          "Sagina procumbens",
+          "Scirpus fluitans",
+          "Scutellaria minor",
+          "Sparganium simplex",
+          "Stachys silvaticus ",
+          "Stellaria uliginosa",
+          "Succisa",
+          "Trifolium hybridum",
+          "Typha latifolia",
+          "Veronica Beccabunga",
+          "Viola palustris"
+        ],
+        "label": "<b>Q 6. 12. 34</b><br><i>Athyrium filix femina</i><br><i>Ballota</i><br><i>Batrachium hederaceum</i><br><i>Carex echinata</i><br><i>Carex flava lepidocarpa</i><br><i>Carex glauca</i><br><i>Carex panicea</i><br><i>Carex rostrate</i><br><i>Comarum</i><br><i>Drosera rotundifolia</i><br><i>Epilobium palustre</i><br><i>Eriophorum angustifolium</i><br><i>Festuca elatior</i><br><i>Genista anglica</i><br><i>Geum urbanum</i><br><i>Hottonia</i><br><i>Juncus conglomeratus</i><br><i>Juncus lamprocarpus</i><br><i>Juncus supinus</i><br><i>Lampsana</i><br><i>Luzula campestris</i><br><i>Lycopus</i><br><i>Lysimachia thyrsiflora</i><br><i>Matricaria</i><br><i>Menyanthes</i><br><i>Montia minor</i><br><i>Nasturtium officinale</i><br><i>Panicum Crus Galli</i><br><i>Pedicularis silvatica</i><br><i>Peplis</i><br><i>Pilularia</i><br><i>Potamogeton natans</i><br><i>Ranunculus sceleratus</i><br><i>Rubus ulmifolius</i><br><i>Sagina procumbens</i><br><i>Scirpus fluitans</i><br><i>Scutellaria minor</i><br><i>Sparganium simplex</i><br><i>Stachys silvaticus </i><br><i>Stellaria uliginosa</i><br><i>Succisa</i><br><i>Trifolium hybridum</i><br><i>Typha latifolia</i><br><i>Veronica Beccabunga</i><br><i>Viola palustris</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9066065378591475,
+          51.85523699143167
+        ]
+      },
+      "properties": {
+        "location": "P 6. 53. 33",
+        "taxa": [
+          "Batrachium divaricatum",
+          "Elodea",
+          "Hipputis",
+          "Hottonia",
+          "Lemna trisulca",
+          "Melilotus officinalis",
+          "Myriophyllum verticillatum",
+          "Pimpinella magna",
+          "Potamogeton natans"
+        ],
+        "label": "<b>P 6. 53. 33</b><br><i>Batrachium divaricatum</i><br><i>Elodea</i><br><i>Hipputis</i><br><i>Hottonia</i><br><i>Lemna trisulca</i><br><i>Melilotus officinalis</i><br><i>Myriophyllum verticillatum</i><br><i>Pimpinella magna</i><br><i>Potamogeton natans</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.90682128504249,
+          51.873962029749265
+        ]
+      },
+      "properties": {
+        "location": "P 6. 53. 13",
+        "taxa": [
+          "Carex acuta",
+          "Cuscuta europaea",
+          "Diplotaxis tenuifolius",
+          "Equisetum palustre",
+          "Erucastrum Pollichii",
+          "Euphorbia Esula",
+          "Hordeum secalinum",
+          "Humulus",
+          "Juncus compressus",
+          "Juncus lamprocarpus",
+          "Lamium maculatum: ook met witte bloemen en allerlei overgangen",
+          "Linaria minor",
+          "Malva vulgaris",
+          "Medicago falcata",
+          "Medicago sativa",
+          "Reseda lutea",
+          "Rumex Hydrolapathum",
+          "Scirpus maritimus",
+          "Solanum Dulcamara",
+          "Sonchus oleraceus",
+          "Thalictrum flavum",
+          "P6, 52, 24",
+          "Tussilago",
+          "Typha angustifolia",
+          "Valeriana dioica",
+          "Veronica Buxbaumii"
+        ],
+        "label": "<b>P 6. 53. 13</b><br><i>Carex acuta</i><br><i>Cuscuta europaea</i><br><i>Diplotaxis tenuifolius</i><br><i>Equisetum palustre</i><br><i>Erucastrum Pollichii</i><br><i>Euphorbia Esula</i><br><i>Hordeum secalinum</i><br><i>Humulus</i><br><i>Juncus compressus</i><br><i>Juncus lamprocarpus</i><br><i>Lamium maculatum</i>: ook met witte bloemen en allerlei overgangen<br><i>Linaria minor</i><br><i>Malva vulgaris</i><br><i>Medicago falcata</i><br><i>Medicago sativa</i><br><i>Reseda lutea</i><br><i>Rumex Hydrolapathum</i><br><i>Scirpus maritimus</i><br><i>Solanum Dulcamara</i><br><i>Sonchus oleraceus</i><br><i>Thalictrum flavum</i><br><i>P6, 52, 24</i><br><i>Tussilago</i><br><i>Typha angustifolia</i><br><i>Valeriana dioica</i><br><i>Veronica Buxbaumii</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.959498593154287,
+          51.73327222204208
+        ]
+      },
+      "properties": {
+        "location": "Q 6. 33. 22",
+        "taxa": [
+          "Chenopodium segetum",
+          "Fumaria officinalis",
+          "Myrica",
+          "Scleranthus perennis",
+          "Sorbus",
+          "Spergula arvensis",
+          "Thysselinum",
+          "Typha latifolia"
+        ],
+        "label": "<b>Q 6. 33. 22</b><br><i>Chenopodium segetum</i><br><i>Fumaria officinalis</i><br><i>Myrica</i><br><i>Scleranthus perennis</i><br><i>Sorbus</i><br><i>Spergula arvensis</i><br><i>Thysselinum</i><br><i>Typha latifolia</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.92497210742987,
+          51.87388083442314
+        ]
+      },
+      "properties": {
+        "location": "P 6. 53. 14",
+        "taxa": [
+          "Eryngium campestre",
+          "Limnanthemum",
+          "Lycopus",
+          "Salix alba",
+          "Salvia silvestris",
+          "Solanum Dulcamara",
+          "Veronica Chamaedrys"
+        ],
+        "label": "<b>P 6. 53. 14</b><br><i>Eryngium campestre</i><br><i>Limnanthemum</i><br><i>Lycopus</i><br><i>Salix alba</i><br><i>Salvia silvestris</i><br><i>Solanum Dulcamara</i><br><i>Veronica Chamaedrys</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.926086797299899,
+          51.96750510501613
+        ]
+      },
+      "properties": {
+        "location": "P 6. 23. 34",
+        "taxa": [
+          "Osmunda",
+          "Oxalis Acetosella",
+          "Teucrium"
+        ],
+        "label": "<b>P 6. 23. 34</b><br><i>Osmunda</i><br><i>Oxalis Acetosella</i><br><i>Teucrium</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9593807173140485,
+          51.7239096208113
+        ]
+      },
+      "properties": {
+        "location": "Q 6. 33. 24",
+        "taxa": [
+          "Sedum acre",
+          "Specularia Speculum",
+          "Spergula arvensis"
+        ],
+        "label": "<b>Q 6. 33. 24</b><br><i>Sedum acre</i><br><i>Specularia Speculum</i><br><i>Spergula arvensis</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.835514099345793,
+          52.00533382770982
+        ]
+      },
+      "properties": {
+        "location": "P 6. 12. 33",
+        "taxa": [
+          "Teucrium"
+        ],
+        "label": "<b>P 6. 12. 33</b><br><i>Teucrium</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9624639176199326,
+          51.96733383571499
+        ]
+      },
+      "properties": {
+        "location": "P 6. 23. 44",
+        "taxa": [
+          "Teucrium"
+        ],
+        "label": "<b>P 6. 23. 44</b><br><i>Teucrium</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.944159893627967,
+          51.95805852714732
+        ]
+      },
+      "properties": {
+        "location": "P 6. 33. 21",
+        "taxa": [
+          "Teucrium"
+        ],
+        "label": "<b>P 6. 33. 21</b><br><i>Teucrium</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.962344620188938,
+          51.957971509697856
+        ]
+      },
+      "properties": {
+        "location": "P 6. 33. 22",
+        "taxa": [
+          "Teucrium"
+        ],
+        "label": "<b>P 6. 33. 22</b><br><i>Teucrium</i>"
+      }
+    }
+  ]
+}
