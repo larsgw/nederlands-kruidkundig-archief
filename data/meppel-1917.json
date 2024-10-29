@@ -1,0 +1,1360 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2698400031022565,
+          52.79869703469737
+        ]
+      },
+      "properties": {
+        "location": "K 6. 47. 42",
+        "taxa": [
+          "Aira caespitosa",
+          "Alisma natans",
+          "Atriplex patula",
+          "Batrachium trichophyllum",
+          "Berula",
+          "Calamagrostis Epigeios",
+          "Chaerophyllum temulum",
+          "Eupatorium",
+          "Geranium Robertianum",
+          "Geum urbanum",
+          "Malaxis Matricaria",
+          "Nasturtium palustre",
+          "Polygonum nodosum",
+          "Potamogeton pectinatus",
+          "Rumex conglomeratus",
+          "Scirpus fluitans",
+          "Stellaria glauca",
+          "Torilis Anthriscus",
+          "Trifolium fragiferum"
+        ],
+        "label": "<b>K 6. 47. 42</b><br><i>Aira caespitosa</i><br><i>Alisma natans</i><br><i>Atriplex patula</i><br><i>Batrachium trichophyllum</i><br><i>Berula</i><br><i>Calamagrostis Epigeios</i><br><i>Chaerophyllum temulum</i><br><i>Eupatorium</i><br><i>Geranium Robertianum</i><br><i>Geum urbanum</i><br><i>Malaxis Matricaria</i><br><i>Nasturtium palustre</i><br><i>Polygonum nodosum</i><br><i>Potamogeton pectinatus</i><br><i>Rumex conglomeratus</i><br><i>Scirpus fluitans</i><br><i>Stellaria glauca</i><br><i>Torilis Anthriscus</i><br><i>Trifolium fragiferum</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.269652065881323,
+          52.78933681425636
+        ]
+      },
+      "properties": {
+        "location": "K 6. 47. 44",
+        "taxa": [
+          "Aira caespitosa",
+          "Arrhenatherum",
+          "Artemisia vulgaris",
+          "Batrachium heterophyllum",
+          "Carex paniculata",
+          "Carex riparia",
+          "Chaerophyllum temulum",
+          "Malaxis Matricaria",
+          "Pastinaca",
+          "Polygonum nodosum",
+          "Potamogeton pectinatus",
+          "Raphanus Raphanistrum",
+          "Rubus Idaeus",
+          "Rumex conglomeratus",
+          "Salix caprea",
+          "Torilis Anthriscus"
+        ],
+        "label": "<b>K 6. 47. 44</b><br><i>Aira caespitosa</i><br><i>Arrhenatherum</i><br><i>Artemisia vulgaris</i><br><i>Batrachium heterophyllum</i><br><i>Carex paniculata</i><br><i>Carex riparia</i><br><i>Chaerophyllum temulum</i><br><i>Malaxis Matricaria</i><br><i>Pastinaca</i><br><i>Polygonum nodosum</i><br><i>Potamogeton pectinatus</i><br><i>Raphanus Raphanistrum</i><br><i>Rubus Idaeus</i><br><i>Rumex conglomeratus</i><br><i>Salix caprea</i><br><i>Torilis Anthriscus</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.213716105257206,
+          52.77101318643219
+        ]
+      },
+      "properties": {
+        "location": "K 6. 57. 13",
+        "taxa": [
+          "Aira caespitosa",
+          "Ajuga reptans",
+          "Chaerophyllum temulum",
+          "Epilobium montanum",
+          "Geum urbanum",
+          "Hedera",
+          "Hieracium vulgatum",
+          "Illecebrum",
+          "Lampsana",
+          "Luzula campestris",
+          "Melampyrum pratense",
+          "Moehringia",
+          "Polygonatum multiflorum",
+          "Polypodium",
+          "Rubus caesius",
+          "Scrophularia nodosa",
+          "Thrincia",
+          "Veronica officinalis"
+        ],
+        "label": "<b>K 6. 57. 13</b><br><i>Aira caespitosa</i><br><i>Ajuga reptans</i><br><i>Chaerophyllum temulum</i><br><i>Epilobium montanum</i><br><i>Geum urbanum</i><br><i>Hedera</i><br><i>Hieracium vulgatum</i><br><i>Illecebrum</i><br><i>Lampsana</i><br><i>Luzula campestris</i><br><i>Melampyrum pratense</i><br><i>Moehringia</i><br><i>Polygonatum multiflorum</i><br><i>Polypodium</i><br><i>Rubus caesius</i><br><i>Scrophularia nodosa</i><br><i>Thrincia</i><br><i>Veronica officinalis</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1941659308057995,
+          52.71497676824361
+        ]
+      },
+      "properties": {
+        "location": "K 6. 66. 44",
+        "taxa": [
+          "Aira caespitosa",
+          "Malaxis Matricaria",
+          "Potamogeton pectinatus",
+          "Rumex conglomeratus",
+          "Symphytum",
+          "Torilis Anthriscus",
+          "Viburnum Opulus"
+        ],
+        "label": "<b>K 6. 66. 44</b><br><i>Aira caespitosa</i><br><i>Malaxis Matricaria</i><br><i>Potamogeton pectinatus</i><br><i>Rumex conglomeratus</i><br><i>Symphytum</i><br><i>Torilis Anthriscus</i><br><i>Viburnum Opulus</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.212837974809444,
+          52.72421095476513
+        ]
+      },
+      "properties": {
+        "location": "K 6. 67. 31",
+        "taxa": [
+          "Aira caespitosa"
+        ],
+        "label": "<b>K 6. 67. 31</b><br><i>Aira caespitosa</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.212662606776131,
+          52.71485043959591
+        ]
+      },
+      "properties": {
+        "location": "K 6. 67. 33",
+        "taxa": [
+          "Aira caespitosa",
+          "Potamogeton pectinatus",
+          "Symphytum",
+          "Vicia sepium"
+        ],
+        "label": "<b>K 6. 67. 33</b><br><i>Aira caespitosa</i><br><i>Potamogeton pectinatus</i><br><i>Symphytum</i><br><i>Vicia sepium</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.13851567807238,
+          52.70597783658248
+        ]
+      },
+      "properties": {
+        "location": "L 6. 16. 11",
+        "taxa": [
+          "Aira caespitosa",
+          "Butomus",
+          "Calamagrostis stricta",
+          "Carex acuta",
+          "Carex disticha",
+          "Carex paniculata",
+          "Carex rostrata",
+          "Heleocharis palustris",
+          "Lappa minor",
+          "Menyanthes",
+          "Oenanthe fistulosa",
+          "Potamogeton compressus",
+          "Rubus caesius",
+          "Scirpus fluitans",
+          "Sparganium minimum",
+          "Typha latifolia",
+          "Valeriana dioica"
+        ],
+        "label": "<b>L 6. 16. 11</b><br><i>Aira caespitosa</i><br><i>Butomus</i><br><i>Calamagrostis stricta</i><br><i>Carex acuta</i><br><i>Carex disticha</i><br><i>Carex paniculata</i><br><i>Carex rostrata</i><br><i>Heleocharis palustris</i><br><i>Lappa minor</i><br><i>Menyanthes</i><br><i>Oenanthe fistulosa</i><br><i>Potamogeton compressus</i><br><i>Rubus caesius</i><br><i>Scirpus fluitans</i><br><i>Sparganium minimum</i><br><i>Typha latifolia</i><br><i>Valeriana dioica</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.138356245490783,
+          52.69661714249205
+        ]
+      },
+      "properties": {
+        "location": "L 6. 16. 13",
+        "taxa": [
+          "Aira caespitosa",
+          "Calamagrostis stricta",
+          "Carduus crispus",
+          "Carex acuta",
+          "Carex acutiformis",
+          "Lappa minor",
+          "Menyanthes",
+          "Peplis",
+          "Polygonum minus",
+          "Potamogeton compressus",
+          "Salix amygdalina"
+        ],
+        "label": "<b>L 6. 16. 13</b><br><i>Aira caespitosa</i><br><i>Calamagrostis stricta</i><br><i>Carduus crispus</i><br><i>Carex acuta</i><br><i>Carex acutiformis</i><br><i>Lappa minor</i><br><i>Menyanthes</i><br><i>Peplis</i><br><i>Polygonum minus</i><br><i>Potamogeton compressus</i><br><i>Salix amygdalina</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.156845391687957,
+          52.69649950139497
+        ]
+      },
+      "properties": {
+        "location": "L 6. 16. 14",
+        "taxa": [
+          "Aira caespitosa",
+          "Allium vineale",
+          "Brassica oleracea",
+          "Carduus crispus",
+          "Carex acuta",
+          "Carex rostrata",
+          "Chaerophyllum temulum",
+          "Chrysanthemum inodorum",
+          "Cuscuta europaea",
+          "Equisetum palustre",
+          "Festuca gigantea",
+          "Geum urbanum",
+          "Hordeum murinum",
+          "Nasturtium palustre",
+          "Polygonum minus",
+          "Prunus spinosa",
+          "Scrophularia nodosa",
+          "Symphytum",
+          "Typha latifolia"
+        ],
+        "label": "<b>L 6. 16. 14</b><br><i>Aira caespitosa</i><br><i>Allium vineale</i><br><i>Brassica oleracea</i><br><i>Carduus crispus</i><br><i>Carex acuta</i><br><i>Carex rostrata</i><br><i>Chaerophyllum temulum</i><br><i>Chrysanthemum inodorum</i><br><i>Cuscuta europaea</i><br><i>Equisetum palustre</i><br><i>Festuca gigantea</i><br><i>Geum urbanum</i><br><i>Hordeum murinum</i><br><i>Nasturtium palustre</i><br><i>Polygonum minus</i><br><i>Prunus spinosa</i><br><i>Scrophularia nodosa</i><br><i>Symphytum</i><br><i>Typha latifolia</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.193652164140441,
+          52.68689498344655
+        ]
+      },
+      "properties": {
+        "location": "L 6. 16. 42",
+        "taxa": [
+          "Aira caespitosa",
+          "Carex panicea",
+          "Cerastium arvense",
+          "Chrysanthemum inodorum",
+          "Crepis virens",
+          "Erodium pimpinellifolium",
+          "Euphorbia Helioscopia",
+          "Festuca rubra",
+          "Galeopsis versicolor",
+          "Galium Aparine",
+          "Heleocharis palustris",
+          "Juncus silvaticus",
+          "Lathyrus pratensis",
+          "Leersia",
+          "Luzula campestris",
+          "Lychnis vespertina",
+          "Menyanthes",
+          "Myosotis intermedia",
+          "Pedicularis palustris",
+          "Pedicularis silvestris",
+          "Poa serotina",
+          "Poa trivialis",
+          "Polygonum nodosum",
+          "Raphanus Raphanistrum",
+          "Setaria viridis",
+          "Sonchus arvensis",
+          "Stellaria glauca",
+          "Thymus",
+          "Veronica scutellata",
+          "Viburnum Opulus",
+          "Vicia hirsuta"
+        ],
+        "label": "<b>L 6. 16. 42</b><br><i>Aira caespitosa</i><br><i>Carex panicea</i><br><i>Cerastium arvense</i><br><i>Chrysanthemum inodorum</i><br><i>Crepis virens</i><br><i>Erodium pimpinellifolium</i><br><i>Euphorbia Helioscopia</i><br><i>Festuca rubra</i><br><i>Galeopsis versicolor</i><br><i>Galium Aparine</i><br><i>Heleocharis palustris</i><br><i>Juncus silvaticus</i><br><i>Lathyrus pratensis</i><br><i>Leersia</i><br><i>Luzula campestris</i><br><i>Lychnis vespertina</i><br><i>Menyanthes</i><br><i>Myosotis intermedia</i><br><i>Pedicularis palustris</i><br><i>Pedicularis silvestris</i><br><i>Poa serotina</i><br><i>Poa trivialis</i><br><i>Polygonum nodosum</i><br><i>Raphanus Raphanistrum</i><br><i>Setaria viridis</i><br><i>Sonchus arvensis</i><br><i>Stellaria glauca</i><br><i>Thymus</i><br><i>Veronica scutellata</i><br><i>Viburnum Opulus</i><br><i>Vicia hirsuta</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.212137017671121,
+          52.686768758638564
+        ]
+      },
+      "properties": {
+        "location": "L 6. 17. 31",
+        "taxa": [
+          "Aira caespitosa",
+          "Alisma natans",
+          "Alopecurus geniculatus",
+          "A. Puelii",
+          "Carex acuta",
+          "Carex hirta",
+          "Carex remota",
+          "Carex riparia",
+          "Centaurea cyanea",
+          "Chrysanthemum inodorum",
+          "Corylus",
+          "Eupatorium",
+          "Festuca rubra",
+          "Galeopsis versicolor",
+          "Heleocharis palustris",
+          "Juncus silvaticus",
+          "Myosotis intermedia",
+          "Oenanthe fistulosa",
+          "Oxalis stricta",
+          "Polygonum Dumetorum",
+          "Polygonum minus",
+          "Raphanus Raphanistrum",
+          "Rubus caesius",
+          "Rubus Idaeus",
+          "Rubus plicatus",
+          "Rubus suberectus",
+          "Rumex conglomeratus",
+          "Rumex sanguineus",
+          "Salix alba",
+          "Salix viminalis",
+          "Scrophularia nodosa",
+          "Stellaria glauca",
+          "Symphytum",
+          "Viburnum Opulus"
+        ],
+        "label": "<b>L 6. 17. 31</b><br><i>Aira caespitosa</i><br><i>Alisma natans</i><br><i>Alopecurus geniculatus</i><br><i>A. Puelii</i><br><i>Carex acuta</i><br><i>Carex hirta</i><br><i>Carex remota</i><br><i>Carex riparia</i><br><i>Centaurea cyanea</i><br><i>Chrysanthemum inodorum</i><br><i>Corylus</i><br><i>Eupatorium</i><br><i>Festuca rubra</i><br><i>Galeopsis versicolor</i><br><i>Heleocharis palustris</i><br><i>Juncus silvaticus</i><br><i>Myosotis intermedia</i><br><i>Oenanthe fistulosa</i><br><i>Oxalis stricta</i><br><i>Polygonum Dumetorum</i><br><i>Polygonum minus</i><br><i>Raphanus Raphanistrum</i><br><i>Rubus caesius</i><br><i>Rubus Idaeus</i><br><i>Rubus plicatus</i><br><i>Rubus suberectus</i><br><i>Rumex conglomeratus</i><br><i>Rumex sanguineus</i><br><i>Salix alba</i><br><i>Salix viminalis</i><br><i>Scrophularia nodosa</i><br><i>Stellaria glauca</i><br><i>Symphytum</i><br><i>Viburnum Opulus</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.322646258296092,
+          52.667230316861186
+        ]
+      },
+      "properties": {
+        "location": "L 6. 28. 21",
+        "taxa": [
+          "Aira caespitosa",
+          "Alopecurus geniculatus",
+          "A. Puelii",
+          "Berula",
+          "Centaurea cyanea",
+          "Chaerophyllum temulum",
+          "Epilobium parviflorum",
+          "Festuca rubra",
+          "Lampsana",
+          "Lappa minor",
+          "Nasturtium palustre",
+          "Osmunda",
+          "Pteris",
+          "Rumex conglomeratus",
+          "Scrophularia nodosa"
+        ],
+        "label": "<b>L 6. 28. 21</b><br><i>Aira caespitosa</i><br><i>Alopecurus geniculatus</i><br><i>A. Puelii</i><br><i>Berula</i><br><i>Centaurea cyanea</i><br><i>Chaerophyllum temulum</i><br><i>Epilobium parviflorum</i><br><i>Festuca rubra</i><br><i>Lampsana</i><br><i>Lappa minor</i><br><i>Nasturtium palustre</i><br><i>Osmunda</i><br><i>Pteris</i><br><i>Rumex conglomeratus</i><br><i>Scrophularia nodosa</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.285693719806648,
+          52.6675142008108
+        ]
+      },
+      "properties": {
+        "location": "L 6. 28. 11",
+        "taxa": [
+          "Alopecurus geniculatus",
+          "A. Puelii",
+          "Berula",
+          "Carex pilulifera",
+          "Filago minima",
+          "Gentiana Pneumonanthe",
+          "Heleocharis palustris",
+          "Juncus squarrosus",
+          "Lemna polyrrhiza",
+          "Luzula campestris",
+          "Lycopodium inundatum",
+          "Melampyrum pratense",
+          "Oenothera biennis",
+          "Populus nigra",
+          "Raphanus Raphanistrum",
+          "Stellaria glauca",
+          "Stellaria uliginosa",
+          "Teesdalia",
+          "Veronica officinalis",
+          "Viburnum Opulus"
+        ],
+        "label": "<b>L 6. 28. 11</b><br><i>Alopecurus geniculatus</i><br><i>A. Puelii</i><br><i>Berula</i><br><i>Carex pilulifera</i><br><i>Filago minima</i><br><i>Gentiana Pneumonanthe</i><br><i>Heleocharis palustris</i><br><i>Juncus squarrosus</i><br><i>Lemna polyrrhiza</i><br><i>Luzula campestris</i><br><i>Lycopodium inundatum</i><br><i>Melampyrum pratense</i><br><i>Oenothera biennis</i><br><i>Populus nigra</i><br><i>Raphanus Raphanistrum</i><br><i>Stellaria glauca</i><br><i>Stellaria uliginosa</i><br><i>Teesdalia</i><br><i>Veronica officinalis</i><br><i>Viburnum Opulus</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.304170057582351,
+          52.66737369389812
+        ]
+      },
+      "properties": {
+        "location": "L 6. 28. 12",
+        "taxa": [
+          "Alopecurus geniculatus",
+          "Carduus crispus",
+          "Melampyrum pratense",
+          "Osmunda",
+          "Teesdalia",
+          "Trifolium hybridum"
+        ],
+        "label": "<b>L 6. 28. 12</b><br><i>Alopecurus geniculatus</i><br><i>Carduus crispus</i><br><i>Melampyrum pratense</i><br><i>Osmunda</i><br><i>Teesdalia</i><br><i>Trifolium hybridum</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.232956246944914,
+          52.80832499344338
+        ]
+      },
+      "properties": {
+        "location": "K 6. 47. 14",
+        "taxa": [
+          "Ammophila",
+          "Arnica",
+          "Carex flava",
+          "Carex panicea",
+          "Cicendia",
+          "Empetrum",
+          "Filago minima",
+          "Galium Saxatile",
+          "Gentiana Pneumonanthe",
+          "Heleocharis palustris",
+          "Juncus squarrosus",
+          "Juncus supinus",
+          "Lycopodium clavatum",
+          "Lycopodium inundatum",
+          "Pedicularis palustris",
+          "Peplis",
+          "Potamogeton polygonifolius",
+          "Radiola",
+          "Rhynchospora alba",
+          "Rhynchospora fusca",
+          "Scirpus caesius",
+          "Sempervivum",
+          "Solidago",
+          "Thymus",
+          "Utricularia minor"
+        ],
+        "label": "<b>K 6. 47. 14</b><br><i>Ammophila</i><br><i>Arnica</i><br><i>Carex flava</i><br><i>Carex panicea</i><br><i>Cicendia</i><br><i>Empetrum</i><br><i>Filago minima</i><br><i>Galium Saxatile</i><br><i>Gentiana Pneumonanthe</i><br><i>Heleocharis palustris</i><br><i>Juncus squarrosus</i><br><i>Juncus supinus</i><br><i>Lycopodium clavatum</i><br><i>Lycopodium inundatum</i><br><i>Pedicularis palustris</i><br><i>Peplis</i><br><i>Potamogeton polygonifolius</i><br><i>Radiola</i><br><i>Rhynchospora alba</i><br><i>Rhynchospora fusca</i><br><i>Scirpus caesius</i><br><i>Sempervivum</i><br><i>Solidago</i><br><i>Thymus</i><br><i>Utricularia minor</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.267217247738556,
+          52.66765183755555
+        ]
+      },
+      "properties": {
+        "location": "L 6. 27. 22",
+        "taxa": [
+          "Andromeda",
+          "A. Puelii",
+          "Arrhenatherum",
+          "Avena Caryophyllea",
+          "Blechnum",
+          "Carex glauca",
+          "Carex panicea",
+          "Carex pilulifera",
+          "Empetrum",
+          "Festuca rubra",
+          "Filago minima",
+          "Gentiana Pneumonanthe",
+          "Gnaphalium silvaticum",
+          "Hedera",
+          "Illecebrum",
+          "Juncus squarrosus",
+          "Melampyrum pratense",
+          "Polypodium",
+          "Rhynchospora alba",
+          "Rhynchospora fusca",
+          "Teesdalia",
+          "Trifolium hybridum",
+          "Vaccinium Oxycoccus"
+        ],
+        "label": "<b>L 6. 27. 22</b><br><i>Andromeda</i><br><i>A. Puelii</i><br><i>Arrhenatherum</i><br><i>Avena Caryophyllea</i><br><i>Blechnum</i><br><i>Carex glauca</i><br><i>Carex panicea</i><br><i>Carex pilulifera</i><br><i>Empetrum</i><br><i>Festuca rubra</i><br><i>Filago minima</i><br><i>Gentiana Pneumonanthe</i><br><i>Gnaphalium silvaticum</i><br><i>Hedera</i><br><i>Illecebrum</i><br><i>Juncus squarrosus</i><br><i>Melampyrum pratense</i><br><i>Polypodium</i><br><i>Rhynchospora alba</i><br><i>Rhynchospora fusca</i><br><i>Teesdalia</i><br><i>Trifolium hybridum</i><br><i>Vaccinium Oxycoccus</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.248740644147779,
+          52.667786604089784
+        ]
+      },
+      "properties": {
+        "location": "L 6. 27. 21",
+        "taxa": [
+          "A. Puelii",
+          "Arnica",
+          "Atriplex patula",
+          "Carex panicea",
+          "Carex pilulifera",
+          "Cerastium arvense",
+          "Empetrum",
+          "Filago minima",
+          "Gentiana Pneumonanthe",
+          "Gnaphalium dioicum",
+          "Juncus squarrosus",
+          "Juncus supinus",
+          "Juncus silvaticus",
+          "Luzula campestris",
+          "Lycopodium clavatum",
+          "Lycopodium inundatum",
+          "Majanthemum",
+          "Nasturtium palustre",
+          "Polygonum minus",
+          "Potamogeton alpinus",
+          "Rhynchospora alba",
+          "Rhynchospora fusca",
+          "Symphytum",
+          "Teesdalia",
+          "Trifolium hybridum",
+          "Veronica officinalis"
+        ],
+        "label": "<b>L 6. 27. 21</b><br><i>A. Puelii</i><br><i>Arnica</i><br><i>Atriplex patula</i><br><i>Carex panicea</i><br><i>Carex pilulifera</i><br><i>Cerastium arvense</i><br><i>Empetrum</i><br><i>Filago minima</i><br><i>Gentiana Pneumonanthe</i><br><i>Gnaphalium dioicum</i><br><i>Juncus squarrosus</i><br><i>Juncus supinus</i><br><i>Juncus silvaticus</i><br><i>Luzula campestris</i><br><i>Lycopodium clavatum</i><br><i>Lycopodium inundatum</i><br><i>Majanthemum</i><br><i>Nasturtium palustre</i><br><i>Polygonum minus</i><br><i>Potamogeton alpinus</i><br><i>Rhynchospora alba</i><br><i>Rhynchospora fusca</i><br><i>Symphytum</i><br><i>Teesdalia</i><br><i>Trifolium hybridum</i><br><i>Veronica officinalis</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2700280325870805,
+          52.80805723132361
+        ]
+      },
+      "properties": {
+        "location": "K 6. 47. 24",
+        "taxa": [
+          "Arnica",
+          "Carex pilulifera",
+          "Centaurea cyanea",
+          "Convallaria",
+          "Empetrum",
+          "Galeopsis ochroleuca",
+          "Galium Saxatile",
+          "Gnaphalium dioicum",
+          "Gnaphalium silvaticum",
+          "Hedera",
+          "Ilex",
+          "Juncus squarrosus",
+          "Juniperus",
+          "Melampyrum pratense",
+          "Myosotis intermedia",
+          "Polypodium",
+          "Polystichum Filix mas",
+          "Sedum purpureum",
+          "Solidago",
+          "Spergularia rubra",
+          "Teesdalia",
+          "Thymus",
+          "Torilis Anthriscus",
+          "Vaccinium Myrthillus"
+        ],
+        "label": "<b>K 6. 47. 24</b><br><i>Arnica</i><br><i>Carex pilulifera</i><br><i>Centaurea cyanea</i><br><i>Convallaria</i><br><i>Empetrum</i><br><i>Galeopsis ochroleuca</i><br><i>Galium Saxatile</i><br><i>Gnaphalium dioicum</i><br><i>Gnaphalium silvaticum</i><br><i>Hedera</i><br><i>Ilex</i><br><i>Juncus squarrosus</i><br><i>Juniperus</i><br><i>Melampyrum pratense</i><br><i>Myosotis intermedia</i><br><i>Polypodium</i><br><i>Polystichum Filix mas</i><br><i>Sedum purpureum</i><br><i>Solidago</i><br><i>Spergularia rubra</i><br><i>Teesdalia</i><br><i>Thymus</i><br><i>Torilis Anthriscus</i><br><i>Vaccinium Myrthillus</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.21424401799237,
+          52.79909424564553
+        ]
+      },
+      "properties": {
+        "location": "K 6. 47. 31",
+        "taxa": [
+          "Arnica",
+          "Carex glauca",
+          "Carex pilulifera",
+          "Empetrum",
+          "Galium Saxatile",
+          "Gnaphalium dioicum",
+          "Hieracium vulgatum",
+          "Juncus squarrosus",
+          "Juniperus",
+          "Polypodium",
+          "Rhynchospora alba",
+          "Rhynchospora fusca",
+          "Solidago",
+          "Teesdalia",
+          "Thymus",
+          "Vaccinium Myrthillus",
+          "Viola silvatica"
+        ],
+        "label": "<b>K 6. 47. 31</b><br><i>Arnica</i><br><i>Carex glauca</i><br><i>Carex pilulifera</i><br><i>Empetrum</i><br><i>Galium Saxatile</i><br><i>Gnaphalium dioicum</i><br><i>Hieracium vulgatum</i><br><i>Juncus squarrosus</i><br><i>Juniperus</i><br><i>Polypodium</i><br><i>Rhynchospora alba</i><br><i>Rhynchospora fusca</i><br><i>Solidago</i><br><i>Teesdalia</i><br><i>Thymus</i><br><i>Vaccinium Myrthillus</i><br><i>Viola silvatica</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.175501737369329,
+          52.705739616289996
+        ]
+      },
+      "properties": {
+        "location": "L 6. 16. 21",
+        "taxa": [
+          "Arrhenatherum",
+          "Batrachium divaricatum",
+          "Butomus",
+          "Carex vesicaria",
+          "Equisetum palustre",
+          "Lampsana",
+          "Oxalis stricta",
+          "Pedicularis palustris",
+          "Poa serotina",
+          "Polygonum minus",
+          "Polygonum nodosum",
+          "Potamogeton compressus",
+          "Potamogeton compressus",
+          "Potamogeton obtusifolius",
+          "Prunus spinosa",
+          "Salix cinerea X viminalis",
+          "Scirpus maritimus",
+          "Scirpus silvaticus",
+          "Thymus"
+        ],
+        "label": "<b>L 6. 16. 21</b><br><i>Arrhenatherum</i><br><i>Batrachium divaricatum</i><br><i>Butomus</i><br><i>Carex vesicaria</i><br><i>Equisetum palustre</i><br><i>Lampsana</i><br><i>Oxalis stricta</i><br><i>Pedicularis palustris</i><br><i>Poa serotina</i><br><i>Polygonum minus</i><br><i>Polygonum nodosum</i><br><i>Potamogeton compressus</i><br><i>Potamogeton compressus</i><br><i>Potamogeton obtusifolius</i><br><i>Prunus spinosa</i><br><i>Salix cinerea X viminalis</i><br><i>Scirpus maritimus</i><br><i>Scirpus silvaticus</i><br><i>Thymus</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.193823335853432,
+          52.69625560081565
+        ]
+      },
+      "properties": {
+        "location": "L 6. 16. 24",
+        "taxa": [
+          "Artemisia vulgaris",
+          "Carex acuta",
+          "Melilotus arvensis",
+          "Oenanthe fistulosa"
+        ],
+        "label": "<b>L 6. 16. 24</b><br><i>Artemisia vulgaris</i><br><i>Carex acuta</i><br><i>Melilotus arvensis</i><br><i>Oenanthe fistulosa</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.213891989838642,
+          52.780373563065744
+        ]
+      },
+      "properties": {
+        "location": "K 6. 57. 11",
+        "taxa": [
+          "Atriplex patula",
+          "Carex leporina",
+          "Chaerophyllum temulum",
+          "Chrysanthemum segetum",
+          "Epilobium parviflorum",
+          "Euphorbia Helioscopia",
+          "Galium Aparine",
+          "Galium Saxatile",
+          "Geum urbanum",
+          "Hieracium vulgatum",
+          "Illecebrum",
+          "Lampsana",
+          "Myosotis intermedia",
+          "Nasturtium palustre",
+          "Polypodium",
+          "Prunus spinosa",
+          "Rubus caesius",
+          "Stellaria glauca",
+          "Veronica agrestis",
+          "Veronica officinalis"
+        ],
+        "label": "<b>K 6. 57. 11</b><br><i>Atriplex patula</i><br><i>Carex leporina</i><br><i>Chaerophyllum temulum</i><br><i>Chrysanthemum segetum</i><br><i>Epilobium parviflorum</i><br><i>Euphorbia Helioscopia</i><br><i>Galium Aparine</i><br><i>Galium Saxatile</i><br><i>Geum urbanum</i><br><i>Hieracium vulgatum</i><br><i>Illecebrum</i><br><i>Lampsana</i><br><i>Myosotis intermedia</i><br><i>Nasturtium palustre</i><br><i>Polypodium</i><br><i>Prunus spinosa</i><br><i>Rubus caesius</i><br><i>Stellaria glauca</i><br><i>Veronica agrestis</i><br><i>Veronica officinalis</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.12033368976396,
+          52.7248140198969
+        ]
+      },
+      "properties": {
+        "location": "K 6. 65. 42",
+        "taxa": [
+          "Berula",
+          "Butomus",
+          "Calla",
+          "Carex rostrata",
+          "Centaurea cyanea",
+          "Eupatorium",
+          "Hieracium boreale",
+          "Menyanthes",
+          "Oenanthe fistulosa",
+          "Osmunda",
+          "Polygonatum multiflorum",
+          "Polygonum nodosum",
+          "Polygonum tataricum",
+          "Polystichum Thelypteris",
+          "Potamogeton obtusifolius",
+          "Ranunculus sceleratus",
+          "Symphytum",
+          "Veronica officinalis"
+        ],
+        "label": "<b>K 6. 65. 42</b><br><i>Berula</i><br><i>Butomus</i><br><i>Calla</i><br><i>Carex rostrata</i><br><i>Centaurea cyanea</i><br><i>Eupatorium</i><br><i>Hieracium boreale</i><br><i>Menyanthes</i><br><i>Oenanthe fistulosa</i><br><i>Osmunda</i><br><i>Polygonatum multiflorum</i><br><i>Polygonum nodosum</i><br><i>Polygonum tataricum</i><br><i>Polystichum Thelypteris</i><br><i>Potamogeton obtusifolius</i><br><i>Ranunculus sceleratus</i><br><i>Symphytum</i><br><i>Veronica officinalis</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.19399459138837,
+          52.70561619578918
+        ]
+      },
+      "properties": {
+        "location": "L 6. 16. 22",
+        "taxa": [
+          "Berula",
+          "Cornus sanguinea",
+          "Galium Aparine",
+          "Rumex conglomeratus",
+          "Symphytum"
+        ],
+        "label": "<b>L 6. 16. 22</b><br><i>Berula</i><br><i>Cornus sanguinea</i><br><i>Galium Aparine</i><br><i>Rumex conglomeratus</i><br><i>Symphytum</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.102592101956056,
+          52.77172922046182
+        ]
+      },
+      "properties": {
+        "location": "K 6. 55. 23",
+        "taxa": [
+          "Butomus",
+          "Carex acuta",
+          "Lemna polyrrhiza",
+          "Menyanthes",
+          "Polystichum Thelypteris"
+        ],
+        "label": "<b>K 6. 55. 23</b><br><i>Butomus</i><br><i>Carex acuta</i><br><i>Lemna polyrrhiza</i><br><i>Menyanthes</i><br><i>Polystichum Thelypteris</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.102288034564819,
+          52.75300800429195
+        ]
+      },
+      "properties": {
+        "location": "K 6. 55. 43",
+        "taxa": [
+          "Butomus",
+          "Calamagrostis stricta",
+          "Carex acuta",
+          "Carex filiformis",
+          "Carex flava",
+          "Carex panicea",
+          "Carex rostrata",
+          "Cirsium anglicum",
+          "Eupatorium",
+          "Galium uliginosum",
+          "Juncus silvaticus",
+          "Lemna polyrrhiza",
+          "Menyanthes",
+          "Oenanthe fistulosa",
+          "Pedicularis palustris",
+          "Polystichum Thelypteris",
+          "Valeriana dioica"
+        ],
+        "label": "<b>K 6. 55. 43</b><br><i>Butomus</i><br><i>Calamagrostis stricta</i><br><i>Carex acuta</i><br><i>Carex filiformis</i><br><i>Carex flava</i><br><i>Carex panicea</i><br><i>Carex rostrata</i><br><i>Cirsium anglicum</i><br><i>Eupatorium</i><br><i>Galium uliginosum</i><br><i>Juncus silvaticus</i><br><i>Lemna polyrrhiza</i><br><i>Menyanthes</i><br><i>Oenanthe fistulosa</i><br><i>Pedicularis palustris</i><br><i>Polystichum Thelypteris</i><br><i>Valeriana dioica</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.120489409854374,
+          52.734174677691776
+        ]
+      },
+      "properties": {
+        "location": "K 6. 65. 24",
+        "taxa": [
+          "Butomus",
+          "Hieracium boreale",
+          "Lathyrus palustris",
+          "Lemna polyrrhiza",
+          "Luzula campestris",
+          "Nasturtium officinale",
+          "Oenanthe fistulosa",
+          "Osmunda",
+          "Polystichum Thelypteris",
+          "Symphytum",
+          "Typha latifolia"
+        ],
+        "label": "<b>K 6. 65. 24</b><br><i>Butomus</i><br><i>Hieracium boreale</i><br><i>Lathyrus palustris</i><br><i>Lemna polyrrhiza</i><br><i>Luzula campestris</i><br><i>Nasturtium officinale</i><br><i>Oenanthe fistulosa</i><br><i>Osmunda</i><br><i>Polystichum Thelypteris</i><br><i>Symphytum</i><br><i>Typha latifolia</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.175669133957413,
+          52.71510022258499
+        ]
+      },
+      "properties": {
+        "location": "K 6. 66. 43",
+        "taxa": [
+          "Butomus",
+          "Cerastium arvense",
+          "Daucus",
+          "Equisetum palustre",
+          "Erysimum Cheiranthoides",
+          "Filago minima",
+          "Lappa minor",
+          "Lychnis vespertina",
+          "Nasturtium palustre",
+          "Pastinaca",
+          "Potamogeton compressus",
+          "Potamogeton compressus",
+          "Potamogeton pusillus",
+          "Rubus caesius",
+          "Salix alba",
+          "Salix amygdalina",
+          "Salix undulata",
+          "Sinapis arvensis",
+          "Symphytum",
+          "Thrincia",
+          "Trifolium fragiferum"
+        ],
+        "label": "<b>K 6. 66. 43</b><br><i>Butomus</i><br><i>Cerastium arvense</i><br><i>Daucus</i><br><i>Equisetum palustre</i><br><i>Erysimum Cheiranthoides</i><br><i>Filago minima</i><br><i>Lappa minor</i><br><i>Lychnis vespertina</i><br><i>Nasturtium palustre</i><br><i>Pastinaca</i><br><i>Potamogeton compressus</i><br><i>Potamogeton compressus</i><br><i>Potamogeton pusillus</i><br><i>Rubus caesius</i><br><i>Salix alba</i><br><i>Salix amygdalina</i><br><i>Salix undulata</i><br><i>Sinapis arvensis</i><br><i>Symphytum</i><br><i>Thrincia</i><br><i>Trifolium fragiferum</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.250940272793775,
+          52.78011178082517
+        ]
+      },
+      "properties": {
+        "location": "K 6. 57. 21",
+        "taxa": [
+          "Calamagrostis Epigeios",
+          "Cerastium arvense",
+          "Daucus",
+          "Erysimum Cheiranthoides",
+          "Eupatorium",
+          "Juncus silvaticus",
+          "Medicago lupulina",
+          "Polygonum nodosum",
+          "Rubus Idaeus",
+          "Rumex maritimus",
+          "Sonchus oleraceus",
+          "Teesdalia",
+          "Torilis Anthriscus"
+        ],
+        "label": "<b>K 6. 57. 21</b><br><i>Calamagrostis Epigeios</i><br><i>Cerastium arvense</i><br><i>Daucus</i><br><i>Erysimum Cheiranthoides</i><br><i>Eupatorium</i><br><i>Juncus silvaticus</i><br><i>Medicago lupulina</i><br><i>Polygonum nodosum</i><br><i>Rubus Idaeus</i><br><i>Rumex maritimus</i><br><i>Sonchus oleraceus</i><br><i>Teesdalia</i><br><i>Torilis Anthriscus</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.212312128268933,
+          52.696129341409176
+        ]
+      },
+      "properties": {
+        "location": "L 6. 17. 13",
+        "taxa": [
+          "Carex acuta",
+          "Carex remota",
+          "Geranium Robertianum",
+          "Geum urbanum",
+          "Lampsana",
+          "Potamogeton compressus",
+          "Rumex sanguineus"
+        ],
+        "label": "<b>L 6. 17. 13</b><br><i>Carex acuta</i><br><i>Carex remota</i><br><i>Geranium Robertianum</i><br><i>Geum urbanum</i><br><i>Lampsana</i><br><i>Potamogeton compressus</i><br><i>Rumex sanguineus</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.138675188748004,
+          52.71533850819618
+        ]
+      },
+      "properties": {
+        "location": "K 6. 66. 33",
+        "taxa": [
+          "Carex acutiformis",
+          "Carex riparia",
+          "Hieracium vulgatum",
+          "Lemna polyrrhiza",
+          "Menyanthes",
+          "Pedicularis silvestris",
+          "Polystichum Thelypteris",
+          "Potamogeton compressus",
+          "Potamogeton obtusifolius",
+          "Trifolium fragiferum",
+          "Typha latifolia"
+        ],
+        "label": "<b>K 6. 66. 33</b><br><i>Carex acutiformis</i><br><i>Carex riparia</i><br><i>Hieracium vulgatum</i><br><i>Lemna polyrrhiza</i><br><i>Menyanthes</i><br><i>Pedicularis silvestris</i><br><i>Polystichum Thelypteris</i><br><i>Potamogeton compressus</i><br><i>Potamogeton obtusifolius</i><br><i>Trifolium fragiferum</i><br><i>Typha latifolia</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.214067960729539,
+          52.789733916177966
+        ]
+      },
+      "properties": {
+        "location": "K 6. 47. 33",
+        "taxa": [
+          "Carex flava",
+          "Carex glauca",
+          "Carex panicea",
+          "Carex pilulifera",
+          "Gentiana Pneumonanthe",
+          "Hieracium vulgatum",
+          "Illecebrum",
+          "Juncus squarrosus",
+          "Juncus supinus",
+          "Scirpus caesius",
+          "Solidago",
+          "Thymus",
+          "Trifolium hybridum"
+        ],
+        "label": "<b>K 6. 47. 33</b><br><i>Carex flava</i><br><i>Carex glauca</i><br><i>Carex panicea</i><br><i>Carex pilulifera</i><br><i>Gentiana Pneumonanthe</i><br><i>Hieracium vulgatum</i><br><i>Illecebrum</i><br><i>Juncus squarrosus</i><br><i>Juncus supinus</i><br><i>Scirpus caesius</i><br><i>Solidago</i><br><i>Thymus</i><br><i>Trifolium hybridum</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.102440030981818,
+          52.76236862397215
+        ]
+      },
+      "properties": {
+        "location": "K 6. 55. 41",
+        "taxa": [
+          "Carex flava",
+          "Carex panicea",
+          "Cirsium anglicum",
+          "Eupatorium",
+          "Juncus silvaticus",
+          "Menyanthes",
+          "Sparganium minimum",
+          "Typha latifolia",
+          "Valeriana dioica"
+        ],
+        "label": "<b>K 6. 55. 41</b><br><i>Carex flava</i><br><i>Carex panicea</i><br><i>Cirsium anglicum</i><br><i>Eupatorium</i><br><i>Juncus silvaticus</i><br><i>Menyanthes</i><br><i>Sparganium minimum</i><br><i>Typha latifolia</i><br><i>Valeriana dioica</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.102136112651165,
+          52.74364736154457
+        ]
+      },
+      "properties": {
+        "location": "K 6. 65. 21",
+        "taxa": [
+          "Carex paniculata",
+          "Lappa minor",
+          "Lathyrus palustris",
+          "Menyanthes",
+          "Oenanthe fistulosa",
+          "Osmunda",
+          "Polystichum Thelypteris",
+          "Potamogeton compressus",
+          "Ranunculus sceleratus",
+          "Thalictrum flavum",
+          "Veronica scutellata"
+        ],
+        "label": "<b>K 6. 65. 21</b><br><i>Carex paniculata</i><br><i>Lappa minor</i><br><i>Lathyrus palustris</i><br><i>Menyanthes</i><br><i>Oenanthe fistulosa</i><br><i>Osmunda</i><br><i>Polystichum Thelypteris</i><br><i>Potamogeton compressus</i><br><i>Ranunculus sceleratus</i><br><i>Thalictrum flavum</i><br><i>Veronica scutellata</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.230442786031997,
+          52.67727909223746
+        ]
+      },
+      "properties": {
+        "location": "L 6. 17. 34",
+        "taxa": [
+          "Carex paniculata",
+          "Carex remota",
+          "Centaurea cyanea",
+          "Convallaria",
+          "Corylus",
+          "Equisetum palustre",
+          "Festuca rubra",
+          "Galeopsis versicolor",
+          "Osmunda",
+          "Populus nigra",
+          "Radiola",
+          "Raphanus Raphanistrum",
+          "Salix amygdalina",
+          "Scrophularia nodosa",
+          "Viburnum Opulus"
+        ],
+        "label": "<b>L 6. 17. 34</b><br><i>Carex paniculata</i><br><i>Carex remota</i><br><i>Centaurea cyanea</i><br><i>Convallaria</i><br><i>Corylus</i><br><i>Equisetum palustre</i><br><i>Festuca rubra</i><br><i>Galeopsis versicolor</i><br><i>Osmunda</i><br><i>Populus nigra</i><br><i>Radiola</i><br><i>Raphanus Raphanistrum</i><br><i>Salix amygdalina</i><br><i>Scrophularia nodosa</i><br><i>Viburnum Opulus</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.231338471704922,
+          52.72408171641987
+        ]
+      },
+      "properties": {
+        "location": "K 6. 67. 32",
+        "taxa": [
+          "Carex remota",
+          "Centaurea cyanea",
+          "Erodium pimpinellifolium",
+          "Galeopsis versicolor",
+          "Lampsana",
+          "Potamogeton pectinatus",
+          "Typha latifolia"
+        ],
+        "label": "<b>K 6. 67. 32</b><br><i>Carex remota</i><br><i>Centaurea cyanea</i><br><i>Erodium pimpinellifolium</i><br><i>Galeopsis versicolor</i><br><i>Lampsana</i><br><i>Potamogeton pectinatus</i><br><i>Typha latifolia</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2311591590881745,
+          52.714721236681164
+        ]
+      },
+      "properties": {
+        "location": "K 6. 67. 34",
+        "taxa": [
+          "Chelidonium",
+          "Lampsana",
+          "Oxalis stricta",
+          "Viburnum Opulus"
+        ],
+        "label": "<b>K 6. 67. 34</b><br><i>Chelidonium</i><br><i>Lampsana</i><br><i>Oxalis stricta</i><br><i>Viburnum Opulus</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.251492204844098,
+          52.80819255342247
+        ]
+      },
+      "properties": {
+        "location": "K 6. 47. 23",
+        "taxa": [
+          "Empetrum",
+          "Gentiana Pneumonanthe",
+          "Gnaphalium dioicum",
+          "Juniperus",
+          "Melampyrum pratense",
+          "Solidago",
+          "Thymus"
+        ],
+        "label": "<b>K 6. 47. 23</b><br><i>Empetrum</i><br><i>Gentiana Pneumonanthe</i><br><i>Gnaphalium dioicum</i><br><i>Juniperus</i><br><i>Melampyrum pratense</i><br><i>Solidago</i><br><i>Thymus</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.341122319178431,
+          52.667084069744426
+        ]
+      },
+      "properties": {
+        "location": "L 6. 28. 22",
+        "taxa": [
+          "Festuca rubra"
+        ],
+        "label": "<b>L 6. 28. 22</b><br><i>Festuca rubra</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.249472417587998,
+          52.70522869333127
+        ]
+      },
+      "properties": {
+        "location": "L 6. 17. 21",
+        "taxa": [
+          "Galeopsis versicolor",
+          "Hedera",
+          "Ilex",
+          "Polypodium",
+          "Senecio viscosum",
+          "Viburnum Opulus",
+          "Viola silvatica"
+        ],
+        "label": "<b>L 6. 17. 21</b><br><i>Galeopsis versicolor</i><br><i>Hedera</i><br><i>Ilex</i><br><i>Polypodium</i><br><i>Senecio viscosum</i><br><i>Viburnum Opulus</i><br><i>Viola silvatica</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.157008765337842,
+          52.70586016323357
+        ]
+      },
+      "properties": {
+        "location": "L 6. 16. 12",
+        "taxa": [
+          "Geum urbanum",
+          "Lappa minor",
+          "Lemna polyrrhiza",
+          "Poa trivialis",
+          "Prunus spinosa",
+          "Rubus nemorosus Hayne",
+          "Salix alba",
+          "Salix undulata",
+          "Scrophularia nodosa",
+          "Sedum purpureum",
+          "Symphytum",
+          "Torilis Anthriscus"
+        ],
+        "label": "<b>L 6. 16. 12</b><br><i>Geum urbanum</i><br><i>Lappa minor</i><br><i>Lemna polyrrhiza</i><br><i>Poa trivialis</i><br><i>Prunus spinosa</i><br><i>Rubus nemorosus Hayne</i><br><i>Salix alba</i><br><i>Salix undulata</i><br><i>Scrophularia nodosa</i><br><i>Sedum purpureum</i><br><i>Symphytum</i><br><i>Torilis Anthriscus</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.230979934275868,
+          52.70536073427007
+        ]
+      },
+      "properties": {
+        "location": "L 6. 17. 12",
+        "taxa": [
+          "Hedera",
+          "Ilex",
+          "Melampyrum pratense",
+          "Polygonatum multiflorum",
+          "Polypodium",
+          "Pteris",
+          "Scrophularia nodosa",
+          "Veronica officinalis"
+        ],
+        "label": "<b>L 6. 17. 12</b><br><i>Hedera</i><br><i>Ilex</i><br><i>Melampyrum pratense</i><br><i>Polygonatum multiflorum</i><br><i>Polypodium</i><br><i>Pteris</i><br><i>Scrophularia nodosa</i><br><i>Veronica officinalis</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1388347775740755,
+          52.724699157209706
+        ]
+      },
+      "properties": {
+        "location": "K 6. 66. 31",
+        "taxa": [
+          "Hieracium vulgatum"
+        ],
+        "label": "<b>K 6. 66. 31</b><br><i>Hieracium vulgatum</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.248923453228882,
+          52.67714715981449
+        ]
+      },
+      "properties": {
+        "location": "L 6. 17. 43",
+        "taxa": [
+          "Hieracium vulgatum",
+          "Juniperus",
+          "Populus nigra"
+        ],
+        "label": "<b>L 6. 17. 43</b><br><i>Hieracium vulgatum</i><br><i>Juniperus</i><br><i>Populus nigra</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.250205625752643,
+          52.74267042154362
+        ]
+      },
+      "properties": {
+        "location": "K 6. 67. 21",
+        "taxa": [
+          "Pedicularis silvestris"
+        ],
+        "label": "<b>K 6. 67. 21</b><br><i>Pedicularis silvestris</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.268339083124604,
+          52.7238146147265
+        ]
+      },
+      "properties": {
+        "location": "K 6. 67. 42",
+        "taxa": [
+          "Pedicularis silvestris"
+        ],
+        "label": "<b>K 6. 67. 42</b><br><i>Pedicularis silvestris</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.23080079720461,
+          52.69600020931018
+        ]
+      },
+      "properties": {
+        "location": "L 6. 17. 14",
+        "taxa": [
+          "Potamogeton compressus",
+          "Ranunculus sceleratus"
+        ],
+        "label": "<b>L 6. 17. 14</b><br><i>Potamogeton compressus</i><br><i>Ranunculus sceleratus</i>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.175501737369329,
+          52.705739616289996
+        ]
+      },
+      "properties": {
+        "location": "L 6. 16. 21",
+        "taxa": [
+          "Rumex maritimus"
+        ],
+        "label": "<b>L 6. 16. 21</b><br><i>Rumex maritimus</i>"
+      }
+    }
+  ]
+}
